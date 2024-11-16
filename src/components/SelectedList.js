@@ -36,7 +36,7 @@ const SelectedList = () => {
           <thead>
             <tr>
               <th>#</th>
-              <th>Nombre</th>
+              <th>Nombres</th>
               <th>Precio</th>
               <th>Cantidad Disponible</th>
               <th>Cantidad Comprada</th>
