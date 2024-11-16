@@ -1,0 +1,62 @@
+.productTableContainer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.productTable {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.productTable th, .productTable td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.productTable th {
+  background-color: #f4f4f4;
+  font-size: 1.2rem;
+}
+
+.productInput {
+  width: 150px;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.productSelectButton {
+  font-size: 1rem;
+  padding: 5px 10px;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.productSelectButton:hover {
+  background-color: #0056b3;
+}
+
+.productTick {
+  color: #28a745;
+  font-size: 1.5rem;
+  font-weight: bold;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
