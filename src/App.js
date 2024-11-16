@@ -9,7 +9,7 @@ import SelectedList from './components/SelectedList';
 const App = () => {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename="/Ines">
         <Routes>
           <Route path="/" element={<Miercoles />} />
           <Route path="/productos" element={<ProductTable />} />

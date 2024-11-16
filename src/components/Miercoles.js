@@ -28,7 +28,7 @@ const Miercoles = () => {
 
       {todayName === 'miércoles' && (
         <div className="miercolesAlert">
-          ¡Hola Inés, hoy es miércoles de compras!
+          ¡Hola Inés, hoy es miércoles de compras!!
         </div>
       )}
 
