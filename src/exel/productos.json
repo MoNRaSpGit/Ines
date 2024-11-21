@@ -1,0 +1,7708 @@
+[
+  {
+    "__EMPTY_1": "Área de intervención: "
+  },
+  {
+    "__EMPTY_1": "Técnico:"
+  },
+  {
+    "__EMPTY_5": "Cantidades"
+  },
+  {
+    "__EMPTY": "N°",
+    "__EMPTY_1": "Clasificación \r\ndel Insumo",
+    "__EMPTY_2": "Código\r\ndel Insumo",
+    "__EMPTY_3": "Nombre\r\ndel insumo",
+    "__EMPTY_4": "Unidad",
+    "__EMPTY_5": "Mes 01",
+    "__EMPTY_6": "Mes 02",
+    "__EMPTY_7": "Observaciones "
+  },
+  {
+    "__EMPTY": "Aberturas"
+  },
+  {
+    "__EMPTY": 1,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.050",
+    "__EMPTY_3": "Cerradura Para Puerta Exterior",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 2,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.054",
+    "__EMPTY_3": "Cerrojo para puerta exterior",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 3,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.107",
+    "__EMPTY_3": "Pasador para puerta Máuser 60mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 4,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.100",
+    "__EMPTY_3": "Pestilo resbalón 3cm para pomo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 5,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.044",
+    "__EMPTY_3": "Picaporte tubular (pomo) c/llavin ",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 6,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.009",
+    "__EMPTY_3": "Pomela 4\" Derecha",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 7,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.010",
+    "__EMPTY_3": "Pomela 4\" Izquierda",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 8,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.122",
+    "__EMPTY_3": "Puerta Fondo Chapa Doble Vidriada Derecha (2,05x0,82mt)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 9,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.126",
+    "__EMPTY_3": "Puerta Fondo Chapa Doble Vidriada Izquierda (2,05x0,82mt)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 10,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.012",
+    "__EMPTY_3": "Puerta Fondo Derecha Madera Vidriada(2,06x0,85mt marco hoja)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 11,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.019",
+    "__EMPTY_3": "Puerta Fondo Izquierda Madera Vidr.(2,06x0,85mt marco hoja)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 3
+  },
+  {
+    "__EMPTY": 12,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.014",
+    "__EMPTY_3": "Puerta Frente Derecha Madera (2,06 x 0,85mt marco y hoja)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 13,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.046",
+    "__EMPTY_3": "Puerta Frente Derecha Madera (2,06 x 0,90mt marco y hoja)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 14,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.121",
+    "__EMPTY_3": "Puerta Frente estandár Chapa Doble Derecha (2,05x0,82mt)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 15,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.125",
+    "__EMPTY_3": "Puerta Frente estandár Chapa Doble Izquierda (2,05x0,82mt)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 1
+  },
+  {
+    "__EMPTY": 16,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.021",
+    "__EMPTY_3": "Puerta Frente Izquierda Madera (2,06 x 0,85mt marco y hoja)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_7": "  "
+  },
+  {
+    "__EMPTY": 17,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.015",
+    "__EMPTY_3": "Puerta Inter. Derecha, Marco 7cm (2,05x0.80mt. hoja y marco)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 18,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.024",
+    "__EMPTY_3": "Puerta Inter. Izquierda, Marco 7cm(2,05x0.80mt.hoja y marco)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 19,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.016",
+    "__EMPTY_3": "Puerta Interior Derecha Madera (2,05x0,75mt marco y hoja)Marco 13cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 20,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.017",
+    "__EMPTY_3": "Puerta Interior Derecha Madera (2,05 x 0,90mt marco y hoja",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 21,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.031",
+    "__EMPTY_3": "Puerta Interior Derecha, Marco 9cm(2.05x0.80mt.hoja y marco)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 22,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.022",
+    "__EMPTY_3": "Puerta Inter. Izquierda Madera, Marco 13Cm (2,05x0,75mt marco y hoja)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 23,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.023",
+    "__EMPTY_3": "Puerta Interior Izquierda Madera (2,06x0,90mt marco y hoja)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_7": " "
+  },
+  {
+    "__EMPTY": 24,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.030",
+    "__EMPTY_3": "Puerta Interior Izquierda, Marco9cm (0.80x2.05mt marco hoja)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 10
+  },
+  {
+    "__EMPTY": 25,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.182",
+    "__EMPTY_3": "Tope De Piso P/Puerta Tortuga Acero Inox.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 26,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.025",
+    "__EMPTY_3": "Ventana De Aluminio 0.60 X 0.40M Corrediza Serie20",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 27,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.026",
+    "__EMPTY_3": "Ventana De Aluminio 0.60 X 0.80M Guillotina Serie20",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 6
+  },
+  {
+    "__EMPTY": 28,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.027",
+    "__EMPTY_3": "Ventana De Aluminio 0.60 X 1.2M Fija Serie20",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 29,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.028",
+    "__EMPTY_3": "Ventana De Aluminio 1.0 X 1.0M Corrediza Serie20",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 30,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.029",
+    "__EMPTY_3": "Ventana De Aluminio 1.2 X 1.2M Corrediza Serie20",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 18
+  },
+  {
+    "__EMPTY": 31,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "311.374",
+    "__EMPTY_3": "Ventana De Aluminio 1.20 X 1.00M Corrediza Serie20",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 32,
+    "__EMPTY_1": "Aberturas",
+    "__EMPTY_2": "221.188",
+    "__EMPTY_3": "Zócalo Aluminio C/Goma P/Puerta 80Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Aditivos y Sellantes"
+  },
+  {
+    "__EMPTY": 33,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.019",
+    "__EMPTY_3": "Aceite 3 En 1 190Ml",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 34,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.001",
+    "__EMPTY_3": "Aceite De Linaza 1Lt",
+    "__EMPTY_4": "Lt."
+  },
+  {
+    "__EMPTY": 35,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.002",
+    "__EMPTY_3": "Aceite Lubricante En Spray",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 36,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "332.004",
+    "__EMPTY_3": "Acelerante De Fraguado 10 Litros",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 37,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "332.005",
+    "__EMPTY_3": "Acelerante De Fraguado 200 Litros",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 38,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "374.130",
+    "__EMPTY_3": "Anclaje químico VE280 280ml",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 39,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "313.002",
+    "__EMPTY_3": "Antióxido 3.6 Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 40,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "211.034",
+    "__EMPTY_3": "Diluyente Mineral (Aguarras) envase 1 Lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 41,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "210.016",
+    "__EMPTY_3": "Enduido, 20kg",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 10,
+    "__EMPTY_7": "para interior, chequear el codigo es el que dic + masilla"
+  },
+  {
+    "__EMPTY": 42,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "341.005",
+    "__EMPTY_3": "Hidrofugo 20 Litros",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 43,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "341.004",
+    "__EMPTY_3": "Hidrófugo 200 Litros",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 44,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.017",
+    "__EMPTY_3": "Sika AnchorFix-1 300Cc",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 45,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.011",
+    "__EMPTY_3": "Sika Cryl 5Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 46,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.012",
+    "__EMPTY_3": "Sika Dur 31A+B 1Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 47,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.025",
+    "__EMPTY_3": "Sika Dur 32 Gel 1Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 48,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.021",
+    "__EMPTY_3": "Sika Flex Blanco 300Ml 221",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 49,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.013",
+    "__EMPTY_3": "Sika Flex Gris 300Ml 221",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 50,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "331.031",
+    "__EMPTY_3": "Sikatop Seal 107 x 25Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 51,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "211.147",
+    "__EMPTY_3": "Silicona Ácida Cartucho 300Ml",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 52,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "374.120",
+    "__EMPTY_3": "Silicona Neutra Cartucho 300Ml",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 53,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "374.158",
+    "__EMPTY_3": "Silicona Neutra Catucho Color Blanca 300Ml",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 54,
+    "__EMPTY_1": "Aditivos y Sellantes",
+    "__EMPTY_2": "211.150",
+    "__EMPTY_3": "Thinner 1lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Aglomerantes"
+  },
+  {
+    "__EMPTY": 55,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "332.020",
+    "__EMPTY_3": "Cal Hidratada En Bolsa 20KG",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 56,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "332.006",
+    "__EMPTY_3": "Cal Para Pintar En Bolsa 8Kg.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 57,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "332.007",
+    "__EMPTY_3": "Cemento Para Albañilería X20Kg.",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 40
+  },
+  {
+    "__EMPTY": 58,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "332.008",
+    "__EMPTY_3": "Cemento Portland X25Kg.",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 480,
+    "__EMPTY_6": 320
+  },
+  {
+    "__EMPTY": 59,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "332.023",
+    "__EMPTY_3": "Revoque Monocapa Interior 2 en 1 x25Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 60,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "332.019",
+    "__EMPTY_3": "Revoque Monocapa Exterior 3 en 1 x25Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 61,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "332.022",
+    "__EMPTY_3": "Revoque Cementicio Base Coat x25Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 62,
+    "__EMPTY_1": "Aglomerantes",
+    "__EMPTY_2": "331.032",
+    "__EMPTY_3": "Sika Top Modul 5 Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Aislantes"
+  },
+  {
+    "__EMPTY": 63,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "341.006",
+    "__EMPTY_3": "Lana De Vidrio 21.60M2  e=5Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 64,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "211.333",
+    "__EMPTY_3": "Malla Geotextil Rollo 1 x 10mt",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 65,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "341.009",
+    "__EMPTY_3": "Membrana Asfaltica Con Aluminio 4Mm 10m2.",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_5": 4
+  },
+  {
+    "__EMPTY": 66,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "341.017",
+    "__EMPTY_3": "Membrana autoadhesiva ancho 20cm x10mt",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 67,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "341.010",
+    "__EMPTY_3": "Nylon Tubular 200 Micrones (25 Kg)",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_5": 3
+  },
+  {
+    "__EMPTY": 68,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "341.014",
+    "__EMPTY_3": "Plancha De Espuma De Poliestireno 3Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 69,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "341.031",
+    "__EMPTY_3": "Plancha Esp. De Poliestireno 5Cm Alta Dens. 10-50Kg/m3",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 70,
+    "__EMPTY_1": "Aislantes",
+    "__EMPTY_2": "341.015",
+    "__EMPTY_3": "Poliuretano Expandido En Spray 750Cc",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Áridos"
+  },
+  {
+    "__EMPTY": 71,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.001",
+    "__EMPTY_3": "Arena Fina",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": 72,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.015",
+    "__EMPTY_3": "Arena Fina En Bolsa",
+    "__EMPTY_4": "Bolsa"
+  },
+  {
+    "__EMPTY": 73,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.002",
+    "__EMPTY_3": "Arena Gruesa",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": 74,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.021",
+    "__EMPTY_3": "Arena Gruesa En Bolsa",
+    "__EMPTY_4": "Bolsa"
+  },
+  {
+    "__EMPTY": 75,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.003",
+    "__EMPTY_3": "Arena Sucia",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": 76,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.004",
+    "__EMPTY_3": "Arena Terciada",
+    "__EMPTY_4": "M3",
+    "__EMPTY_5": 25,
+    "__EMPTY_6": 25
+  },
+  {
+    "__EMPTY": 77,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.016",
+    "__EMPTY_3": "Arena Terciada En Bolsa",
+    "__EMPTY_4": "Bolsa"
+  },
+  {
+    "__EMPTY": 78,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.005",
+    "__EMPTY_3": "Balasto Natural",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": 79,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.013",
+    "__EMPTY_3": "Canto Rodado",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": 80,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.010",
+    "__EMPTY_3": "Destape de Cantera",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": 81,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.006",
+    "__EMPTY_3": "Gravillin",
+    "__EMPTY_4": "M3",
+    "__EMPTY_5": 15,
+    "__EMPTY_6": 15
+  },
+  {
+    "__EMPTY": 82,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.007",
+    "__EMPTY_3": "Pedregullo",
+    "__EMPTY_4": "M3",
+    "__EMPTY_5": 20,
+    "__EMPTY_6": 20
+  },
+  {
+    "__EMPTY": 83,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.018",
+    "__EMPTY_3": "Pedregullo En Bolsa",
+    "__EMPTY_4": "Bolsa"
+  },
+  {
+    "__EMPTY": 84,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.011",
+    "__EMPTY_3": "Piedra Partida Azul Ø2cm Máx.",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": 85,
+    "__EMPTY_1": "Áridos",
+    "__EMPTY_2": "351.008",
+    "__EMPTY_3": "Tosca gruesa (libre de tierra negra)",
+    "__EMPTY_4": "M3"
+  },
+  {
+    "__EMPTY": "Artefactos"
+  },
+  {
+    "__EMPTY": 86,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "314.203",
+    "__EMPTY_3": "Mueble Bajo Mesada 2 Puertas Estante DERECHA P/Mesada 1.20Mt (según detalle)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 4
+  },
+  {
+    "__EMPTY": 87,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "314.204",
+    "__EMPTY_3": "Mueble Bajo Mesada 2 Puertas Estante IZQUIERDO P/Mesada 1.20Mt (según detalle)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 3
+  },
+  {
+    "__EMPTY": 88,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "314.205",
+    "__EMPTY_3": "Mueble Bajo Mesada 2 Puertas Estante DERECHA P/Mesada 1.10Mt (según detalle)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 89,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "314.206",
+    "__EMPTY_3": "Mueble Bajo Mesada 2 Puertas Estante IZQUIERDO P/Mesada 1.10Mt (según detalle)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 90,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "347.013",
+    "__EMPTY_3": "Cisterna Con Bajada Pvc",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 91,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "342.001",
+    "__EMPTY_3": "Cisterna Mochila",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 7
+  },
+  {
+    "__EMPTY": 92,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "342.011",
+    "__EMPTY_3": "Inodoro Accesible C/Mochila Y Pulsador",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 93,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "342.003",
+    "__EMPTY_3": "Inodoro Para Cisterna Mochila",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 7
+  },
+  {
+    "__EMPTY": 94,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "342.200",
+    "__EMPTY_3": "Inodoro Para Cisterna Pared",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 95,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "342.004",
+    "__EMPTY_3": "Lavatorio",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 6
+  },
+  {
+    "__EMPTY": 96,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "342.012",
+    "__EMPTY_3": "Lavatorio Accesible",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 97,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "344.037",
+    "__EMPTY_3": "Mesada 1.2X0,55M C/Pileta Central Granito Entera c/perforación",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 3
+  },
+  {
+    "__EMPTY": 98,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "344.089",
+    "__EMPTY_3": "Mesada 1.2X0,55M C/Pileta Derecha Granito Entera c/perforación",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 4
+  },
+  {
+    "__EMPTY": 99,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "344.090",
+    "__EMPTY_3": "Mesada 1.2X0,55M C/Pileta Izquierda Granito Entera c/perforación",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 100,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "344.106",
+    "__EMPTY_3": "Mesada 1.10X0,55M C/Pileta Derecha Granito Entera c/perforación C/Válvula",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 101,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "344.107",
+    "__EMPTY_3": "Mesada 1.10X0,55M C/Pileta Izquierda Granito Entera c/perforación C/Válvula",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 102,
+    "__EMPTY_1": "Artefactos",
+    "__EMPTY_2": "342.006",
+    "__EMPTY_3": "Pie De Lavatorio",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 6
+  },
+  {
+    "__EMPTY": "Botiquín De Obra"
+  },
+  {
+    "__EMPTY": 103,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "312.201",
+    "__EMPTY_3": "Alcohol Líquido Al 70% (x litro)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 104,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.064",
+    "__EMPTY_3": "Apósitos Esteriles",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 105,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.109",
+    "__EMPTY_3": "Botiquín Vacio (para primeros auxilios)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 106,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.047",
+    "__EMPTY_3": "Cinta Leuco Tela",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 107,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.040",
+    "__EMPTY_3": "Gasa Esteril x40 Trozos Paq.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 108,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.117",
+    "__EMPTY_3": "Guante Descartable Caja x100 Un.",
+    "__EMPTY_4": "Caja"
+  },
+  {
+    "__EMPTY": 109,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.044",
+    "__EMPTY_3": "Jabon Neutro En Barra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 110,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.065",
+    "__EMPTY_3": "Tapa Boca Descartable Caja x50Un",
+    "__EMPTY_4": "Caja"
+  },
+  {
+    "__EMPTY": 111,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.231",
+    "__EMPTY_3": "Tapa Boca Rígido N95",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 112,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "312.088",
+    "__EMPTY_3": "Tijera 21Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 113,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.037",
+    "__EMPTY_3": "Venda de Gasa 10cmx3mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 114,
+    "__EMPTY_1": "Botiquín De Obra",
+    "__EMPTY_2": "212.039",
+    "__EMPTY_3": "Yodofon X100ml",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Cerámica"
+  },
+  {
+    "__EMPTY": 115,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "211.144",
+    "__EMPTY_3": "Adhesivo Impermeable 25kg",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 120
+  },
+  {
+    "__EMPTY": 116,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "314.113",
+    "__EMPTY_3": "Azulejo Juntos 20x20Cm 2 Tintas",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 9
+  },
+  {
+    "__EMPTY": 117,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "371.081",
+    "__EMPTY_3": "Juntacruz 1Mm x100 Un.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 118,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "371.084",
+    "__EMPTY_3": "Juntacruz 2Mm x100 Un.",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 4
+  },
+  {
+    "__EMPTY": 119,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "371.082",
+    "__EMPTY_3": "Juntacruz 3Mm x100 Un.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 120,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "331.023",
+    "__EMPTY_3": "Pastina Color Blanco 1 Kg.",
+    "__EMPTY_4": "Kg."
+  },
+  {
+    "__EMPTY": 121,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "331.029",
+    "__EMPTY_3": "Pastina Color Gris 1 Kg.",
+    "__EMPTY_4": "Kg."
+  },
+  {
+    "__EMPTY": 122,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "314.030",
+    "__EMPTY_3": "Revestimiento Cerámico P/Pared Blanco M2 30X60Cm",
+    "__EMPTY_4": "M2",
+    "__EMPTY_5": 190
+  },
+  {
+    "__EMPTY": 123,
+    "__EMPTY_1": "Cerámica",
+    "__EMPTY_2": "314.086",
+    "__EMPTY_3": "Revestimiento Cerámico P/Piso Gris M2 60x60Cm",
+    "__EMPTY_4": "M2",
+    "__EMPTY_5": 411
+  },
+  {
+    "__EMPTY": "Eléctrica"
+  },
+  {
+    "__EMPTY": 124,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.002",
+    "__EMPTY_3": "Alambre De Cobre Forrado Superplástico 2X2Mm2 (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 125,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "321.094",
+    "__EMPTY_3": "Alambre De Cobre Forrado Superplástico 2X4Mm2  (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 126,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.003",
+    "__EMPTY_3": "Alambre De Cobre Forrado Superplástico 2X6Mm2  (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 127,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.004",
+    "__EMPTY_3": "Alambre De Cobre Forrado Superplástico 3X1Mm2  (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 128,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.005",
+    "__EMPTY_3": "Alambre De Cobre Forrado Superplástico 3X2Mm2  (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 129,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.007",
+    "__EMPTY_3": "Alambre De Cobre Forrado Superplástico 3X6Mm2  (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 130,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "221.311",
+    "__EMPTY_3": "Apretacable 3mm 1/8",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 131,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.168",
+    "__EMPTY_3": "Artefacto Tortuga Ovalada 190 x 105 x 72 mm (chico)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 20
+  },
+  {
+    "__EMPTY": 132,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.223",
+    "__EMPTY_3": "Barra Distribución 63A 1Mt (2 Polos, Peine)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 133,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.127",
+    "__EMPTY_3": "Bornera p/ tablero tierra 10mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 134,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.010",
+    "__EMPTY_3": "Cable Bajo Goma 2X6Mm2  (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 135,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.012",
+    "__EMPTY_3": "Cable Bajo Goma 3X1Mm2 (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 136,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.013",
+    "__EMPTY_3": "Cable Bajo Goma 3X2Mm2 (rollo 100mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 137,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.020",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 1Mm2 Blanco",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_5": 4
+  },
+  {
+    "__EMPTY": 138,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.021",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 1Mm2 Celeste",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 139,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.022",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 1Mm2 Rojo",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 140,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.023",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 1Mm2 Verde/Amarillo",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 141,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.024",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 2Mm2 Blanco",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_5": 10
+  },
+  {
+    "__EMPTY": 142,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.025",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 2Mm2 Celeste",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 143,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.026",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 2Mm2 Rojo",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 144,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.027",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 2Mm2 Verde/Amarillo",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_5": 9
+  },
+  {
+    "__EMPTY": 145,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.031",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 4Mm2 Verde/Amarillo",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_5": 2,
+    "__EMPTY_7": "de ser posible de dos colores diferentes ( 1 rollo de cada color)"
+  },
+  {
+    "__EMPTY": 146,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.032",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 6Mm2 Blanco U46",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 147,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.033",
+    "__EMPTY_3": "Cable Multifilar Con Aislación Pvc 6Mm2 Celeste",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 148,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.034",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 6Mm2 Rojo U46",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 149,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "372.035",
+    "__EMPTY_3": "Cable Multifilar Con Aislacion Pvc 6Mm2 Verde/Amarillo",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 150,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.050",
+    "__EMPTY_3": "Caja De Embutir Para Inst. Electrica P/Yeso (10X5) Estructural C/ Solapas",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 100
+  },
+  {
+    "__EMPTY": 151,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.102",
+    "__EMPTY_3": "Caja De Embutir Para Inst. Electrica P/Yeso (5X5)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 30
+  },
+  {
+    "__EMPTY": 152,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.006",
+    "__EMPTY_3": "Caja De Embutir Para Instalacion Electrica Brazo (5X5)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 80
+  },
+  {
+    "__EMPTY": 153,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.007",
+    "__EMPTY_3": "Caja De Embutir Para Instalacion Electrica Centro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 154,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.005",
+    "__EMPTY_3": "Caja De Embutir Para Instalacion Electrica Honda (10X5)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 155,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.054",
+    "__EMPTY_3": "Caja estanco 10x10",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 156,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.053",
+    "__EMPTY_3": "Caja estanco 15x20 tapa transparente 1 modulo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 157,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.017",
+    "__EMPTY_3": "Caja Estanco P/ Interruptor Precintable C/Riel Din",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 158,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.009",
+    "__EMPTY_3": "Caja Exterior Para Modulos (1Modulo) Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 159,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.010",
+    "__EMPTY_3": "Caja Exterior Para Modulos (2Modulos) Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 160,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.011",
+    "__EMPTY_3": "Caja Exterior Para Módulos (3Modulos) Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 161,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.018",
+    "__EMPTY_3": "Cajon De Policarbonato P/Medidor Monofásico C/Llave",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 1
+  },
+  {
+    "__EMPTY": 162,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.194",
+    "__EMPTY_3": "Caño Corrugado 20Mm Inst. Eléct. (50Mt) Antillama",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_5": 10
+  },
+  {
+    "__EMPTY": 163,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.020",
+    "__EMPTY_3": "Caño Corrugado 20Mm Para Instalaciones Electricas (50mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 164,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.195",
+    "__EMPTY_3": "Caño Corrugado 25Mm Inst. Eléct. (50Mt) Antillama",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 165,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.021",
+    "__EMPTY_3": "Caño Corrugado 25Mm Para Instalaciones Electricas (50mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 166,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.022",
+    "__EMPTY_3": "Caño Corrugado 32Mm Para Instalaciones Electricas (50mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 167,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.012",
+    "__EMPTY_3": "Conector Para Jabalina",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 168,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.013",
+    "__EMPTY_3": "Cupla 20Mm Para Caño Pvc Corrugado",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 169,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.014",
+    "__EMPTY_3": "Cupla 25Mm Para Caño Pvc Corrugado",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 170,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.015",
+    "__EMPTY_3": "Cupla 32Mm Para Caño Pvc Corrugado",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 171,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.017",
+    "__EMPTY_3": "Ducto Pvc 100Mmx50Mm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 172,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.076",
+    "__EMPTY_3": "Ducto Pvc 10Mmx40Mm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 173,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.018",
+    "__EMPTY_3": "Ducto Pvc 20Mmx10Mm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 174,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.077",
+    "__EMPTY_3": "Ducto Pvc 20Mmx15Mm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 175,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.019",
+    "__EMPTY_3": "Ducto Pvc 20Mmx20Mm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 176,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.020",
+    "__EMPTY_3": "Ducto Pvc 20Mmx40Mm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 177,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.063",
+    "__EMPTY_3": "Ducto PVC 25x25cm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 178,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.064",
+    "__EMPTY_3": "Ducto PVC 30x25cm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 179,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.078",
+    "__EMPTY_3": "Ducto Pvc 40Mmx16Mm largo 2mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 180,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.021",
+    "__EMPTY_3": "Ficha 3 En Línea Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 181,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.022",
+    "__EMPTY_3": "Ficha 3 En Línea Macho",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 182,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.024",
+    "__EMPTY_3": "Ficha Tipo Schuko Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 183,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.025",
+    "__EMPTY_3": "Ficha Tipo Schuko Macho",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 184,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.251",
+    "__EMPTY_3": "Foco Reflector LED 100W IP66 Luz Fría",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 185,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.252",
+    "__EMPTY_3": "Foco Reflector LED 50W C/Sensor De Movimiento",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 186,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.126",
+    "__EMPTY_3": "Fotocélula",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 187,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.032",
+    "__EMPTY_3": "Interruptor 10A Termomagnético Monofásico Bipolar",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 10
+  },
+  {
+    "__EMPTY": 188,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.033",
+    "__EMPTY_3": "Interruptor 16A Termomagnetico Monofásico Bipolar",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 30
+  },
+  {
+    "__EMPTY": 189,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.036",
+    "__EMPTY_3": "Interruptor 25A Diferencial Monofasico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 190,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.037",
+    "__EMPTY_3": "Interruptor 25A Termomagnetico Monofásico Bipolar",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 191,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.040",
+    "__EMPTY_3": "Interruptor 32A Termomagnetico Monofásico Bipolar",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 192,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.042",
+    "__EMPTY_3": "Interruptor 40A Diferencial Monofasico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 193,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.052",
+    "__EMPTY_3": "Interruptor Bipolar De Embutir Blanco",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 80
+  },
+  {
+    "__EMPTY": 194,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.069",
+    "__EMPTY_3": "Interruptor De Combinación Unipolar Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 195,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.054",
+    "__EMPTY_3": "Interruptor Unipolar Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 196,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.055",
+    "__EMPTY_3": "Interruptor Unipolar Exterior Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 197,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.056",
+    "__EMPTY_3": "Jabalina de 2Mts con conector homologada Ø14mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 198,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.065",
+    "__EMPTY_3": "Lámpara LED 7W Espiral Cálida",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 199,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.120",
+    "__EMPTY_3": "Lampara LED 10W",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 80
+  },
+  {
+    "__EMPTY": 200,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.030",
+    "__EMPTY_3": "Modulo Ciego Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 201,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.031",
+    "__EMPTY_3": "Plaqueta Ciega Blanco",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 12
+  },
+  {
+    "__EMPTY": 202,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.032",
+    "__EMPTY_3": "Plaqueta De 1 Modulo Blanco",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 30
+  },
+  {
+    "__EMPTY": 203,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.033",
+    "__EMPTY_3": "Plaqueta De 2 Modulo Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 204,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.034",
+    "__EMPTY_3": "Plaqueta De 2 Modulo Separados Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 205,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.035",
+    "__EMPTY_3": "Plaqueta De 3 Modulo Blanco",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 60
+  },
+  {
+    "__EMPTY": 206,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.127",
+    "__EMPTY_3": "Portalámpara De Colgar Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 207,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.036",
+    "__EMPTY_3": "Portalámpara De Colgar Negro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 208,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.038",
+    "__EMPTY_3": "Receptaculo Curvo Blanco/Marfil",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 50
+  },
+  {
+    "__EMPTY": 209,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.039",
+    "__EMPTY_3": "Receptaculo Recto Blanco/Marfil (Portalampara C/Recep)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 210,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.040",
+    "__EMPTY_3": "Regleta De Union 10Mm2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 211,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.041",
+    "__EMPTY_3": "Regleta de unión 12mm2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 212,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.044",
+    "__EMPTY_3": "Regleta De Union 2Mm2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 213,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.045",
+    "__EMPTY_3": "Regleta De Union 4Mm2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 214,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.046",
+    "__EMPTY_3": "Regleta De Union 6Mm2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 215,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.047",
+    "__EMPTY_3": "Regleta De Union 8Mm2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 216,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.201",
+    "__EMPTY_3": "Soporte De Chapa P/ Cajon De Policarbonato",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 30
+  },
+  {
+    "__EMPTY": 217,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.080",
+    "__EMPTY_3": "Tablero 12 Módulos De Embutir c/bornera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 218,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.082",
+    "__EMPTY_3": "Tablero 12 Módulos Exterior c/bornera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 219,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.087",
+    "__EMPTY_3": "Tablero 24 Módulos De Embutir c/bornera",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 6
+  },
+  {
+    "__EMPTY": 220,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.089",
+    "__EMPTY_3": "Tablero 24 Módulos Exterior c/bornera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 221,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.049",
+    "__EMPTY_3": "Tapa Centro Para Caja De Inst Electrica Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 222,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.075",
+    "__EMPTY_3": "Tapa Ciega Para Caja De Inst. Electrica (10X5) Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 223,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "371.048",
+    "__EMPTY_3": "Tapa Ciega Para Caja De Inst. Electrica (5X5) Blanco",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 80
+  },
+  {
+    "__EMPTY": 224,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.235",
+    "__EMPTY_3": "Tensor Plástico Para Acometida (Cable)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 225,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.074",
+    "__EMPTY_3": "Tomacorriente 3 En Linea Blanco",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 50
+  },
+  {
+    "__EMPTY": 226,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.192",
+    "__EMPTY_3": "Tomacorriente Exterior Schuko Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 227,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.075",
+    "__EMPTY_3": "Tomacorriente Schuko Blanco",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 40
+  },
+  {
+    "__EMPTY": 228,
+    "__EMPTY_1": "Eléctrica",
+    "__EMPTY_2": "374.242",
+    "__EMPTY_3": "Unión Estanco Tipo Tubo-Caja 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Equipos"
+  },
+  {
+    "__EMPTY": 229,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "242.017",
+    "__EMPTY_3": "Estufa Halógena 3 Tubos",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 230,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "241.007",
+    "__EMPTY_3": "Frigobar",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 231,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "241.005",
+    "__EMPTY_3": "Heladera 220Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 232,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "242.016",
+    "__EMPTY_3": "Jarra eléctrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 233,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "241.006",
+    "__EMPTY_3": "Microondas 17Lts.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 234,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "241.048",
+    "__EMPTY_3": "Termotanque 60Lt Eficiencia Energ. A (UTE)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 235,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "241.013",
+    "__EMPTY_3": "Termotanque 40 lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 236,
+    "__EMPTY_1": "Equipos",
+    "__EMPTY_2": "242.014",
+    "__EMPTY_3": "Ventilador de pie C/Aspas Metálicas",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Fijaciones"
+  },
+  {
+    "__EMPTY": 237,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.003",
+    "__EMPTY_3": "Abrazadera plástica 3,5x200mm (x100un.)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 238,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.005",
+    "__EMPTY_3": "Abrazadera Plastica 5.0X200Mm (x100 un.)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 239,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.121",
+    "__EMPTY_3": "Abrazadera Plastica 5X300Mm (x100 un.)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 240,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.123",
+    "__EMPTY_3": "Abrazadera Plastica 5X400Mm (x100 un.)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 241,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.006",
+    "__EMPTY_3": "Abrazaderas De Metal De 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 242,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.007",
+    "__EMPTY_3": "Abrazaderas De Metal De 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 243,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.001",
+    "__EMPTY_3": "Alambre 10  (rollo 25kg)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 244,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.002",
+    "__EMPTY_3": "Alambre 12  (rollo 25kg)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 245,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.003",
+    "__EMPTY_3": "Alambre 14   (rollo 25kg)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 246,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.004",
+    "__EMPTY_3": "Alambre 16   (rollo 25kg)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 247,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.005",
+    "__EMPTY_3": "Alambre 18  (rollo 25kg)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 248,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.006",
+    "__EMPTY_3": "Alambre Galvanizado 12   (rollo 25kg)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 249,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.007",
+    "__EMPTY_3": "Alambre Galvanizado 14  (rollo 25kg)",
+    "__EMPTY_4": "Rollo",
+    "__EMPTY_6": 1
+  },
+  {
+    "__EMPTY": 250,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.107",
+    "__EMPTY_3": "Arandela plana 1/4",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 251,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.011",
+    "__EMPTY_3": "Arandela Plana 5/16",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 252,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.099",
+    "__EMPTY_3": "Arandela plana reforzada 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 253,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.025",
+    "__EMPTY_3": "Arandela Reforzada 3/8",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 254,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "311.003",
+    "__EMPTY_3": "Bisagra 3 x 2 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 255,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.299",
+    "__EMPTY_3": "Bulon (6mm) 1/4\" x 2 1/2\" cabeza redonda, cuello cuadrado",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 256,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.378",
+    "__EMPTY_3": "Bulón (6mm) 1/4\" x 2\" con tuerca",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 257,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.369",
+    "__EMPTY_3": "Bulon (9,50mm) 3/8\" x 2 1/2\" cabeza hexagonal",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 258,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.234",
+    "__EMPTY_3": "Clavo De Acero 2\" 1/2  para pistola de clavos",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 259,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.035",
+    "__EMPTY_3": "Clavo De Acero 2\" para pistola de clavos",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 260,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.036",
+    "__EMPTY_3": "Clavo J P/Techo 6Cm Completo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 261,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.037",
+    "__EMPTY_3": "Clavo J P/Techo 9Cm Completo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 262,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.038",
+    "__EMPTY_3": "Clavo Para Techo Con Gomitas",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 263,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.241",
+    "__EMPTY_3": "Clavos 1”  (Kg)",
+    "__EMPTY_4": "kg."
+  },
+  {
+    "__EMPTY": 264,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.039",
+    "__EMPTY_3": "Clavos 2 ½”  (Kg)",
+    "__EMPTY_4": "kg."
+  },
+  {
+    "__EMPTY": 265,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.040",
+    "__EMPTY_3": "Clavos 2”  (Kg)",
+    "__EMPTY_4": "kg."
+  },
+  {
+    "__EMPTY": 266,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.041",
+    "__EMPTY_3": "Clavos 3”  (Kg)",
+    "__EMPTY_4": "kg."
+  },
+  {
+    "__EMPTY": 267,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.042",
+    "__EMPTY_3": "Clavos 4”  (Kg)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 268,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.029",
+    "__EMPTY_3": "Fleje Acero Inox. 19Mm x30Mt P/Eléctrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 269,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "371.142",
+    "__EMPTY_3": "Fleje de plástico 19mm x30mt.",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 270,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.314",
+    "__EMPTY_3": "Gancho P/Techo 1/4\" x 20cm largo completo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 271,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "371.029",
+    "__EMPTY_3": "Hebilla Para Fleje de plástico de 19 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 272,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "371.069",
+    "__EMPTY_3": "Hebilla para fleje metálico 19mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 273,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.183",
+    "__EMPTY_3": "Taco autoexpansible metálico 3/8\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 274,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.101",
+    "__EMPTY_3": "Taco Fisher 10Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 275,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.102",
+    "__EMPTY_3": "Taco Fisher 10Mm P/Bloque",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 276,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.103",
+    "__EMPTY_3": "Taco Fisher 12Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 277,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.105",
+    "__EMPTY_3": "Taco Fisher 6Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 278,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.106",
+    "__EMPTY_3": "Taco Fisher 6Mm P/Bloque",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 279,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.107",
+    "__EMPTY_3": "Taco Fisher 8Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 280,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.163",
+    "__EMPTY_3": "Taco Fisher 8Mm P/Bloque",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 281,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "374.166",
+    "__EMPTY_3": "Taco Fisher 8Mm P/Yeso",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 282,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.319",
+    "__EMPTY_3": "Taco Metálico de Expansión 8Mm Camisa Larga de 90mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 5
+  },
+  {
+    "__EMPTY": 283,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.298",
+    "__EMPTY_3": "Tensor para alambre 10mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 284,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.369",
+    "__EMPTY_3": "Tirafondo ((1/4\") X 2 1/2\")",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 285,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.256",
+    "__EMPTY_3": "Tirafondo (5/16\" x 2 1/2\")",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 286,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.255",
+    "__EMPTY_3": "Tirafondo (5/16\" X 2\")",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 287,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.056",
+    "__EMPTY_3": "Tirafondo (6Mm (1/4\") x 4\")",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 288,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.244",
+    "__EMPTY_3": "Tornillo 2,3x30",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 289,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.170",
+    "__EMPTY_3": "Tornillo 4 x 35-50 (Para taco de 6mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 290,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.239",
+    "__EMPTY_3": "Tornillo 4.5x50",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 291,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.287",
+    "__EMPTY_3": "Tornillo 4x30 Pozy Drive",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 292,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.327",
+    "__EMPTY_3": "Tornillo 4x40 cabeza hexagonal Punta Mecha c/ Goma",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 293,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.286",
+    "__EMPTY_3": "Tornillo 4x50 Pozy Drive",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 294,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.173",
+    "__EMPTY_3": "Tornillo 5 x 35-50 (Para taco de 8mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 295,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.317",
+    "__EMPTY_3": "Tornillo 5x70",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 296,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.176",
+    "__EMPTY_3": "Tornillo 6 x 35-50 (Para taco de 10mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 297,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.397",
+    "__EMPTY_3": "Tornillo Autorrosc. Cabeza Hexagonal 3/8\" De 3,5\" de largo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 298,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.396",
+    "__EMPTY_3": "Tornillo Cab. Hexag. Punta Mecha 10x3/4-4.8x19mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 299,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.313",
+    "__EMPTY_3": "Tornillo cabeza hexagonal punta mecha 1\" c/ goma",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 300,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.237",
+    "__EMPTY_3": "Tornillo Cabeza Plana 3Cm Para Plaqueta",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 301,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.236",
+    "__EMPTY_3": "Tornillo Cabeza Plana 5Cm Para Plaqueta",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 302,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.300",
+    "__EMPTY_3": "Tornillo T1 Punta Aguja 8x1/2 - 4.2x14mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 303,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.078",
+    "__EMPTY_3": "Tornillo T1 Punta Mecha 8x1/2-4.2x14mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 304,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.079",
+    "__EMPTY_3": "Tornillo T2 Punta Aguja 6x1-3.5x25mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 305,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.398",
+    "__EMPTY_3": "Tornillo T2 Punta Mecha 6x1-3.5x25mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 306,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.189",
+    "__EMPTY_3": "Tornillo T3 Punta Aguja 6x1-3.5x38mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 307,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "221.332",
+    "__EMPTY_3": "Tornillo T3 Punta Mecha 6x1-3.5x38mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 308,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.152",
+    "__EMPTY_3": "Tuerca 1/2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 309,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.153",
+    "__EMPTY_3": "Tuerca 1/4",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 310,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.150",
+    "__EMPTY_3": "Tuerca 1/4 Zincada",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 311,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.337",
+    "__EMPTY_3": "Tuerca 1/8",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 312,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.154",
+    "__EMPTY_3": "Tuerca 3/16",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 313,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.290",
+    "__EMPTY_3": "Tuerca 3/4",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 314,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.155",
+    "__EMPTY_3": "Tuerca 3/8",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 315,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.156",
+    "__EMPTY_3": "Tuerca 5/16",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 316,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "211.291",
+    "__EMPTY_3": "Tuerca 5/8",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 317,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.219",
+    "__EMPTY_3": "Varilla 1/4\" C/Rosca 9cm x 20cm largo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 318,
+    "__EMPTY_1": "Fijaciones",
+    "__EMPTY_2": "321.114",
+    "__EMPTY_3": "Varilla roscada 3/8",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Grifería y Varios"
+  },
+  {
+    "__EMPTY": 319,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.001",
+    "__EMPTY_3": "Aro Base Inodoro",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 6
+  },
+  {
+    "__EMPTY": 320,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.093",
+    "__EMPTY_3": "Asiento Rebatible Para Ducha Accesible Acero Inox.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 321,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.105",
+    "__EMPTY_3": "Asiento y Tapa Para Inodoro Accesible C/ Agujero Frontal",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 322,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.108",
+    "__EMPTY_3": "Barra L P/ Baño Accesible Derecha 90 cm Acero Inox.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 323,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "321.288",
+    "__EMPTY_3": "Barra P/ Baño Accesible 50Cm Acero Inox.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 324,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.107",
+    "__EMPTY_3": "Barra Rebatible C/Portarrollo Baño Accesible 80Cm Acero Inox",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 325,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.098",
+    "__EMPTY_3": "Barrote Métalico Extens. P/Cortina Ducha 110-200 cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 326,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.111",
+    "__EMPTY_3": "Botiquin C/Espejo PVC Blanco Exterior 40x28 cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 327,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "346.001",
+    "__EMPTY_3": "Cañamo (100Gr)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 328,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.060",
+    "__EMPTY_3": "Colilla 1/2\" 35Cm Para Monocomando",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 329,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.050",
+    "__EMPTY_3": "Colilla 1/2\" 40Cm Para Monocomando",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 330,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.002",
+    "__EMPTY_3": "Colilla H/H 1/2\" 20Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 331,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.004",
+    "__EMPTY_3": "Colilla H/H 1/2\" 30Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 332,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.005",
+    "__EMPTY_3": "Colilla H/H 1/2\" 40Cm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 18
+  },
+  {
+    "__EMPTY": 333,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.007",
+    "__EMPTY_3": "Colilla H/H 1/2\" 60Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 334,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.008",
+    "__EMPTY_3": "Colilla M/H 1/2\" 20Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 335,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.010",
+    "__EMPTY_3": "Colilla M/H 1/2\" 30Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 336,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.011",
+    "__EMPTY_3": "Colilla M/H 1/2\" 40Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 337,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.012",
+    "__EMPTY_3": "Colilla M/H 1/2\" 60Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 338,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.013",
+    "__EMPTY_3": "Conexion Chica Para Inodoro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 339,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.040",
+    "__EMPTY_3": "Cono para inodoro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 340,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "347.095",
+    "__EMPTY_3": "Desplazador Para Inodoro 110Mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 6
+  },
+  {
+    "__EMPTY": 341,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.019",
+    "__EMPTY_3": "Griferia Monocomando Duchero",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 1
+  },
+  {
+    "__EMPTY": 342,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.020",
+    "__EMPTY_3": "Griferia Monocomando Para Lavatorio",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 5
+  },
+  {
+    "__EMPTY": 343,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.021",
+    "__EMPTY_3": "Griferia Monocomando Para Pileta De Cocina De Mesada",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 9
+  },
+  {
+    "__EMPTY": 344,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.058",
+    "__EMPTY_3": "Griferia Monocomando de Cocina Para Pared ",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 345,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.095",
+    "__EMPTY_3": "Kit Accesorio De Baño Metálico 6 Piezas",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 5
+  },
+  {
+    "__EMPTY": 346,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "348.026",
+    "__EMPTY_3": "Llave Esferica Metalica 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 347,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "348.039",
+    "__EMPTY_3": "Llave Esferica Metalica 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 348,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "346.013",
+    "__EMPTY_3": "Sella Roscas",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 349,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.099",
+    "__EMPTY_3": "Tapa P/Inodoro De PVC Blanco (Lorenzetti 6.0 LPF)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 350,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.091",
+    "__EMPTY_3": "Tapajunta Acero Inox P/Colilla 35Mm Interior Refundida",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 11
+  },
+  {
+    "__EMPTY": 351,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.088",
+    "__EMPTY_3": "Tapajunta Cromado P/Colilla 35Mm Interior Bombé",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 352,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "348.037",
+    "__EMPTY_3": "Teflon",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_7": " "
+  },
+  {
+    "__EMPTY": 353,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.024",
+    "__EMPTY_3": "Tornillos Para Ajuste Inodoro (Par X2)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 354,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.025",
+    "__EMPTY_3": "Tornillos Para Ajuste Lavatorio (Par X2)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 355,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.027",
+    "__EMPTY_3": "Valvula Para Lavatorio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 356,
+    "__EMPTY_1": "Grifería y Varios",
+    "__EMPTY_2": "314.049",
+    "__EMPTY_3": "Zócalo P/Ducha Aluminio 75mm x 25mm x 1.25 mt",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 6
+  },
+  {
+    "__EMPTY": "Herramientas"
+  },
+  {
+    "__EMPTY": 357,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.230",
+    "__EMPTY_3": "Acople rápido para manguera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 358,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "374.138",
+    "__EMPTY_3": "Alargue 15mt bajo goma 3x2, terminación ficha schuko M. H.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 359,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "374.009",
+    "__EMPTY_3": "Alargue 30Mt. Bajo Goma 3X2, 1 Ficha Macho Schuko, 1 Ficha H",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 360,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "374.010",
+    "__EMPTY_3": "Alargue 50Mt. Bajo Goma 3X2, 1 Ficha Macho 3 En L, 1 Ficha S",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 361,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.112",
+    "__EMPTY_3": "Alicate corte universal aislada 8\" (1000V)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 362,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.111",
+    "__EMPTY_3": "Alicate punta fina aislada 8\" (1000V)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 363,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.001",
+    "__EMPTY_3": "Amoladora Angular Electrica Portatil 4 1/2\" 900W",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 364,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.002",
+    "__EMPTY_3": "Amoladora Angular Electrica Portatil 7 1/4\" 2000W",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 365,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.003",
+    "__EMPTY_3": "Amoladora Angular Electrica Portatil 9\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 366,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.003",
+    "__EMPTY_3": "Anclaje De Seguridad",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 367,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.002",
+    "__EMPTY_3": "Arco De Sierra Manual Fijo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 368,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.003",
+    "__EMPTY_3": "Atornillador A Bateria 12V",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 369,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.028",
+    "__EMPTY_3": "Atornillador A Bateria 18V",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 370,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.004",
+    "__EMPTY_3": "Atornillador Electrico 500W",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 371,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.004",
+    "__EMPTY_3": "Azada",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 372,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.005",
+    "__EMPTY_3": "Balde De Albañil Negro Reforzado",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 373,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.407",
+    "__EMPTY_3": "Bandeja De Plastico Para Pintor 29x38Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 374,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "243.157",
+    "__EMPTY_3": "Barra Extensión P/Cricket de 1/2\" X 5\"Largo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 375,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.145",
+    "__EMPTY_3": "Barreta de punta Ø1\" 150cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 376,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.083",
+    "__EMPTY_3": "Batidor Mezclador Binda/Pintura 1400W 220-240V",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 377,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.001",
+    "__EMPTY_3": "Bolsa De Escombro 0.6X0.9Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 378,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.002",
+    "__EMPTY_3": "Bolsa De Nylon 1X1Mt Resistente Negra 60mic",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 379,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.151",
+    "__EMPTY_3": "Bolsa de Trapos 5 kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 380,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.302",
+    "__EMPTY_3": "Bomba de desagote 1 HP  monofásica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 381,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.058",
+    "__EMPTY_3": "Bomba De Desagote Sumergible",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 382,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.149",
+    "__EMPTY_3": "Bomba p/prueba Hidráulica de Manómetro Completa",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 383,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.007",
+    "__EMPTY_3": "Brocha N°2",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 384,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.008",
+    "__EMPTY_3": "Brocha N°3",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 385,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.157",
+    "__EMPTY_3": "Budinera Acero Inox. 12\" Para Masilla",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 386,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.011",
+    "__EMPTY_3": "Cabo De Madera Para Herramienta Maceta 30cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 387,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.012",
+    "__EMPTY_3": "Cabo De Madera Para Herramienta Martillo 30cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 388,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.013",
+    "__EMPTY_3": "Cabo De Madera Para Herramienta Pala de Obra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 389,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.014",
+    "__EMPTY_3": "Cabo De Madera Para Herramienta Pico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 390,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "321.030",
+    "__EMPTY_3": "Cadena 10Mm",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 391,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.309",
+    "__EMPTY_3": "Cadena 4 mm",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 392,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.308",
+    "__EMPTY_3": "Cadena de 6 mm",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 393,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.003",
+    "__EMPTY_3": "Caja De Herramientas 17\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 394,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.059",
+    "__EMPTY_3": "Caladora",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 395,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.004",
+    "__EMPTY_3": "Candado 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 396,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.005",
+    "__EMPTY_3": "Candado 60Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 397,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.321",
+    "__EMPTY_3": "Candado 60Mm anti palanca",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 398,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.411",
+    "__EMPTY_3": "Candado 80Mm Anti Palanca",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 399,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.016",
+    "__EMPTY_3": "Carretilla De Hierro 65 lts. Con Rueda De Goma Maciza",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 400,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.053",
+    "__EMPTY_3": "Cepillo carpintero eléctrico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 401,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.326",
+    "__EMPTY_3": "Cepillo de alambre",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 402,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.017",
+    "__EMPTY_3": "Cepillo De Carpintero",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 403,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.018",
+    "__EMPTY_3": "Chocla (Chalk Line - Linea De Tiza)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 404,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.506",
+    "__EMPTY_3": "Cincel P/Martillo Percutor 30Cm Encastre Rápido",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 405,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.428",
+    "__EMPTY_3": "Cincel P/Martillo Percutor 40Cm Encastre Rápido",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 406,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.007",
+    "__EMPTY_3": "Cinta \"Pare\" (8mt x Kg.)",
+    "__EMPTY_4": "kg."
+  },
+  {
+    "__EMPTY": 407,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.019",
+    "__EMPTY_3": "Cinta Agrimensor 30Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 408,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "374.024",
+    "__EMPTY_3": "Cinta Aisladora Negra, 10Mt.",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 20
+  },
+  {
+    "__EMPTY": 409,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "374.025",
+    "__EMPTY_3": "Cinta Aisladora Roja, 10Mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 410,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "374.027",
+    "__EMPTY_3": "Cinta Autosoldable",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 411,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.008",
+    "__EMPTY_3": "Cinta De Enhebrar Para Electricista 25Mt (Alma acero)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 2
+  },
+  {
+    "__EMPTY": 412,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.009",
+    "__EMPTY_3": "Cinta De Papel Microperforada 5Cm, 75Mts",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 413,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "312.026",
+    "__EMPTY_3": "Cinta Embalar Marron, 48Mm Ancho, 100Mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 414,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.020",
+    "__EMPTY_3": "Cinta Metalica 30Mt P/Sanitaria",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 415,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.141",
+    "__EMPTY_3": "Cinta métrica 30mts.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 416,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.023",
+    "__EMPTY_3": "Cinta Metrica 5Mt (calidad superior)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 417,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.021",
+    "__EMPTY_3": "Cinta Metrica, 10Mt (Calidad superior)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 418,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.370",
+    "__EMPTY_3": "Cizalla 18\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 419,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.024",
+    "__EMPTY_3": "Cizalla 24\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 420,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.005",
+    "__EMPTY_3": "Cizalla De Banco Somar Nº1",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 421,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.025",
+    "__EMPTY_3": "Cizalla De Mano 36\" Con Hojas Intercambiables",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 422,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.013",
+    "__EMPTY_3": "Cola Vinílica (envase 1lt.)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 423,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.006",
+    "__EMPTY_3": "Compresor De Aire 100Lt 2Hp",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 424,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.026",
+    "__EMPTY_3": "Corta Hierro 12\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 425,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.054",
+    "__EMPTY_3": "Cortador de Vidrio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 426,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.028",
+    "__EMPTY_3": "Cortadora de ceramica ",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 427,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.408",
+    "__EMPTY_3": "Cubeta De Plastico Para Pintor Honda 10Lts.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 428,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.027",
+    "__EMPTY_3": "Cuchara De Albañil 7\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 429,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.217",
+    "__EMPTY_3": "Dado 5/16 para taladro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 430,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.331",
+    "__EMPTY_3": "Delantal De Cuero",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 431,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.073",
+    "__EMPTY_3": "Desmalezadora",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 432,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.306",
+    "__EMPTY_3": "Destornillador Busca Polo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 433,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.028",
+    "__EMPTY_3": "Destornillador De Paleta 1/4X4\" Aisl 1000V",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 434,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.029",
+    "__EMPTY_3": "Destornillador De Paleta 1/8X4\" Aisl 1000V",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 435,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.027",
+    "__EMPTY_3": "Destornillador De Paleta 3/16X4\" Aisl 1000V",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 436,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.020",
+    "__EMPTY_3": "Destornillador Phillips 1/16 X 6\" Aisl 1000V.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 437,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.019",
+    "__EMPTY_3": "Destornillador Phillips 1/8 X 6\" Aislad 1000V.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 438,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.035",
+    "__EMPTY_3": "Disco De Corte 41/2\" De 1Mm De Espesor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 439,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.036",
+    "__EMPTY_3": "Disco De Corte 7 1/4 De 1Mm De Espesor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 440,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.038",
+    "__EMPTY_3": "Disco De Corte De Mamposteria 4 1/2\" metalico c/widia",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 441,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.039",
+    "__EMPTY_3": "Disco De Corte De Mamposteria 7 1/4\" c/widia",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 442,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.040",
+    "__EMPTY_3": "Disco De Corte De Mamposteria 9\" c/widia",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 443,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.041",
+    "__EMPTY_3": "Disco De Corte Madera 10\" para sierra de mesa",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 444,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.044",
+    "__EMPTY_3": "Disco de corte madera 7 1/4' x 24D c/widia (centro 24mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 445,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.045",
+    "__EMPTY_3": "Disco De Corte Para Hierro 4 1/2\" 3mm espesor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 446,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.046",
+    "__EMPTY_3": "Disco De Corte Para Hierro 7 1/4\" 3mm espesor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 447,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.047",
+    "__EMPTY_3": "Disco De Corte Para Hierro 9\" 3mm espesor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 448,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.048",
+    "__EMPTY_3": "Disco De Corte Sensitiva De 14\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 449,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.050",
+    "__EMPTY_3": "Disco De Desbaste Metal 4 1/2\" 6mm espesor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 450,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.051",
+    "__EMPTY_3": "Disco De Desbaste Metal 7 1/4\" 6mm espesor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 451,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.049",
+    "__EMPTY_3": "Disco De Desbaste Metal 9\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 452,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.432",
+    "__EMPTY_3": "Disco de desbaste para hormigón 4 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 453,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.431",
+    "__EMPTY_3": "Disco De Pulir Hormigón 7\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 454,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.057",
+    "__EMPTY_3": "Electrodo Aws E-6013 2,5Mm",
+    "__EMPTY_4": "kg."
+  },
+  {
+    "__EMPTY": 455,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.054",
+    "__EMPTY_3": "Electrodo Aws E-6013 3,25Mm",
+    "__EMPTY_4": "kg."
+  },
+  {
+    "__EMPTY": 456,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.430",
+    "__EMPTY_3": "Engrafadora 1er y 2do Cierre (Isodec)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 457,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.007",
+    "__EMPTY_3": "Equipo Termofusor Electrico Boquillas 20 A 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 458,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.036",
+    "__EMPTY_3": "Escalera De Madera (10 Escalones)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 459,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.201",
+    "__EMPTY_3": "Escalera De Madera (12 Escalones) ",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 460,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.037",
+    "__EMPTY_3": "Escalera De Madera (8 Escalones)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 461,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.040",
+    "__EMPTY_3": "Escofina 8\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 462,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.041",
+    "__EMPTY_3": "Escuadra Metal 30cm (Chata 12\")",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 463,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.417",
+    "__EMPTY_3": "Espatula 1y1/2\" de acero inoxidable",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 464,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.042",
+    "__EMPTY_3": "Espátula De Acero Inoxidable (10Cm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 465,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.139",
+    "__EMPTY_3": "Espátula De Acero Inoxidable (30Cm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 466,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "314.054",
+    "__EMPTY_3": "Estopa",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 467,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.153",
+    "__EMPTY_3": "Extensible Para Rodillo 2Mt C/Rosca",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 468,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.390",
+    "__EMPTY_3": "Filtro Para Mascarilla De Gases",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 469,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.560",
+    "__EMPTY_3": "Flejadora para fleje de plástico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 470,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.373",
+    "__EMPTY_3": "Formon 1 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 471,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.371",
+    "__EMPTY_3": "Formon 1 1/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 472,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.372",
+    "__EMPTY_3": "Formon 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 473,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.134",
+    "__EMPTY_3": "Formon 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 474,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.295",
+    "__EMPTY_3": "Fretacho con Esponja",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 475,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.146",
+    "__EMPTY_3": "Fretacho De Madera 12x25Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 476,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.043",
+    "__EMPTY_3": "Fretacho De Plástico12X25Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 477,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.200",
+    "__EMPTY_3": "Fulminante Para Pistola tiro a tiro Amarillo X100Un. C27",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 478,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.059",
+    "__EMPTY_3": "Grasa X 1 Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 479,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.060",
+    "__EMPTY_3": "Hilo De Algodon Nº6",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 480,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.061",
+    "__EMPTY_3": "Hoja De Sierra Bimetal Para Arco 12\" (18 Dientes)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 481,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.481",
+    "__EMPTY_3": "Hoja Trincheta Para Yeso",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 482,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.011",
+    "__EMPTY_3": "Hormigonera 130lts. Eléctrica Trompito",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 483,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.010",
+    "__EMPTY_3": "Hormigonera 180lts. tranca c/pedal 1.2HP, 220V",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 484,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.029",
+    "__EMPTY_3": "Hormigonera 350lts. tranca c/pedal Eléctrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 485,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.051",
+    "__EMPTY_3": "Juego De Llaves Allen",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 486,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.052",
+    "__EMPTY_3": "Juego De Llaves Combinadas Milimetricas (6 A 22)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 487,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.064",
+    "__EMPTY_3": "Juego De Mecha Copa Para Madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 488,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.304",
+    "__EMPTY_3": "Juego de Mechas Copa P/Ceramica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 489,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.054",
+    "__EMPTY_3": "Juego De Mechas Para Madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 490,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.303",
+    "__EMPTY_3": "Juego Llave Cricket de 8 a 32mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 491,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.067",
+    "__EMPTY_3": "Lapiz Carpintero",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 492,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.633",
+    "__EMPTY_3": "Lija Al Agua 120",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 493,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.635",
+    "__EMPTY_3": "Lija Al Agua 220",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 494,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.637",
+    "__EMPTY_3": "Lija Al Agua 80",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 495,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.623",
+    "__EMPTY_3": "Lija Al Agua Grano 180",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 496,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.648",
+    "__EMPTY_3": "Lija Esmeril 120Gr",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 497,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.645",
+    "__EMPTY_3": "Lija Esmeril 220Gr",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 498,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.646",
+    "__EMPTY_3": "Lija Esmeril 80Gr",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 499,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.651",
+    "__EMPTY_3": "Lija Para Madera 120Gr",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 500,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.409",
+    "__EMPTY_3": "Lija Para Madera 220Gr",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 501,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.660",
+    "__EMPTY_3": "Lija Para Madera Grano 120 Ø125Mm C/Velcro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 502,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.653",
+    "__EMPTY_3": "Lija Para Madera Grano 180",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 503,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.217",
+    "__EMPTY_3": "Lija Para Madera Grano 180 Ø125Mm C/Velcro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 504,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.385",
+    "__EMPTY_3": "Lija Para Madera Grano 200 Ø125Mm C/Velcro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 505,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.625",
+    "__EMPTY_3": "Lija Para Madera Grano 80",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 506,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.630",
+    "__EMPTY_3": "Lija Para Madera Grano 80 Ø125Mm C/Velcro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 507,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.012",
+    "__EMPTY_3": "Lijadora De Banda",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 508,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.415",
+    "__EMPTY_3": "Lijadora Roto Orbital 180W C/Colector Polvo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 509,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.026",
+    "__EMPTY_3": "Linterna recargable",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 510,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.059",
+    "__EMPTY_3": "Llana Dentada 12X25Cm, diente 8x8mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 511,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.060",
+    "__EMPTY_3": "Llana Metalica Lisa 12X25Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 512,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.062",
+    "__EMPTY_3": "Llave Ajustable 8\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 513,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.350",
+    "__EMPTY_3": "Llave Cricket Encastre De 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 514,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.082",
+    "__EMPTY_3": "Llave Francesa 8\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 515,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.403",
+    "__EMPTY_3": "Llave Para Varilla (10 Y 12Mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 516,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.085",
+    "__EMPTY_3": "Llave Para Varilla (6 Y 8Mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 517,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.088",
+    "__EMPTY_3": "Maceta Cuadrada (1,5 Kg)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 518,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.090",
+    "__EMPTY_3": "Maceta Cuadrada (2 Kg)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 519,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.167",
+    "__EMPTY_3": "Maceta de goma",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 520,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.088",
+    "__EMPTY_3": "Malla Sombra negra 4M Ancho, X Ml",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 521,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.671",
+    "__EMPTY_3": "Mameluco Descartable talle L",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 522,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.658",
+    "__EMPTY_3": "Mameluco Descartable talle M",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 523,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.670",
+    "__EMPTY_3": "Mameluco Descartable talle XL",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 524,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.089",
+    "__EMPTY_3": "Manguera De Pvc (1/2\")",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 525,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.090",
+    "__EMPTY_3": "Manguera Nivel",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 526,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.091",
+    "__EMPTY_3": "Máquina Balai Plástico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 527,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.092",
+    "__EMPTY_3": "Marrón de 5kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 528,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.093",
+    "__EMPTY_3": "Martillo Con Bolita",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 529,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.095",
+    "__EMPTY_3": "Martillo De Uña (500Gr)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 530,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.194",
+    "__EMPTY_3": "Máscara facial transparente",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 531,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.330",
+    "__EMPTY_3": "Mecha 10 mm. x 260 mm. para hormigon",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 532,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.092",
+    "__EMPTY_3": "Mecha 10Mm Para Hierro Milimetrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 533,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.093",
+    "__EMPTY_3": "Mecha 10Mm Para Hormigon",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 534,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.094",
+    "__EMPTY_3": "Mecha 10Mm Para Madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 535,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.096",
+    "__EMPTY_3": "Mecha 12Mm Para Hierro Milimetrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 536,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.097",
+    "__EMPTY_3": "Mecha 12Mm Para Hormigon",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 537,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.095",
+    "__EMPTY_3": "Mecha 12Mm Para Madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 538,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.102",
+    "__EMPTY_3": "Mecha 16Mm Para Hierro Milimetrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 539,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.110",
+    "__EMPTY_3": "Mecha 4Mm Para Hierro Milimetrica",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 20,
+    "__EMPTY_6": 10
+  },
+  {
+    "__EMPTY": 540,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.116",
+    "__EMPTY_3": "Mecha 6Mm Para Hierro Milimetrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 541,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.117",
+    "__EMPTY_3": "Mecha 6Mm Para Hormigon",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 542,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.118",
+    "__EMPTY_3": "Mecha 6Mm Para Madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 543,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.121",
+    "__EMPTY_3": "Mecha 8Mm Para Hierro Milimetrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 544,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.122",
+    "__EMPTY_3": "Mecha 8Mm Para Hormigon",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 545,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.123",
+    "__EMPTY_3": "Mecha 8Mm Para Madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 546,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.133",
+    "__EMPTY_3": "Mecha Concreto 10Mmx210Mm P/Martillo Rotopercutor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 547,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.134",
+    "__EMPTY_3": "Mecha Concreto 12Mm X210Mm P/Martillo Rotopercutor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 548,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.181",
+    "__EMPTY_3": "Mecha Concreto 12Mm X400Mm P/Martillo Rotopercutor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 549,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.135",
+    "__EMPTY_3": "Mecha Concreto 6Mmx210Mm P/Martillo Rotopercutor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 550,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.136",
+    "__EMPTY_3": "Mecha Concreto 8Mmx210Mm P/Martillo Rotopercutor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 551,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.236",
+    "__EMPTY_3": "Mecha plana 1/2 madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 552,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.227",
+    "__EMPTY_3": "Mecha plana 3/8 madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 553,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.142",
+    "__EMPTY_3": "Mecha Plana Para Madera 3/4",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 554,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.096",
+    "__EMPTY_3": "Metro de carpintero de madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 555,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.039",
+    "__EMPTY_3": "Muela Para Cizalla de Banco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 556,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.216",
+    "__EMPTY_3": "Nivel de burbuja 20\" c/iman",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 557,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.380",
+    "__EMPTY_3": "Nivel de Burbuja 36\" aluminio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 558,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.100",
+    "__EMPTY_3": "Pala Con Mango De Madera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 559,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.101",
+    "__EMPTY_3": "Pala De Corte (Recta)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 560,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.102",
+    "__EMPTY_3": "Pala Pocera Con Pisón",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 561,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.103",
+    "__EMPTY_3": "Pico Con Mango",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 562,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.346",
+    "__EMPTY_3": "Pincel 1 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 563,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.104",
+    "__EMPTY_3": "Pincel 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 564,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.105",
+    "__EMPTY_3": "Pincel 2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 565,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.106",
+    "__EMPTY_3": "Pincel 3\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 566,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.114",
+    "__EMPTY_3": "Pinza Corte Universal 8\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 567,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.115",
+    "__EMPTY_3": "Pinza Morza 8\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 568,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.374",
+    "__EMPTY_3": "Pinza para flejadora",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 569,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.303",
+    "__EMPTY_3": "Pinza Pela Cable",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 570,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.117",
+    "__EMPTY_3": "Pinza Pico De Loro 10\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 571,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.199",
+    "__EMPTY_3": "Pinza Pico De Loro 12\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 572,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.235",
+    "__EMPTY_3": "Pinza portaelectrodos p/maquina de soldar",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 573,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.307",
+    "__EMPTY_3": "Pinza Punta Fina Curva",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 574,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.116",
+    "__EMPTY_3": "Pinza tierra Para Soldadora Eléctrica",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 575,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.017",
+    "__EMPTY_3": "Pistola De Calor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 576,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.118",
+    "__EMPTY_3": "Pistola Manual Para Cartucho De Silicona",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 577,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.119",
+    "__EMPTY_3": "Pistola Para Clavar Tiro a Tiro manual, clavo de acero",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 578,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.049",
+    "__EMPTY_3": "Plancha Apisonadora 90kg 5.5 HP",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 579,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.121",
+    "__EMPTY_3": "Planchuela Doblar 6 A 12Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 580,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.231",
+    "__EMPTY_3": "Plomada De Barril",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 581,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.232",
+    "__EMPTY_3": "Plomada de punto",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 582,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.332",
+    "__EMPTY_3": "Polainas De Cuero (par)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 583,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.150",
+    "__EMPTY_3": "Portaherramientas de cuero",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 584,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.168",
+    "__EMPTY_3": "Portaherramientas Para Yesero",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 585,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.125",
+    "__EMPTY_3": "Punta Albañil (12\")",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 586,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.320",
+    "__EMPTY_3": "Punta para atornillador combinada 5cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 587,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.507",
+    "__EMPTY_3": "Punta P/Martillo Percutor 25Cm Encastre Rápido",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 588,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.144",
+    "__EMPTY_3": "Punta P/Martillo Percutor 40Cm Encastre Rápido - U87",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 589,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.126",
+    "__EMPTY_3": "Puntal Telescopico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 590,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.127",
+    "__EMPTY_3": "Rastrillo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 591,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.128",
+    "__EMPTY_3": "Regla De Aluminio Para Albañil 2\" (3M)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 592,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.228",
+    "__EMPTY_3": "Regla De Aluminio Para Albañil 2\" (6M)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 593,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.203",
+    "__EMPTY_3": "Regla De Aluminio Para Albañil 3\" (3M)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 594,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.048",
+    "__EMPTY_3": "Remachadora manual tipo fuelle (Acordeón)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 595,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.091",
+    "__EMPTY_3": "Remachadora Pop Manual Tipo Pinza 10\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 596,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.094",
+    "__EMPTY_3": "Remachadora Neumática P/Compresor 5/32\" C/Manguera",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 597,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.107",
+    "__EMPTY_3": "Repuesto tapa boca",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 598,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.193",
+    "__EMPTY_3": "Rodel P/Cortadora de Cerámica 8Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 599,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.129",
+    "__EMPTY_3": "Rodillo Corderito 180X38",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 600,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.130",
+    "__EMPTY_3": "Rodillo Corderito 230X38",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 601,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.034",
+    "__EMPTY_3": "Rotomartillo 850 W",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 602,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.132",
+    "__EMPTY_3": "Ruedas Para Carretilla De Goma Macizas",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 603,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.133",
+    "__EMPTY_3": "Serrucho Dentado Acero SAE10 Universal Mango Madera 60cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 604,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.360",
+    "__EMPTY_3": "Serrucho para yeso",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 605,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.020",
+    "__EMPTY_3": "Sierra Circular 7 1/4\" 1400W",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 606,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.021",
+    "__EMPTY_3": "Sierra De Mano hoja de 12\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 607,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.022",
+    "__EMPTY_3": "Sierra De Mesa 10\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 608,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.031",
+    "__EMPTY_3": "Sierra sensitiva de 14\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 609,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.044",
+    "__EMPTY_3": "Soldadora Inverter 160A",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 610,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.024",
+    "__EMPTY_3": "Taladro 600W Con Percutor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 611,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.032",
+    "__EMPTY_3": "Taladro 800w con Percutor",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 612,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.149",
+    "__EMPTY_3": "Tanza (0.8Mm) Rollo 100mt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 613,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "212.087",
+    "__EMPTY_3": "Tapa boca rígido c/repuesto",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 614,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.134",
+    "__EMPTY_3": "Tenaza De Armador Para Todo Corte (10\")",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 615,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "347.085",
+    "__EMPTY_3": "Terraja ajustable metálica para PPL 1/2\", 3/4\", 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 616,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "231.025",
+    "__EMPTY_3": "Tester Clasico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 617,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "374.112",
+    "__EMPTY_3": "Tierra De Color Rojo (1kg)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 618,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.194",
+    "__EMPTY_3": "Tijera de corte para caño",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 619,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.135",
+    "__EMPTY_3": "Tijera Para Cortar Chapa Recta",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 620,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "210.056",
+    "__EMPTY_3": "Tijera Recta P/ Yeso",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 621,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "312.090",
+    "__EMPTY_3": "Tiza Blanca X100Un.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 622,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.173",
+    "__EMPTY_3": "Trincheta Para Yeso",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 623,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.137",
+    "__EMPTY_3": "Trozador Para Madera 24\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 624,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.138",
+    "__EMPTY_3": "Uña (Herramienta Manual) 60 cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 625,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "211.157",
+    "__EMPTY_3": "Vaselina en pasta 600 gr.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 626,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.383",
+    "__EMPTY_3": "Viruta Nº2 100 Grs.",
+    "__EMPTY_4": "Paq."
+  },
+  {
+    "__EMPTY": 627,
+    "__EMPTY_1": "Herramientas",
+    "__EMPTY_2": "221.474",
+    "__EMPTY_3": "Viruta Nº3 100 Grs.",
+    "__EMPTY_4": "Paq."
+  },
+  {
+    "__EMPTY": "Hierro"
+  },
+  {
+    "__EMPTY": 628,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "343.003",
+    "__EMPTY_3": "Aro Hierro Fundido Saneamiento Aprob. IMM Calle",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 629,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "343.001",
+    "__EMPTY_3": "Aro Hierro Fundido Saneamiento Aprob. IMM Vereda",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 630,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.287",
+    "__EMPTY_3": "Caño de Hierro 2” 6mt e=3mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 631,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.188",
+    "__EMPTY_3": "Caño de Hierro 3\" x  3mm x 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 632,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.225",
+    "__EMPTY_3": "Caño de Hierro 40x40mm 6mt e=3mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 633,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.140",
+    "__EMPTY_3": "Caño de Hierro 50x30mm 6mt e=1.6mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 634,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.198",
+    "__EMPTY_3": "Caño de hierro 50x50mm e=3mm 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 635,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.163",
+    "__EMPTY_3": "Caño de Hierro 60x30mm 6mt e=2mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 636,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.204",
+    "__EMPTY_3": "Caño de hierro 80x80mm e=3mm 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 637,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.186",
+    "__EMPTY_3": "Caño de Hierro 100x100mm 6mt e=3mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 638,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.180",
+    "__EMPTY_3": "Caño redondo Ø 1 1/2\" 2 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 639,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.181",
+    "__EMPTY_3": "Caño redondo Ø 1 1/4\" 2 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 640,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.182",
+    "__EMPTY_3": "Caño redondo Ø 1\" 2 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 641,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.183",
+    "__EMPTY_3": "Caño redondo Ø 1/2\" 2 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 642,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.184",
+    "__EMPTY_3": "Caño redondo Ø 2\" 2 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 643,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.185",
+    "__EMPTY_3": "Caño redondo Ø 3/4\" 2mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 644,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.252",
+    "__EMPTY_3": "Caño redondo Ø 5/8\" 2 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 645,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.301",
+    "__EMPTY_3": "Hierro Ángulo 1/8\" X 1 1/2\" 6Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 646,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.278",
+    "__EMPTY_3": "Hierro Ángulo 1/8\" X 1 1/4\" 6Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 647,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.293",
+    "__EMPTY_3": "Hierro Ángulo 3/16\" x 2\" 6Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 648,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.279",
+    "__EMPTY_3": "Hierro T de 1/8\" x 1 1/4\" x 6mts",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 649,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.047",
+    "__EMPTY_3": "Malla Electrosoldada 4,2X15X15 50mt",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 650,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.303",
+    "__EMPTY_3": "Malla Metal Desplegado Rombo 50x24x3,2 Mm M2",
+    "__EMPTY_4": "m2"
+  },
+  {
+    "__EMPTY": 651,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.044",
+    "__EMPTY_3": "Perfil Hierro Ángulo 1/8\" x 2\" 6Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 652,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.343",
+    "__EMPTY_3": "Perfil hierro L 3/8\" de 2\" x 2\" x 3mts",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 653,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.175",
+    "__EMPTY_3": "Planchuela 1/4\" x 1 1/4\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 654,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.049",
+    "__EMPTY_3": "Planchuela 1/4\" x 2\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 655,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.050",
+    "__EMPTY_3": "Planchuela 1/8\" X 1\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 656,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.051",
+    "__EMPTY_3": "Planchuela 1/8\" X 2\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 657,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.104",
+    "__EMPTY_3": "Planchuela 1/8\" x 3/4\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 658,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.206",
+    "__EMPTY_3": "Planchuela 3/16\" x 1 1/2\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 659,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.118",
+    "__EMPTY_3": "Planchuela 3/16\" x 1 1/4\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 660,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.053",
+    "__EMPTY_3": "Planchuela 3/16\" X 2\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 661,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.134",
+    "__EMPTY_3": "Planchuela 3/16\" x 3 1/2\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 662,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.135",
+    "__EMPTY_3": "Planchuela 3/16\" x 3\" 6mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 663,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.054",
+    "__EMPTY_3": "Tejido Galvanizado 1.8Mt Alto 2Mm (Rectangular Rollo 25mt)",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 664,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.321",
+    "__EMPTY_3": "Varilla 10Mm Conformado (6 mt)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 100
+  },
+  {
+    "__EMPTY": 665,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.196",
+    "__EMPTY_3": "Varilla 10Mm Lisa (6mt)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 666,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.235",
+    "__EMPTY_3": "Varilla 12Mm Conformado (6mt)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 50
+  },
+  {
+    "__EMPTY": 667,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.350",
+    "__EMPTY_3": "Varilla 6Mm Conformado (6 mt)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 668,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.086",
+    "__EMPTY_3": "Varilla 6Mm Lisa (6mt)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 150
+  },
+  {
+    "__EMPTY": 669,
+    "__EMPTY_1": "Hierro",
+    "__EMPTY_2": "321.296",
+    "__EMPTY_3": "Varilla 8Mm Conformado (6mt)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 100
+  },
+  {
+    "__EMPTY": "Hormigón"
+  },
+  {
+    "__EMPTY": 670,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.001",
+    "__EMPTY_3": "Aro de hormigón Ø 1mt, alto 25cm. pozo negro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 671,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.040",
+    "__EMPTY_3": "Aro de hormigón Ø 1mt, alto 25cm. Saneamiento",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 672,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.002",
+    "__EMPTY_3": "Aro de hormigón Ø 1mt, alto 50cm. pozo negro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 673,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.017",
+    "__EMPTY_3": "Aro de hormigón Ø 1mt, alto 50cm. Saneamiento",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 674,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.048",
+    "__EMPTY_3": "Aro de hormigón Ø 2mt, alto 50cm. pozo negro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 675,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.003",
+    "__EMPTY_3": "Caño De Hormigon 400Mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_7": " "
+  },
+  {
+    "__EMPTY": 676,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.004",
+    "__EMPTY_3": "Caño De Hormigon 500Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 677,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.020",
+    "__EMPTY_3": "Columna Hormigón  0.10x2.25 Mt Sin Codo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 678,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.032",
+    "__EMPTY_3": "Columna hormigón 0.12x0.12x4 mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 679,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.042",
+    "__EMPTY_3": "Columna hormigón 0.15X0.15X5 Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 680,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.039",
+    "__EMPTY_3": "Cono De Saneamiento H=0.6M, Arriba=0.6M, Abajo=1M",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 681,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.041",
+    "__EMPTY_3": "Cono De Saneamiento H=0.9M, Arriba=0.6M, Abajo=1M",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 682,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.022",
+    "__EMPTY_3": "Contratapa (Para marco y tapa de 60x60cm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 683,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.007",
+    "__EMPTY_3": "Marco Y Tapa 20X20cm.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 684,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.008",
+    "__EMPTY_3": "Marco Y Tapa 40X40cm.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 685,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.016",
+    "__EMPTY_3": "Marco y Tapa 60x60cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 686,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.055",
+    "__EMPTY_3": "Marco De Hormigón 60x60Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 687,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.012",
+    "__EMPTY_3": "Nicho De Ose De Hormigon C/Tapa",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 3
+  },
+  {
+    "__EMPTY": 688,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.013",
+    "__EMPTY_3": "Pileta De Patio Hormigon 20X20Cm c/rejilla",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 689,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.014",
+    "__EMPTY_3": "Tapa Cono Saneamiento",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 690,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.047",
+    "__EMPTY_3": "Tapa de Hormigón 20x20Cm Perforada",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 691,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.046",
+    "__EMPTY_3": "Tapa de Hormigón 40x40Cm Perforada",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 692,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.038",
+    "__EMPTY_3": "Tapa de Hormigón 60x60 cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 693,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.015",
+    "__EMPTY_3": "Tapa Para Pozo Negro 1Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 694,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.049",
+    "__EMPTY_3": "Tapa Para Pozo Negro 2Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 695,
+    "__EMPTY_1": "Hormigón",
+    "__EMPTY_2": "344.006",
+    "__EMPTY_3": "Terminal de cámara 60x60cm (marco grueso con tapa y contr.)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Impermeabilizante"
+  },
+  {
+    "__EMPTY": 696,
+    "__EMPTY_1": "Impermeabilizante",
+    "__EMPTY_2": "341.001",
+    "__EMPTY_3": "Asfalkote 18Kg.",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 8
+  },
+  {
+    "__EMPTY": 697,
+    "__EMPTY_1": "Impermeabilizante",
+    "__EMPTY_2": "341.002",
+    "__EMPTY_3": "Asfalkote 200Kg.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Insumo de protección personal"
+  },
+  {
+    "__EMPTY": 698,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.007",
+    "__EMPTY_3": "Bota (Talle 35) De Goma Caña Larga.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 699,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.008",
+    "__EMPTY_3": "Bota (Talle 36) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 700,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.009",
+    "__EMPTY_3": "Bota (Talle 37) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 701,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.010",
+    "__EMPTY_3": "Bota (Talle 38) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 702,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.011",
+    "__EMPTY_3": "Bota (Talle 39) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 703,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.012",
+    "__EMPTY_3": "Bota (Talle 40) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 704,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.013",
+    "__EMPTY_3": "Bota (Talle 41) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 705,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.014",
+    "__EMPTY_3": "Bota (Talle 42) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 706,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.015",
+    "__EMPTY_3": "Bota (Talle 43) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 707,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.016",
+    "__EMPTY_3": "Bota (Talle 44) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 708,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.017",
+    "__EMPTY_3": "Bota (Talle 45) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 709,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.018",
+    "__EMPTY_3": "Bota (Talle 46) De Goma Caña Larga",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 710,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.391",
+    "__EMPTY_3": "Filtro Para Mascarilla P/Polvo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 711,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.049",
+    "__EMPTY_3": "Mascara Para Filtro Intercambiable",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 712,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.066",
+    "__EMPTY_3": "Traje De Lluvia (L)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 713,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.067",
+    "__EMPTY_3": "Traje De Lluvia (M)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 714,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.068",
+    "__EMPTY_3": "Traje De Lluvia (S)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 715,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.069",
+    "__EMPTY_3": "Traje De Lluvia (XL)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 716,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.070",
+    "__EMPTY_3": "Traje De Lluvia (XXL)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 717,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.657",
+    "__EMPTY_3": "Traje De Lluvia (Xxxl)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 718,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.074",
+    "__EMPTY_3": "Zapato (Talle 35) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 719,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.075",
+    "__EMPTY_3": "Zapato (Talle 36) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 720,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.076",
+    "__EMPTY_3": "Zapato (Talle 37) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 721,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.077",
+    "__EMPTY_3": "Zapato (Talle 38) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 722,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.078",
+    "__EMPTY_3": "Zapato (Talle 39) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 723,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.079",
+    "__EMPTY_3": "Zapato (Talle 40) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 724,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.080",
+    "__EMPTY_3": "Zapato (Talle 41) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 725,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.081",
+    "__EMPTY_3": "Zapato (Talle 42) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 726,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.082",
+    "__EMPTY_3": "Zapato (Talle 43) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 727,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.083",
+    "__EMPTY_3": "Zapato (Talle 44) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 728,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.084",
+    "__EMPTY_3": "Zapato (Talle 45) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 729,
+    "__EMPTY_1": "Insumo de protección personal",
+    "__EMPTY_2": "212.085",
+    "__EMPTY_3": "Zapato (Talle 46) De Seguridad Industrial",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Insumo de seguridad"
+  },
+  {
+    "__EMPTY": 730,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "221.147",
+    "__EMPTY_3": "Abrazadera para andamio reticulada",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 731,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "221.467",
+    "__EMPTY_3": "Andamio Tubular 3X1.9X0.6Mt P/Espacio Reducido",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 732,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "221.562",
+    "__EMPTY_3": "Mini Andamio con ruedas 2 plataformas Bandeja rebatible L140 x A78 x H135cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 733,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "221.001",
+    "__EMPTY_3": "Andamio Tubular 3X1.9X1.3M (X2) Acero Inox.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 734,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.105",
+    "__EMPTY_3": "Anticaída Deslizante Metálico",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 735,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.004",
+    "__EMPTY_3": "Antiparra transparente",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 736,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.660",
+    "__EMPTY_3": "Careta de protección transparente",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 737,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.030",
+    "__EMPTY_3": "Careta Soldar Fotocromática",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 738,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.031",
+    "__EMPTY_3": "Casco De Seguridad (Amarillo)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 739,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.032",
+    "__EMPTY_3": "Casco De Seguridad (Blanco)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 740,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "243.155",
+    "__EMPTY_3": "Cono Reflectivo Naranja 70Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 741,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.034",
+    "__EMPTY_3": "Cinturon De Seguridad",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 742,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.661",
+    "__EMPTY_3": "Cola De Amarre Sin Amortiguador",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 743,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "211.160",
+    "__EMPTY_3": "Cruceta Para Andamio De Acero Inox.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 744,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.124",
+    "__EMPTY_3": "Cubre Nuca Para Casco C/Reflectivo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 745,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.036",
+    "__EMPTY_3": "Cuerda De Poliester Trenzada 14Mm (De Vida)",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 746,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.089",
+    "__EMPTY_3": "Guante De Cuero, descarne puño corto",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 747,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.043",
+    "__EMPTY_3": "Guante De Lanilla Y Palma Verde Latex Reforzada",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 748,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.045",
+    "__EMPTY_3": "Lente De Proteccion Oscuro con filtro UV",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 749,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.046",
+    "__EMPTY_3": "Lente De Protección Transparente",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 750,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.048",
+    "__EMPTY_3": "Lente Proteccion Uv (Ámbar)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 751,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "211.454",
+    "__EMPTY_3": "Malla Vallado Naranja Rollo 1x50Mt 60Gr",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 752,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "221.148",
+    "__EMPTY_3": "Pie nivelador para andamio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 753,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.057",
+    "__EMPTY_3": "Protector Auditivo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 754,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.223",
+    "__EMPTY_3": "Repuesto Para Mascara Facial Transparente",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 755,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.118",
+    "__EMPTY_3": "Rodillera Ergonómico para Obra (Par)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 756,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.119",
+    "__EMPTY_3": "Sobrelente Antiparra Transparente",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 757,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "212.093",
+    "__EMPTY_3": "Trabacaídas Para Cuerda de Seguridad 14Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 758,
+    "__EMPTY_1": "Insumo de seguridad",
+    "__EMPTY_2": "321.122",
+    "__EMPTY_3": "Tuerca para andamio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Limpieza"
+  },
+  {
+    "__EMPTY": 759,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "211.395",
+    "__EMPTY_3": "Aerosol Mata Moscas y Mosquitos",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 760,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "221.328",
+    "__EMPTY_3": "Balde común (no obra)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 761,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "211.394",
+    "__EMPTY_3": "Creolina Envase x 1Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 762,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "211.392",
+    "__EMPTY_3": "Desodorante Antibacterial P/Pisos X5 Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 763,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "312.112",
+    "__EMPTY_3": "Desodorante de Ambiente en Aerosol",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 764,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "312.110",
+    "__EMPTY_3": "Detergente Neutro bidon 5 lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 765,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "221.038",
+    "__EMPTY_3": "Escoba",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 766,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "211.238",
+    "__EMPTY_3": "Escobillon de obra 40 cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 767,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "314.053",
+    "__EMPTY_3": "Esponja De Aluminio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 768,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "314.057",
+    "__EMPTY_3": "Esponja de cocina",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 769,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "212.042",
+    "__EMPTY_3": "Guante De Goma Doméstico PVC Talle 9/10",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 770,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "312.175",
+    "__EMPTY_3": "Hipoclorito de Sodio Concentrado 5lts.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 771,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "312.109",
+    "__EMPTY_3": "Jabón para manos bidon 5 lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 772,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "221.055",
+    "__EMPTY_3": "Lampazo Grande",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 773,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "211.396",
+    "__EMPTY_3": "Limpiador Final De Obra 5 Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 774,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "312.176",
+    "__EMPTY_3": " Papel De Cocina 200Mt",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 775,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "312.105",
+    "__EMPTY_3": "Papel higiénico 500mt",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 776,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "211.388",
+    "__EMPTY_3": "Trapo De Piso 60x55Cm Calidad Alta",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 777,
+    "__EMPTY_1": "Limpieza",
+    "__EMPTY_2": "211.390",
+    "__EMPTY_3": "Trapo Rejilla Fregón 32x32Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Madera"
+  },
+  {
+    "__EMPTY": 778,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.068",
+    "__EMPTY_3": "Barrote Madera Para Cortina 20Mm 1,4 Mt",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 40
+  },
+  {
+    "__EMPTY": 779,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.023",
+    "__EMPTY_3": "Chapon fenólico plastificado 18Mm 1.22x2.44Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 780,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.001",
+    "__EMPTY_3": "Chapon Osb 12Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 781,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.002",
+    "__EMPTY_3": "Chapon Osb 18Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 782,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.003",
+    "__EMPTY_3": "Chapon Osb 9Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 783,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "311.103",
+    "__EMPTY_3": "Contramarco De Madera 4.5cm x 3.30Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 784,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "311.073",
+    "__EMPTY_3": "Contramarco De Madera 7cm X 3.30Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 785,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "211.143",
+    "__EMPTY_3": "Pallet 1.00x1.20m (Mercosur)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 786,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.038",
+    "__EMPTY_3": "Poste Madera 3Mt. 12 Ø Tratado C/CCA",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 787,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.073",
+    "__EMPTY_3": "Poste Madera 4,5Mt. 15 Ø Tratado C/CCA",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 788,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.062",
+    "__EMPTY_3": "Poste Madera 5Mt. 12 Ø Tratado C/ CCA",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 789,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.011",
+    "__EMPTY_3": "Puntal 3 mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 790,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.027",
+    "__EMPTY_3": "Puntal 6 mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 791,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.067",
+    "__EMPTY_3": "Puntero Madera P/Barrote De Cortina 20Mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 40
+  },
+  {
+    "__EMPTY": 792,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.066",
+    "__EMPTY_3": "Soporte Madera P/Barrote De Cortina 20Mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 40
+  },
+  {
+    "__EMPTY": 793,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.101",
+    "__EMPTY_3": "Tabla Deck Tratada C/CCA Cepillada 1\"x6\" 3.30Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 794,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.014",
+    "__EMPTY_3": "Tabla De Primera 0.15X3.3X1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 795,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.016",
+    "__EMPTY_3": "Tablon 0.3 X2\" X3.30",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 796,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.017",
+    "__EMPTY_3": "Tirante 2\"X2\" X3.30M",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 797,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.018",
+    "__EMPTY_3": "Tirante 2\"X2\" X4.50M",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 798,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.019",
+    "__EMPTY_3": "Tirante 2\"X4\" X3.30M",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 799,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.020",
+    "__EMPTY_3": "Tirante 2\"X4\" X4.50M",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 800,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.053",
+    "__EMPTY_3": "Tirante Pino Ellliotis de 2\" x 6\" x 3.30",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 801,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.071",
+    "__EMPTY_3": "Zócalo De Madera 5Cm x 3.30Mt e=1Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 802,
+    "__EMPTY_1": "Madera",
+    "__EMPTY_2": "391.077",
+    "__EMPTY_3": "Zócalo De Madera 7Cm x 3.30Mt e=1Cm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 105
+  },
+  {
+    "__EMPTY": "Mampuestos"
+  },
+  {
+    "__EMPTY": 803,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.001",
+    "__EMPTY_3": "Bloque De Hormigón 12X20X40cm.",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 3500
+  },
+  {
+    "__EMPTY": 804,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.002",
+    "__EMPTY_3": "Bloque De Hormigón U 12X20X40cm.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 805,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.014",
+    "__EMPTY_3": "Bloque De Hormigón U Vibrado 12x19x39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 806,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.016",
+    "__EMPTY_3": "Bloque De Hormigón U Vibrado 20x19x40",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 807,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.005",
+    "__EMPTY_3": "Bloque vibrado 12x19x39 Con Fondo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 808,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.006",
+    "__EMPTY_3": "Bloque vibrado 20x19x40 Sin Fondo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 809,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.008",
+    "__EMPTY_3": "Bloqueta De Hormigón 8X40X20Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 810,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.003",
+    "__EMPTY_3": "Ladrillo De Campo 1ª",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 5000
+  },
+  {
+    "__EMPTY": 811,
+    "__EMPTY_1": "Mampuestos",
+    "__EMPTY_2": "310.007",
+    "__EMPTY_3": "Ticholo 12x25x25",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Otros"
+  },
+  {
+    "__EMPTY": 812,
+    "__EMPTY_1": "Otros",
+    "__EMPTY_2": "312.020",
+    "__EMPTY_3": "Carton Corrugado Rollo 10Mt",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 813,
+    "__EMPTY_1": "Otros",
+    "__EMPTY_2": "211.436",
+    "__EMPTY_3": "Malla Fibra De Vidrio 1M Rollo 50 m2",
+    "__EMPTY_4": "Rollo"
+  },
+  {
+    "__EMPTY": 814,
+    "__EMPTY_1": "Otros",
+    "__EMPTY_2": "212.058",
+    "__EMPTY_3": "Protector Solar Fs 30 Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 815,
+    "__EMPTY_1": "Otros",
+    "__EMPTY_2": "212.106",
+    "__EMPTY_3": "Repelente x 180Ml Pumpspray",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Pintura"
+  },
+  {
+    "__EMPTY": 816,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.042",
+    "__EMPTY_3": "Aerosol Amarillo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 817,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.040",
+    "__EMPTY_3": "Aerosol Rojo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 818,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.044",
+    "__EMPTY_3": "Canatech 20Lts Azul",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 819,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.045",
+    "__EMPTY_3": "Canatech 20Lts Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 820,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.046",
+    "__EMPTY_3": "Canatech 20Lts Gris",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 821,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.047",
+    "__EMPTY_3": "Canatech 20Lts Negro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 822,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.048",
+    "__EMPTY_3": "Canatech 20Lts Ocre",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 823,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.049",
+    "__EMPTY_3": "Canatech 20Lts Rojo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 824,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.050",
+    "__EMPTY_3": "Canatech 20Lts Teja",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 825,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.051",
+    "__EMPTY_3": "Canatech 20Lts Verde Cemento",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 826,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.053",
+    "__EMPTY_3": "Canatech 20Lts Verde Musgo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 827,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.097",
+    "__EMPTY_3": "Esmalte Convertidor Negro 3.6Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 828,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.007",
+    "__EMPTY_3": "Esmalte Multiuso Azul 1 Lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 829,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.008",
+    "__EMPTY_3": "Esmalte Multiuso Azul 4Lts",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 830,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.010",
+    "__EMPTY_3": "Esmalte Multiuso Blanco 1 Lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 831,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.011",
+    "__EMPTY_3": "Esmalte Multiuso Blanco 4Lts",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 832,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.012",
+    "__EMPTY_3": "Esmalte Multiuso Gris 1 Lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 833,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.013",
+    "__EMPTY_3": "Esmalte Multiuso Negro 1 Lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 834,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.014",
+    "__EMPTY_3": "Esmalte Multiuso Negro 4Lts",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 835,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.028",
+    "__EMPTY_3": "Esmalte Sintético Gris Grafito 3.6Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 836,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.074",
+    "__EMPTY_3": "Imprimación Blanco 20 Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 837,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.121",
+    "__EMPTY_3": "Pintura Base 18Lt Amarillo P/ 2021C Ecuador (Kabuki)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 838,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.054",
+    "__EMPTY_3": "Pintura Cielo Raso Antihongo x20Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 839,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.111",
+    "__EMPTY_3": "Pintura Impermeable Exterior 20Lt Amarillo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 840,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.080",
+    "__EMPTY_3": "Pintura Incafrent Antisalitre 18Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 841,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.112",
+    "__EMPTY_3": "Pintura Látex Ext. Texturada 18Lt Amarillo (2021C Ecuador)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 842,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.107",
+    "__EMPTY_3": "Pintura Látex Int/Ext Textur. Al Agua 18Lt Azul Medio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 843,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.108",
+    "__EMPTY_3": "Pintura Látex Int/Ext Textur. Al Agua 18Lt Verde Medio",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 844,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.106",
+    "__EMPTY_3": "Pintura Látex Int/Ext Textur. Al Agua 18Lt  Marrón Claro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 845,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.023",
+    "__EMPTY_3": "Pintura Latex Interior 18lt.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 846,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "311.106",
+    "__EMPTY_3": "Pintura Para Piso Gris Mate 18Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 847,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.076",
+    "__EMPTY_3": "Pintura Para Piso Gris Mate 4Lt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 848,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.066",
+    "__EMPTY_3": "Protector de madera 4lts. Nogal (a base de agua)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 849,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.067",
+    "__EMPTY_3": "Protector de madera 4lts. Nogal (a base de thiner)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 850,
+    "__EMPTY_1": "Pintura",
+    "__EMPTY_2": "313.027",
+    "__EMPTY_3": "Sellador Al Agua 20lt. Calidad Superior Blanco",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Plastiducto"
+  },
+  {
+    "__EMPTY": 851,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.022",
+    "__EMPTY_3": "Caño Plastiducto 1\"",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 852,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.001",
+    "__EMPTY_3": "Caño Plastiducto 1/2\"",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 853,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.002",
+    "__EMPTY_3": "Caño Plastiducto 3/4\"",
+    "__EMPTY_4": "Mt."
+  },
+  {
+    "__EMPTY": 854,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.023",
+    "__EMPTY_3": "Codo plastiducto 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 855,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.003",
+    "__EMPTY_3": "Codo Plastiducto 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 856,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.004",
+    "__EMPTY_3": "Codo Plastiducto 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 857,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.005",
+    "__EMPTY_3": "Cupla Plastiducto 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 858,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.006",
+    "__EMPTY_3": "Cupla Plastiducto 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 859,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.007",
+    "__EMPTY_3": "Cupla Reduccion Plastiducto 1\"X3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 860,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.024",
+    "__EMPTY_3": "Cuplas plastiducto 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 861,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.008",
+    "__EMPTY_3": "Rebose Hembra Plastiducto 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 862,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.009",
+    "__EMPTY_3": "Rebose Hembra Plastiducto 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 863,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.021",
+    "__EMPTY_3": "Rebose Macho Plastiducto 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 864,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.010",
+    "__EMPTY_3": "Rebose Macho Plastiducto 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 865,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.011",
+    "__EMPTY_3": "Rebose Macho Plastiducto 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 866,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.012",
+    "__EMPTY_3": "Reducción Plastiducto 1\" A 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 867,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.013",
+    "__EMPTY_3": "Reducción Plastiducto 1\" A 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 868,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.014",
+    "__EMPTY_3": "Reducción Plastiducto 3/4\" A 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 869,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.020",
+    "__EMPTY_3": "Tee plastiducto 1\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 870,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.015",
+    "__EMPTY_3": "Tee Plastiducto 1\" A 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 871,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.016",
+    "__EMPTY_3": "Tee Plastiducto 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 872,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.017",
+    "__EMPTY_3": "Tee Plastiducto 3/4\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 873,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.018",
+    "__EMPTY_3": "Tee Plastiducto 3/4\" A 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 874,
+    "__EMPTY_1": "Plastiducto",
+    "__EMPTY_2": "345.019",
+    "__EMPTY_3": "Tee Plastiducto 3/4\" A 1/2\" R/Macho",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Prefabricados"
+  },
+  {
+    "__EMPTY": 875,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.021",
+    "__EMPTY_3": "Babeta Aluminizada Plegada 0.25Mt x 2Mt largo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 876,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.029",
+    "__EMPTY_3": "Cantonera para yeso de papel 2cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 877,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.012",
+    "__EMPTY_3": "Chapa C26 Trapezoidal 1.08x3,66 mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 878,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.014",
+    "__EMPTY_3": "Chapa Plus Trapezoidal 1,00x2,50 mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 879,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.015",
+    "__EMPTY_3": "Chapa Plus Trapezoidal 1,00x3,00 mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 880,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "211.010",
+    "__EMPTY_3": "Cinta De Papel Enmascarar 30Mm 50Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 881,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "221.340",
+    "__EMPTY_3": "Cinta De Papel Enmascarar 50Mm 76mt",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 10
+  },
+  {
+    "__EMPTY": 882,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "211.011",
+    "__EMPTY_3": "Cinta De Papel Enmascarar19Mm 50Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 883,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.051",
+    "__EMPTY_3": "Cinta malla para yeso 5 cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 884,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.028",
+    "__EMPTY_3": "Cumbrera Chapa 2.5 mt x 030 mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 885,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.032",
+    "__EMPTY_3": "Cumbrera de 2mt x 0,30mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 886,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "321.282",
+    "__EMPTY_3": "Empalme Para Perfil C 120Mm Cal.14",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 887,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "331.010",
+    "__EMPTY_3": "Masilla Para Yeso 32Kg",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 888,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.006",
+    "__EMPTY_3": "Masilla Plastica Para Yeso 28Kg.",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 889,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "332.009",
+    "__EMPTY_3": "Mezcla Fina Bolsa",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 890,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "221.491",
+    "__EMPTY_3": "Moldura De Poliestireno 30x30Mm x 2Mt Largo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 891,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "341.021",
+    "__EMPTY_3": "Moldura De Poliestireno 50x50Mm x 2Mt Largo",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 892,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.044",
+    "__EMPTY_3": "Montante 35 mm x 2,6 mt Cal 0.39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 893,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.020",
+    "__EMPTY_3": "Montante 35 mm x 3 mt Cal 0.39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 894,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.017",
+    "__EMPTY_3": "Montante 70 x 2,6m cal 0,39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 895,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.043",
+    "__EMPTY_3": "Montante 70Mm X 3M Cal 0.39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 896,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.320",
+    "__EMPTY_3": "Perfil Ángulo L Aluminio Anodizado 15x15Mm 3.0Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 897,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.321",
+    "__EMPTY_3": "Perfil Ángulo L Aluminio Anodizado 15x32Mm 3.0Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 898,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.232",
+    "__EMPTY_3": "Perfil Ángulo L Alumin. Anodizado 1X1 Cm 3.50 Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 899,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "321.281",
+    "__EMPTY_3": "Perfil C Acero Galvan.120Mm Cal.14 4Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 900,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "321.280",
+    "__EMPTY_3": "Perfil C Acero Galvan.120Mm Cal.14 5Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 901,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "321.100",
+    "__EMPTY_3": "Perfil C Acero Galvan.120Mm Cal.14 6Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 902,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.024",
+    "__EMPTY_3": "Perfil chapa prepint. 30cm 3mt (tapajunta contenedores)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 903,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.031",
+    "__EMPTY_3": "Perfil chapa prepint. 35cm 3mt (tapajunta contenedor/bloque)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 904,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.058",
+    "__EMPTY_3": "Perfil Omega 80Mm 3Mt Cal 0.39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 905,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "321.368",
+    "__EMPTY_3": "Perfil Omega Estructural e=0,99Mm x 37Mm x 3Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 906,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "361.059",
+    "__EMPTY_3": "Perfil Perimetral Z Buña PVC 3.05Mt Cielorraso",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 907,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "321.363",
+    "__EMPTY_3": "Perfil U Solera Acero Galvan. 104Mm e=1.5mm 6Mt (U104)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 908,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.023",
+    "__EMPTY_3": "Placa Cementicia 12mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 909,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.009",
+    "__EMPTY_3": "Placa De Yeso 12.5Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 910,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.011",
+    "__EMPTY_3": "Placa De Yeso 9.5Mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 300
+  },
+  {
+    "__EMPTY": 911,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.012",
+    "__EMPTY_3": "Placa De Yeso Verde 12.5Mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_6": 25
+  },
+  {
+    "__EMPTY": 912,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "321.096",
+    "__EMPTY_3": "Separador de chapa trapezoidal",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 913,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.021",
+    "__EMPTY_3": "Solera 35mm x 2.6 mt Cal 0.39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 914,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.042",
+    "__EMPTY_3": "Solera 35mm x 3 mt Cal 0.39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 915,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.014",
+    "__EMPTY_3": "Solera 70Mm x 2.6 mt cal ",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 916,
+    "__EMPTY_1": "Prefabricados",
+    "__EMPTY_2": "210.041",
+    "__EMPTY_3": "Solera 70Mm x 3 mt Cal 0.39",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "PVC"
+  },
+  {
+    "__EMPTY": 917,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.001",
+    "__EMPTY_3": "Adhesivo Pvc 1Lt",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 2
+  },
+  {
+    "__EMPTY": 918,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.004",
+    "__EMPTY_3": "Caja De Pvc Sifonada 4 Bocas",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 919,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.088",
+    "__EMPTY_3": "Caja de PVC sifonada 5 bocas salida PVC63mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 920,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.005",
+    "__EMPTY_3": "Canilla Pvc 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 921,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.006",
+    "__EMPTY_3": "Caño Pvc 110Mm 3Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 922,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.007",
+    "__EMPTY_3": "Caño Pvc 160Mm 3Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 923,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.146",
+    "__EMPTY_3": "Caño Pvc 160Mm Serie 20 6Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 924,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.008",
+    "__EMPTY_3": "Caño Pvc 200Mm 3Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 925,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.009",
+    "__EMPTY_3": "Caño Pvc 200Mm Serie 20 6Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 926,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.010",
+    "__EMPTY_3": "Caño Pvc 40Mm 3Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 927,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.011",
+    "__EMPTY_3": "Caño Pvc 50Mm 3Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 928,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.012",
+    "__EMPTY_3": "Caño Pvc 63Mm 3Mt",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 929,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.014",
+    "__EMPTY_3": "Codo Pvc 110Mm 45° HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 930,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.015",
+    "__EMPTY_3": "Codo Pvc 110Mm 45º M/H",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 931,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.016",
+    "__EMPTY_3": "Codo Pvc 110Mm 90º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 932,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.017",
+    "__EMPTY_3": "Codo Pvc 110Mm 90º M/H",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 933,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.018",
+    "__EMPTY_3": "Codo Pvc 110Mm C/Registro",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 934,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.092",
+    "__EMPTY_3": "Codo PVC 160 90º MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 935,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.019",
+    "__EMPTY_3": "Codo Pvc 160Mm 45º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 936,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.020",
+    "__EMPTY_3": "Codo Pvc 160Mm 90º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 937,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.021",
+    "__EMPTY_3": "Codo Pvc 200Mm 45º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 938,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.022",
+    "__EMPTY_3": "Codo Pvc 200Mm 90º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 939,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.023",
+    "__EMPTY_3": "Codo Pvc 40Mm 45° M/H",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 940,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.024",
+    "__EMPTY_3": "Codo Pvc 40Mm 45º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 941,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.025",
+    "__EMPTY_3": "Codo Pvc 40Mm 90° M/H",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 942,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.026",
+    "__EMPTY_3": "Codo Pvc 40Mm 90º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 943,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.105",
+    "__EMPTY_3": "Codo PVC 50 Mm 45º MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 944,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.027",
+    "__EMPTY_3": "Codo Pvc 50Mm 45º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 945,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.028",
+    "__EMPTY_3": "Codo Pvc 50Mm 90º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 946,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.124",
+    "__EMPTY_3": "Codo Pvc 50Mm 90º MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 947,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.029",
+    "__EMPTY_3": "Codo Pvc 63Mm 45º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 948,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.030",
+    "__EMPTY_3": "Codo Pvc 63Mm 45º M/H",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 949,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.031",
+    "__EMPTY_3": "Codo Pvc 63Mm 90º HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 950,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.125",
+    "__EMPTY_3": "Codo Pvc 63Mm 90º MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 951,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.032",
+    "__EMPTY_3": "Cupla Pvc 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 952,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.033",
+    "__EMPTY_3": "Cupla Pvc 160Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 953,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.034",
+    "__EMPTY_3": "Cupla Pvc 200Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 954,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.035",
+    "__EMPTY_3": "Cupla Pvc 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 955,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.036",
+    "__EMPTY_3": "Cupla Pvc 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 956,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.037",
+    "__EMPTY_3": "Cupla Pvc 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 957,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.150",
+    "__EMPTY_3": "Fondo De Cámara PVC 60x60x60Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 958,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "314.015",
+    "__EMPTY_3": "Grampa Omega PVC 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 959,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "314.014",
+    "__EMPTY_3": "Grampa Omega PVC 20Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 960,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "314.056",
+    "__EMPTY_3": "Grampa Omega PVC 25Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 961,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "314.016",
+    "__EMPTY_3": "Grampa Omega PVC 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 962,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "314.017",
+    "__EMPTY_3": "Grampa Omega PVC 50 Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 963,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "314.018",
+    "__EMPTY_3": "Grampa Omega PVC 63 Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 964,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.107",
+    "__EMPTY_3": "Grasera PVC salida 63 mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 4
+  },
+  {
+    "__EMPTY": 965,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.089",
+    "__EMPTY_3": "Nicho de Ose PVC",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 966,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.090",
+    "__EMPTY_3": "Ramal Y PVC  40 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 967,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.039",
+    "__EMPTY_3": "Ramal Y Pvc 110 mm HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 968,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.094",
+    "__EMPTY_3": "Ramal Y PVC 110/63 mm HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 969,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.119",
+    "__EMPTY_3": "Ramal Y PVC 110mm/50mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 970,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.040",
+    "__EMPTY_3": "Ramal Y Pvc 110Mm/63 mm MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 971,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.041",
+    "__EMPTY_3": "Ramal Y Pvc 160/110 mm HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 972,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.042",
+    "__EMPTY_3": "Ramal Y Pvc 200Mm/160 mm HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 973,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.043",
+    "__EMPTY_3": "Ramal Y Pvc 40 mm HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 974,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.127",
+    "__EMPTY_3": "Ramal Y Pvc 40 mm MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 975,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.044",
+    "__EMPTY_3": "Ramal Y Pvc 50 mm HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 976,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.108",
+    "__EMPTY_3": "Ramal y PVC 50 mm MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 977,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.045",
+    "__EMPTY_3": "Ramal Y Pvc 63 mm HH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 978,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.126",
+    "__EMPTY_3": "Ramal Y Pvc 63 mm MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 979,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.046",
+    "__EMPTY_3": "Receptáculo Para Ducha C/Rejilla",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 980,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.047",
+    "__EMPTY_3": "Reduccion Pvc 110 A 63 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 981,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.048",
+    "__EMPTY_3": "Reduccion Pvc 160 A 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 982,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.049",
+    "__EMPTY_3": "Reduccion Pvc 200 A 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 983,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.050",
+    "__EMPTY_3": "Reduccion Pvc 200 A 160Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 984,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.051",
+    "__EMPTY_3": "Reduccion Pvc 50 A 40 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 985,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.052",
+    "__EMPTY_3": "Reducción Pvc 63 A 40 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 986,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.053",
+    "__EMPTY_3": "Reduccion Pvc 63 A 50 mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 987,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.054",
+    "__EMPTY_3": "Rejilla De Ventilacion PVC C/ Marco 10X10 Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 988,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.055",
+    "__EMPTY_3": "Rejilla De Ventilacion PVC C/ Marco 20X20 Cm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 989,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.152",
+    "__EMPTY_3": "Rejilla De Ventilacion Ø63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 990,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.134",
+    "__EMPTY_3": "Sifon Corrugado Pvc 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 991,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.056",
+    "__EMPTY_3": "Sifon Corrugado Pvc 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 992,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.115",
+    "__EMPTY_3": "Sifon Desconector 110/160Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 993,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.057",
+    "__EMPTY_3": "Sifon Desconector 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 994,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.058",
+    "__EMPTY_3": "Sifon Desconector 160Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 995,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.059",
+    "__EMPTY_3": "Sifon Rigido Pvc 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 996,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.120",
+    "__EMPTY_3": "Silleta PVC 110 /160MM",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 997,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.091",
+    "__EMPTY_3": "Silleta PVC 110 MM",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 998,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.116",
+    "__EMPTY_3": "Silleta PVC 160/200 MM",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 999,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.130",
+    "__EMPTY_3": "Silleta PVC 160/250 MM",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1000,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.121",
+    "__EMPTY_3": "Silleta PVC 200 /110MM",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1001,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.060",
+    "__EMPTY_3": "Sombrerete Pvc 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1002,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.062",
+    "__EMPTY_3": "Sombrerete Pvc 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1003,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.061",
+    "__EMPTY_3": "Sombrerete Pvc 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1004,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.063",
+    "__EMPTY_3": "Tapa De Pegar Pvc 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1005,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.064",
+    "__EMPTY_3": "Tapa De Pegar Pvc 160Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1006,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.065",
+    "__EMPTY_3": "Tapa De Pegar Pvc 200Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1007,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.066",
+    "__EMPTY_3": "Tapa De Pegar Pvc 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1008,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.067",
+    "__EMPTY_3": "Tapa De Pegar Pvc 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1009,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.068",
+    "__EMPTY_3": "Tapa De Pegar Pvc 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1010,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.069",
+    "__EMPTY_3": "Tapon Con Rosca Pvc 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1011,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.070",
+    "__EMPTY_3": "Tapon Con Rosca Pvc 160Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1012,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.072",
+    "__EMPTY_3": "Tapon Con Rosca Pvc 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1013,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.073",
+    "__EMPTY_3": "Tapon Con Rosca Pvc 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1014,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.074",
+    "__EMPTY_3": "Tapon Con Rosca Pvc 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1015,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.075",
+    "__EMPTY_3": "Tee De Inspeccion Pvc 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1016,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.076",
+    "__EMPTY_3": "Tee De Inspeccion Pvc 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1017,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.086",
+    "__EMPTY_3": "Tee PVC 110/63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1018,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.077",
+    "__EMPTY_3": "Tee Pvc 110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1019,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.112",
+    "__EMPTY_3": "Tee PVC 110Mm MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1020,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.118",
+    "__EMPTY_3": "Tee PVC 160/110Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1021,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.078",
+    "__EMPTY_3": "Tee Pvc 160Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1022,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.079",
+    "__EMPTY_3": "Tee Pvc 200Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1023,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.080",
+    "__EMPTY_3": "Tee Pvc 40Mm",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": " "
+  },
+  {
+    "__EMPTY": 1024,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.123",
+    "__EMPTY_3": "Tee Pvc 40Mm MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1025,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.081",
+    "__EMPTY_3": "Tee Pvc 50Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1026,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.082",
+    "__EMPTY_3": "Tee Pvc 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1027,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "347.113",
+    "__EMPTY_3": "Tee PVC 63Mm MH",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1028,
+    "__EMPTY_1": "PVC",
+    "__EMPTY_2": "314.026",
+    "__EMPTY_3": "Valvula Cocina Pvc",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": "Termofusión"
+  },
+  {
+    "__EMPTY": 1029,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.058",
+    "__EMPTY_3": "Caño Termofusión 1\" 4mt. (32mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1030,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.004",
+    "__EMPTY_3": "Caño Termofusión 1/2\" 4 mt (20mm)",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1031,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.005",
+    "__EMPTY_3": "Caño Termofusión 3/4\" 4mt. (25mm)",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 2
+  },
+  {
+    "__EMPTY": 1032,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.007",
+    "__EMPTY_3": "Codo Termofusión 20 mm 90°",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1033,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.049",
+    "__EMPTY_3": "Codo Termofusión 20mm 45º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1034,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.009",
+    "__EMPTY_3": "Codo Termofusión 25 mm 90º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1035,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.059",
+    "__EMPTY_3": "Codo Termofusión 32 mm 90º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1036,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.010",
+    "__EMPTY_3": "Codo Termofusión 40 mm 90º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1037,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.050",
+    "__EMPTY_3": "Codo Termofusión 63mm 90º",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1038,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.011",
+    "__EMPTY_3": "Codo Tf 90º 20Mm R/Metalica Hembra",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 8
+  },
+  {
+    "__EMPTY": 1039,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.012",
+    "__EMPTY_3": "Codo Tf 90º 20Mm R/Metalica Macho",
+    "__EMPTY_4": "Un.",
+    "__EMPTY_5": 1
+  },
+  {
+    "__EMPTY": 1040,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.013",
+    "__EMPTY_3": "Codo Tf 90º 25Mm R/Metalica Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1041,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.014",
+    "__EMPTY_3": "Codo Tf 90º 25Mm R/Metalica Macho",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1042,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.015",
+    "__EMPTY_3": "Cupla Termofusión 20Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1043,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.016",
+    "__EMPTY_3": "Cupla Termofusión 20Mm Rosca Metalica Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1044,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.017",
+    "__EMPTY_3": "Cupla Termofusión 20Mm Rosca Metalica Macho",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1045,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.018",
+    "__EMPTY_3": "Cupla Termofusión 25Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1046,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.061",
+    "__EMPTY_3": "Cupla Termofusión 32Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1047,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.063",
+    "__EMPTY_3": "Cupla Termofusión 32Mm Rosca Metálica Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1048,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.019",
+    "__EMPTY_3": "Cupla Termofusión 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1049,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.056",
+    "__EMPTY_3": "Cupla Termofusión 40Mm Rosca Metalica Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1050,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.055",
+    "__EMPTY_3": "Cupla Termofusión 40Mm Rosca Metalica Macho",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1051,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.041",
+    "__EMPTY_3": "Cupla TF inserto metálico macho 1 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1052,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.020",
+    "__EMPTY_3": "Desvio Termofusión 20Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1053,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.021",
+    "__EMPTY_3": "Desvio Termofusión 25Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1054,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.022",
+    "__EMPTY_3": "Llave De Paso 20Mm Para Termofusión",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1055,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.023",
+    "__EMPTY_3": "Llave De Paso 25Mm Para Termofusión",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1056,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.064",
+    "__EMPTY_3": "Llave De Paso 32Mm Para Termofusión",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1057,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "347.109",
+    "__EMPTY_3": "Llave de Paso Metálica Para Lavarropas de 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1058,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.027",
+    "__EMPTY_3": "Reducción Termofusión 25Mm A 20Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1059,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.028",
+    "__EMPTY_3": "Reducción Termofusión 32Mm A 20Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1060,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.029",
+    "__EMPTY_3": "Reduccion Termofusión 32Mm A 25Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1061,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.030",
+    "__EMPTY_3": "Reduccion Termofusión 40Mm A 25Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1062,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.065",
+    "__EMPTY_3": "Reducción Termofusión 40Mm a 32Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1063,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.031",
+    "__EMPTY_3": "Tapa Termofusión 20Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1064,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.042",
+    "__EMPTY_3": "Tee Termofusión 1 1/2\"",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1065,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.032",
+    "__EMPTY_3": "Tee Termofusión 20Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1066,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.033",
+    "__EMPTY_3": "Tee Termofusión 25Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1067,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.060",
+    "__EMPTY_3": "Tee Termofusión 32Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1068,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.034",
+    "__EMPTY_3": "Tee Termofusión 40Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1069,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.051",
+    "__EMPTY_3": "Tee Termofusión 63Mm",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1070,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.035",
+    "__EMPTY_3": "Tee Tf 20Mm R/Metalica Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1071,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.036",
+    "__EMPTY_3": "Tee Tf 20Mm R/Metalica Macho",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1072,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.048",
+    "__EMPTY_3": "Tee Tf 25Mm R/Metalica Hembra",
+    "__EMPTY_4": "Un."
+  },
+  {
+    "__EMPTY": 1073,
+    "__EMPTY_1": "Termofusión",
+    "__EMPTY_2": "348.053",
+    "__EMPTY_3": "Unión doble Termofusión",
+    "__EMPTY_4": "Un."
+  }
+]

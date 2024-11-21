@@ -5,15 +5,18 @@ import store from './store/store'; // Asegúrate de que la ruta del store sea co
 import Miercoles from './components/Miercoles';
 import ProductTable from './components/ProductoTable';
 import SelectedList from './components/SelectedList';
+import Pamela from './components/Pamela';
+
 
 const App = () => {
   return (
     <Provider store={store}>
       <Router basename="/Ines">
         <Routes>
-          <Route path="/" element={<Miercoles />} />
+          <Route path="/" element={<Miercoles />} />          
           <Route path="/productos" element={<ProductTable />} />
           <Route path="/seleccionados" element={<SelectedList />} />
+          <Route path="/pamela" element={<Pamela />} />
         </Routes>
       </Router>
     </Provider>
@@ -21,3 +24,6 @@ const App = () => {
 };
 
 export default App;
+
+
+

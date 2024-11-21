@@ -1,0 +1,7520 @@
+[
+  {
+    "id": 1,
+    "classification": "Clasificación \r\ndel Insumo",
+    "code": "Código\r\ndel Insumo",
+    "name": "Nombre\r\ndel insumo",
+    "unit": "Unidad"
+  },
+  {
+    "id": 2,
+    "classification": "Aberturas",
+    "code": "311.050",
+    "name": "Cerradura Para Puerta Exterior",
+    "unit": "Un."
+  },
+  {
+    "id": 3,
+    "classification": "Aberturas",
+    "code": "311.054",
+    "name": "Cerrojo para puerta exterior",
+    "unit": "Un."
+  },
+  {
+    "id": 4,
+    "classification": "Aberturas",
+    "code": "311.107",
+    "name": "Pasador para puerta Máuser 60mm",
+    "unit": "Un."
+  },
+  {
+    "id": 5,
+    "classification": "Aberturas",
+    "code": "311.100",
+    "name": "Pestilo resbalón 3cm para pomo",
+    "unit": "Un."
+  },
+  {
+    "id": 6,
+    "classification": "Aberturas",
+    "code": "311.044",
+    "name": "Picaporte tubular (pomo) c/llavin ",
+    "unit": "Un."
+  },
+  {
+    "id": 7,
+    "classification": "Aberturas",
+    "code": "311.009",
+    "name": "Pomela 4\" Derecha",
+    "unit": "Un."
+  },
+  {
+    "id": 8,
+    "classification": "Aberturas",
+    "code": "311.010",
+    "name": "Pomela 4\" Izquierda",
+    "unit": "Un."
+  },
+  {
+    "id": 9,
+    "classification": "Aberturas",
+    "code": "311.122",
+    "name": "Puerta Fondo Chapa Doble Vidriada Derecha (2,05x0,82mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 10,
+    "classification": "Aberturas",
+    "code": "311.126",
+    "name": "Puerta Fondo Chapa Doble Vidriada Izquierda (2,05x0,82mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 11,
+    "classification": "Aberturas",
+    "code": "311.012",
+    "name": "Puerta Fondo Derecha Madera Vidriada(2,06x0,85mt marco hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 12,
+    "classification": "Aberturas",
+    "code": "311.019",
+    "name": "Puerta Fondo Izquierda Madera Vidr.(2,06x0,85mt marco hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 13,
+    "classification": "Aberturas",
+    "code": "311.014",
+    "name": "Puerta Frente Derecha Madera (2,06 x 0,85mt marco y hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 14,
+    "classification": "Aberturas",
+    "code": "311.046",
+    "name": "Puerta Frente Derecha Madera (2,06 x 0,90mt marco y hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 15,
+    "classification": "Aberturas",
+    "code": "311.121",
+    "name": "Puerta Frente estandár Chapa Doble Derecha (2,05x0,82mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 16,
+    "classification": "Aberturas",
+    "code": "311.125",
+    "name": "Puerta Frente estandár Chapa Doble Izquierda (2,05x0,82mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 17,
+    "classification": "Aberturas",
+    "code": "311.021",
+    "name": "Puerta Frente Izquierda Madera (2,06 x 0,85mt marco y hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 18,
+    "classification": "Aberturas",
+    "code": "311.015",
+    "name": "Puerta Inter. Derecha, Marco 7cm (2,05x0.80mt. hoja y marco)",
+    "unit": "Un."
+  },
+  {
+    "id": 19,
+    "classification": "Aberturas",
+    "code": "311.024",
+    "name": "Puerta Inter. Izquierda, Marco 7cm(2,05x0.80mt.hoja y marco)",
+    "unit": "Un."
+  },
+  {
+    "id": 20,
+    "classification": "Aberturas",
+    "code": "311.016",
+    "name": "Puerta Interior Derecha Madera (2,05x0,75mt marco y hoja)Marco 13cm",
+    "unit": "Un."
+  },
+  {
+    "id": 21,
+    "classification": "Aberturas",
+    "code": "311.017",
+    "name": "Puerta Interior Derecha Madera (2,05 x 0,90mt marco y hoja",
+    "unit": "Un."
+  },
+  {
+    "id": 22,
+    "classification": "Aberturas",
+    "code": "311.031",
+    "name": "Puerta Interior Derecha, Marco 9cm(2.05x0.80mt.hoja y marco)",
+    "unit": "Un."
+  },
+  {
+    "id": 23,
+    "classification": "Aberturas",
+    "code": "311.022",
+    "name": "Puerta Inter. Izquierda Madera, Marco 13Cm (2,05x0,75mt marco y hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 24,
+    "classification": "Aberturas",
+    "code": "311.023",
+    "name": "Puerta Interior Izquierda Madera (2,06x0,90mt marco y hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 25,
+    "classification": "Aberturas",
+    "code": "311.030",
+    "name": "Puerta Interior Izquierda, Marco9cm (0.80x2.05mt marco hoja)",
+    "unit": "Un."
+  },
+  {
+    "id": 26,
+    "classification": "Aberturas",
+    "code": "311.182",
+    "name": "Tope De Piso P/Puerta Tortuga Acero Inox.",
+    "unit": "Un."
+  },
+  {
+    "id": 27,
+    "classification": "Aberturas",
+    "code": "311.025",
+    "name": "Ventana De Aluminio 0.60 X 0.40M Corrediza Serie20",
+    "unit": "Un."
+  },
+  {
+    "id": 28,
+    "classification": "Aberturas",
+    "code": "311.026",
+    "name": "Ventana De Aluminio 0.60 X 0.80M Guillotina Serie20",
+    "unit": "Un."
+  },
+  {
+    "id": 29,
+    "classification": "Aberturas",
+    "code": "311.027",
+    "name": "Ventana De Aluminio 0.60 X 1.2M Fija Serie20",
+    "unit": "Un."
+  },
+  {
+    "id": 30,
+    "classification": "Aberturas",
+    "code": "311.028",
+    "name": "Ventana De Aluminio 1.0 X 1.0M Corrediza Serie20",
+    "unit": "Un."
+  },
+  {
+    "id": 31,
+    "classification": "Aberturas",
+    "code": "311.029",
+    "name": "Ventana De Aluminio 1.2 X 1.2M Corrediza Serie20",
+    "unit": "Un."
+  },
+  {
+    "id": 32,
+    "classification": "Aberturas",
+    "code": "311.374",
+    "name": "Ventana De Aluminio 1.20 X 1.00M Corrediza Serie20",
+    "unit": "Un."
+  },
+  {
+    "id": 33,
+    "classification": "Aberturas",
+    "code": "221.188",
+    "name": "Zócalo Aluminio C/Goma P/Puerta 80Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 34,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.019",
+    "name": "Aceite 3 En 1 190Ml",
+    "unit": "Un."
+  },
+  {
+    "id": 35,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.001",
+    "name": "Aceite De Linaza 1Lt",
+    "unit": "Lt."
+  },
+  {
+    "id": 36,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.002",
+    "name": "Aceite Lubricante En Spray",
+    "unit": "Un."
+  },
+  {
+    "id": 37,
+    "classification": "Aditivos y Sellantes",
+    "code": "332.004",
+    "name": "Acelerante De Fraguado 10 Litros",
+    "unit": "Un."
+  },
+  {
+    "id": 38,
+    "classification": "Aditivos y Sellantes",
+    "code": "332.005",
+    "name": "Acelerante De Fraguado 200 Litros",
+    "unit": "Un."
+  },
+  {
+    "id": 39,
+    "classification": "Aditivos y Sellantes",
+    "code": "374.130",
+    "name": "Anclaje químico VE280 280ml",
+    "unit": "Un."
+  },
+  {
+    "id": 40,
+    "classification": "Aditivos y Sellantes",
+    "code": "313.002",
+    "name": "Antióxido 3.6 Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 41,
+    "classification": "Aditivos y Sellantes",
+    "code": "211.034",
+    "name": "Diluyente Mineral (Aguarras) envase 1 Lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 42,
+    "classification": "Aditivos y Sellantes",
+    "code": "210.016",
+    "name": "Enduido, 20kg",
+    "unit": "Un."
+  },
+  {
+    "id": 43,
+    "classification": "Aditivos y Sellantes",
+    "code": "341.005",
+    "name": "Hidrofugo 20 Litros",
+    "unit": "Un."
+  },
+  {
+    "id": 44,
+    "classification": "Aditivos y Sellantes",
+    "code": "341.004",
+    "name": "Hidrófugo 200 Litros",
+    "unit": "Un."
+  },
+  {
+    "id": 45,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.017",
+    "name": "Sika AnchorFix-1 300Cc",
+    "unit": "Un."
+  },
+  {
+    "id": 46,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.011",
+    "name": "Sika Cryl 5Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 47,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.012",
+    "name": "Sika Dur 31A+B 1Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 48,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.025",
+    "name": "Sika Dur 32 Gel 1Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 49,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.021",
+    "name": "Sika Flex Blanco 300Ml 221",
+    "unit": "Un."
+  },
+  {
+    "id": 50,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.013",
+    "name": "Sika Flex Gris 300Ml 221",
+    "unit": "Un."
+  },
+  {
+    "id": 51,
+    "classification": "Aditivos y Sellantes",
+    "code": "331.031",
+    "name": "Sikatop Seal 107 x 25Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 52,
+    "classification": "Aditivos y Sellantes",
+    "code": "211.147",
+    "name": "Silicona Ácida Cartucho 300Ml",
+    "unit": "Un."
+  },
+  {
+    "id": 53,
+    "classification": "Aditivos y Sellantes",
+    "code": "374.120",
+    "name": "Silicona Neutra Cartucho 300Ml",
+    "unit": "Un."
+  },
+  {
+    "id": 54,
+    "classification": "Aditivos y Sellantes",
+    "code": "374.158",
+    "name": "Silicona Neutra Catucho Color Blanca 300Ml",
+    "unit": "Un."
+  },
+  {
+    "id": 55,
+    "classification": "Aditivos y Sellantes",
+    "code": "211.150",
+    "name": "Thinner 1lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 56,
+    "classification": "Aglomerantes",
+    "code": "332.020",
+    "name": "Cal Hidratada En Bolsa 20KG",
+    "unit": "Un."
+  },
+  {
+    "id": 57,
+    "classification": "Aglomerantes",
+    "code": "332.006",
+    "name": "Cal Para Pintar En Bolsa 8Kg.",
+    "unit": "Un."
+  },
+  {
+    "id": 58,
+    "classification": "Aglomerantes",
+    "code": "332.007",
+    "name": "Cemento Para Albañilería X20Kg.",
+    "unit": "Un."
+  },
+  {
+    "id": 59,
+    "classification": "Aglomerantes",
+    "code": "332.008",
+    "name": "Cemento Portland X25Kg.",
+    "unit": "Un."
+  },
+  {
+    "id": 60,
+    "classification": "Aglomerantes",
+    "code": "332.023",
+    "name": "Revoque Monocapa Interior 2 en 1 x25Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 61,
+    "classification": "Aglomerantes",
+    "code": "332.019",
+    "name": "Revoque Monocapa Exterior 3 en 1 x25Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 62,
+    "classification": "Aglomerantes",
+    "code": "332.022",
+    "name": "Revoque Cementicio Base Coat x25Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 63,
+    "classification": "Aglomerantes",
+    "code": "331.032",
+    "name": "Sika Top Modul 5 Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 64,
+    "classification": "Aislantes",
+    "code": "341.006",
+    "name": "Lana De Vidrio 21.60M2  e=5Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 65,
+    "classification": "Aislantes",
+    "code": "211.333",
+    "name": "Malla Geotextil Rollo 1 x 10mt",
+    "unit": "Rollo"
+  },
+  {
+    "id": 66,
+    "classification": "Aislantes",
+    "code": "341.009",
+    "name": "Membrana Asfaltica Con Aluminio 4Mm 10m2.",
+    "unit": "Rollo"
+  },
+  {
+    "id": 67,
+    "classification": "Aislantes",
+    "code": "341.017",
+    "name": "Membrana autoadhesiva ancho 20cm x10mt",
+    "unit": "Rollo"
+  },
+  {
+    "id": 68,
+    "classification": "Aislantes",
+    "code": "341.010",
+    "name": "Nylon Tubular 200 Micrones (25 Kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 69,
+    "classification": "Aislantes",
+    "code": "341.014",
+    "name": "Plancha De Espuma De Poliestireno 3Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 70,
+    "classification": "Aislantes",
+    "code": "341.031",
+    "name": "Plancha Esp. De Poliestireno 5Cm Alta Dens. 10-50Kg/m3",
+    "unit": "Un."
+  },
+  {
+    "id": 71,
+    "classification": "Aislantes",
+    "code": "341.015",
+    "name": "Poliuretano Expandido En Spray 750Cc",
+    "unit": "Un."
+  },
+  {
+    "id": 72,
+    "classification": "Áridos",
+    "code": "351.001",
+    "name": "Arena Fina",
+    "unit": "M3"
+  },
+  {
+    "id": 73,
+    "classification": "Áridos",
+    "code": "351.015",
+    "name": "Arena Fina En Bolsa",
+    "unit": "Bolsa"
+  },
+  {
+    "id": 74,
+    "classification": "Áridos",
+    "code": "351.002",
+    "name": "Arena Gruesa",
+    "unit": "M3"
+  },
+  {
+    "id": 75,
+    "classification": "Áridos",
+    "code": "351.021",
+    "name": "Arena Gruesa En Bolsa",
+    "unit": "Bolsa"
+  },
+  {
+    "id": 76,
+    "classification": "Áridos",
+    "code": "351.003",
+    "name": "Arena Sucia",
+    "unit": "M3"
+  },
+  {
+    "id": 77,
+    "classification": "Áridos",
+    "code": "351.004",
+    "name": "Arena Terciada",
+    "unit": "M3"
+  },
+  {
+    "id": 78,
+    "classification": "Áridos",
+    "code": "351.016",
+    "name": "Arena Terciada En Bolsa",
+    "unit": "Bolsa"
+  },
+  {
+    "id": 79,
+    "classification": "Áridos",
+    "code": "351.005",
+    "name": "Balasto Natural",
+    "unit": "M3"
+  },
+  {
+    "id": 80,
+    "classification": "Áridos",
+    "code": "351.013",
+    "name": "Canto Rodado",
+    "unit": "M3"
+  },
+  {
+    "id": 81,
+    "classification": "Áridos",
+    "code": "351.010",
+    "name": "Destape de Cantera",
+    "unit": "M3"
+  },
+  {
+    "id": 82,
+    "classification": "Áridos",
+    "code": "351.006",
+    "name": "Gravillin",
+    "unit": "M3"
+  },
+  {
+    "id": 83,
+    "classification": "Áridos",
+    "code": "351.007",
+    "name": "Pedregullo",
+    "unit": "M3"
+  },
+  {
+    "id": 84,
+    "classification": "Áridos",
+    "code": "351.018",
+    "name": "Pedregullo En Bolsa",
+    "unit": "Bolsa"
+  },
+  {
+    "id": 85,
+    "classification": "Áridos",
+    "code": "351.011",
+    "name": "Piedra Partida Azul Ø2cm Máx.",
+    "unit": "M3"
+  },
+  {
+    "id": 86,
+    "classification": "Áridos",
+    "code": "351.008",
+    "name": "Tosca gruesa (libre de tierra negra)",
+    "unit": "M3"
+  },
+  {
+    "id": 87,
+    "classification": "Artefactos",
+    "code": "314.203",
+    "name": "Mueble Bajo Mesada 2 Puertas Estante DERECHA P/Mesada 1.20Mt (según detalle)",
+    "unit": "Un."
+  },
+  {
+    "id": 88,
+    "classification": "Artefactos",
+    "code": "314.204",
+    "name": "Mueble Bajo Mesada 2 Puertas Estante IZQUIERDO P/Mesada 1.20Mt (según detalle)",
+    "unit": "Un."
+  },
+  {
+    "id": 89,
+    "classification": "Artefactos",
+    "code": "314.205",
+    "name": "Mueble Bajo Mesada 2 Puertas Estante DERECHA P/Mesada 1.10Mt (según detalle)",
+    "unit": "Un."
+  },
+  {
+    "id": 90,
+    "classification": "Artefactos",
+    "code": "314.206",
+    "name": "Mueble Bajo Mesada 2 Puertas Estante IZQUIERDO P/Mesada 1.10Mt (según detalle)",
+    "unit": "Un."
+  },
+  {
+    "id": 91,
+    "classification": "Artefactos",
+    "code": "347.013",
+    "name": "Cisterna Con Bajada Pvc",
+    "unit": "Un."
+  },
+  {
+    "id": 92,
+    "classification": "Artefactos",
+    "code": "342.001",
+    "name": "Cisterna Mochila",
+    "unit": "Un."
+  },
+  {
+    "id": 93,
+    "classification": "Artefactos",
+    "code": "342.011",
+    "name": "Inodoro Accesible C/Mochila Y Pulsador",
+    "unit": "Un."
+  },
+  {
+    "id": 94,
+    "classification": "Artefactos",
+    "code": "342.003",
+    "name": "Inodoro Para Cisterna Mochila",
+    "unit": "Un."
+  },
+  {
+    "id": 95,
+    "classification": "Artefactos",
+    "code": "342.200",
+    "name": "Inodoro Para Cisterna Pared",
+    "unit": "Un."
+  },
+  {
+    "id": 96,
+    "classification": "Artefactos",
+    "code": "342.004",
+    "name": "Lavatorio",
+    "unit": "Un."
+  },
+  {
+    "id": 97,
+    "classification": "Artefactos",
+    "code": "342.012",
+    "name": "Lavatorio Accesible",
+    "unit": "Un."
+  },
+  {
+    "id": 98,
+    "classification": "Artefactos",
+    "code": "344.037",
+    "name": "Mesada 1.2X0,55M C/Pileta Central Granito Entera c/perforación",
+    "unit": "Un."
+  },
+  {
+    "id": 99,
+    "classification": "Artefactos",
+    "code": "344.089",
+    "name": "Mesada 1.2X0,55M C/Pileta Derecha Granito Entera c/perforación",
+    "unit": "Un."
+  },
+  {
+    "id": 100,
+    "classification": "Artefactos",
+    "code": "344.090",
+    "name": "Mesada 1.2X0,55M C/Pileta Izquierda Granito Entera c/perforación",
+    "unit": "Un."
+  },
+  {
+    "id": 101,
+    "classification": "Artefactos",
+    "code": "344.106",
+    "name": "Mesada 1.10X0,55M C/Pileta Derecha Granito Entera c/perforación C/Válvula",
+    "unit": "Un."
+  },
+  {
+    "id": 102,
+    "classification": "Artefactos",
+    "code": "344.107",
+    "name": "Mesada 1.10X0,55M C/Pileta Izquierda Granito Entera c/perforación C/Válvula",
+    "unit": "Un."
+  },
+  {
+    "id": 103,
+    "classification": "Artefactos",
+    "code": "342.006",
+    "name": "Pie De Lavatorio",
+    "unit": "Un."
+  },
+  {
+    "id": 104,
+    "classification": "Botiquín De Obra",
+    "code": "312.201",
+    "name": "Alcohol Líquido Al 70% (x litro)",
+    "unit": "Un."
+  },
+  {
+    "id": 105,
+    "classification": "Botiquín De Obra",
+    "code": "212.064",
+    "name": "Apósitos Esteriles",
+    "unit": "Un."
+  },
+  {
+    "id": 106,
+    "classification": "Botiquín De Obra",
+    "code": "212.109",
+    "name": "Botiquín Vacio (para primeros auxilios)",
+    "unit": "Un."
+  },
+  {
+    "id": 107,
+    "classification": "Botiquín De Obra",
+    "code": "212.047",
+    "name": "Cinta Leuco Tela",
+    "unit": "Rollo"
+  },
+  {
+    "id": 108,
+    "classification": "Botiquín De Obra",
+    "code": "212.040",
+    "name": "Gasa Esteril x40 Trozos Paq.",
+    "unit": "Un."
+  },
+  {
+    "id": 109,
+    "classification": "Botiquín De Obra",
+    "code": "212.117",
+    "name": "Guante Descartable Caja x100 Un.",
+    "unit": "Caja"
+  },
+  {
+    "id": 110,
+    "classification": "Botiquín De Obra",
+    "code": "212.044",
+    "name": "Jabon Neutro En Barra",
+    "unit": "Un."
+  },
+  {
+    "id": 111,
+    "classification": "Botiquín De Obra",
+    "code": "212.065",
+    "name": "Tapa Boca Descartable Caja x50Un",
+    "unit": "Caja"
+  },
+  {
+    "id": 112,
+    "classification": "Botiquín De Obra",
+    "code": "212.231",
+    "name": "Tapa Boca Rígido N95",
+    "unit": "Un."
+  },
+  {
+    "id": 113,
+    "classification": "Botiquín De Obra",
+    "code": "312.088",
+    "name": "Tijera 21Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 114,
+    "classification": "Botiquín De Obra",
+    "code": "212.037",
+    "name": "Venda de Gasa 10cmx3mt",
+    "unit": "Un."
+  },
+  {
+    "id": 115,
+    "classification": "Botiquín De Obra",
+    "code": "212.039",
+    "name": "Yodofon X100ml",
+    "unit": "Un."
+  },
+  {
+    "id": 116,
+    "classification": "Cerámica",
+    "code": "211.144",
+    "name": "Adhesivo Impermeable 25kg",
+    "unit": "Un."
+  },
+  {
+    "id": 117,
+    "classification": "Cerámica",
+    "code": "314.113",
+    "name": "Azulejo Juntos 20x20Cm 2 Tintas",
+    "unit": "Un."
+  },
+  {
+    "id": 118,
+    "classification": "Cerámica",
+    "code": "371.081",
+    "name": "Juntacruz 1Mm x100 Un.",
+    "unit": "Un."
+  },
+  {
+    "id": 119,
+    "classification": "Cerámica",
+    "code": "371.084",
+    "name": "Juntacruz 2Mm x100 Un.",
+    "unit": "Un."
+  },
+  {
+    "id": 120,
+    "classification": "Cerámica",
+    "code": "371.082",
+    "name": "Juntacruz 3Mm x100 Un.",
+    "unit": "Un."
+  },
+  {
+    "id": 121,
+    "classification": "Cerámica",
+    "code": "331.023",
+    "name": "Pastina Color Blanco 1 Kg.",
+    "unit": "Kg."
+  },
+  {
+    "id": 122,
+    "classification": "Cerámica",
+    "code": "331.029",
+    "name": "Pastina Color Gris 1 Kg.",
+    "unit": "Kg."
+  },
+  {
+    "id": 123,
+    "classification": "Cerámica",
+    "code": "314.030",
+    "name": "Revestimiento Cerámico P/Pared Blanco M2 30X60Cm",
+    "unit": "M2"
+  },
+  {
+    "id": 124,
+    "classification": "Cerámica",
+    "code": "314.086",
+    "name": "Revestimiento Cerámico P/Piso Gris M2 60x60Cm",
+    "unit": "M2"
+  },
+  {
+    "id": 125,
+    "classification": "Eléctrica",
+    "code": "372.002",
+    "name": "Alambre De Cobre Forrado Superplástico 2X2Mm2 (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 126,
+    "classification": "Eléctrica",
+    "code": "321.094",
+    "name": "Alambre De Cobre Forrado Superplástico 2X4Mm2  (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 127,
+    "classification": "Eléctrica",
+    "code": "372.003",
+    "name": "Alambre De Cobre Forrado Superplástico 2X6Mm2  (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 128,
+    "classification": "Eléctrica",
+    "code": "372.004",
+    "name": "Alambre De Cobre Forrado Superplástico 3X1Mm2  (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 129,
+    "classification": "Eléctrica",
+    "code": "372.005",
+    "name": "Alambre De Cobre Forrado Superplástico 3X2Mm2  (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 130,
+    "classification": "Eléctrica",
+    "code": "372.007",
+    "name": "Alambre De Cobre Forrado Superplástico 3X6Mm2  (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 131,
+    "classification": "Eléctrica",
+    "code": "221.311",
+    "name": "Apretacable 3mm 1/8",
+    "unit": "Un."
+  },
+  {
+    "id": 132,
+    "classification": "Eléctrica",
+    "code": "374.168",
+    "name": "Artefacto Tortuga Ovalada 190 x 105 x 72 mm (chico)",
+    "unit": "Un."
+  },
+  {
+    "id": 133,
+    "classification": "Eléctrica",
+    "code": "374.223",
+    "name": "Barra Distribución 63A 1Mt (2 Polos, Peine)",
+    "unit": "Un."
+  },
+  {
+    "id": 134,
+    "classification": "Eléctrica",
+    "code": "374.127",
+    "name": "Bornera p/ tablero tierra 10mm",
+    "unit": "Un."
+  },
+  {
+    "id": 135,
+    "classification": "Eléctrica",
+    "code": "372.010",
+    "name": "Cable Bajo Goma 2X6Mm2  (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 136,
+    "classification": "Eléctrica",
+    "code": "372.012",
+    "name": "Cable Bajo Goma 3X1Mm2 (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 137,
+    "classification": "Eléctrica",
+    "code": "372.013",
+    "name": "Cable Bajo Goma 3X2Mm2 (rollo 100mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 138,
+    "classification": "Eléctrica",
+    "code": "372.020",
+    "name": "Cable Multifilar Con Aislacion Pvc 1Mm2 Blanco",
+    "unit": "Rollo"
+  },
+  {
+    "id": 139,
+    "classification": "Eléctrica",
+    "code": "372.021",
+    "name": "Cable Multifilar Con Aislacion Pvc 1Mm2 Celeste",
+    "unit": "Rollo"
+  },
+  {
+    "id": 140,
+    "classification": "Eléctrica",
+    "code": "372.022",
+    "name": "Cable Multifilar Con Aislacion Pvc 1Mm2 Rojo",
+    "unit": "Rollo"
+  },
+  {
+    "id": 141,
+    "classification": "Eléctrica",
+    "code": "372.023",
+    "name": "Cable Multifilar Con Aislacion Pvc 1Mm2 Verde/Amarillo",
+    "unit": "Rollo"
+  },
+  {
+    "id": 142,
+    "classification": "Eléctrica",
+    "code": "372.024",
+    "name": "Cable Multifilar Con Aislacion Pvc 2Mm2 Blanco",
+    "unit": "Rollo"
+  },
+  {
+    "id": 143,
+    "classification": "Eléctrica",
+    "code": "372.025",
+    "name": "Cable Multifilar Con Aislacion Pvc 2Mm2 Celeste",
+    "unit": "Rollo"
+  },
+  {
+    "id": 144,
+    "classification": "Eléctrica",
+    "code": "372.026",
+    "name": "Cable Multifilar Con Aislacion Pvc 2Mm2 Rojo",
+    "unit": "Rollo"
+  },
+  {
+    "id": 145,
+    "classification": "Eléctrica",
+    "code": "372.027",
+    "name": "Cable Multifilar Con Aislacion Pvc 2Mm2 Verde/Amarillo",
+    "unit": "Rollo"
+  },
+  {
+    "id": 146,
+    "classification": "Eléctrica",
+    "code": "372.031",
+    "name": "Cable Multifilar Con Aislacion Pvc 4Mm2 Verde/Amarillo",
+    "unit": "Rollo"
+  },
+  {
+    "id": 147,
+    "classification": "Eléctrica",
+    "code": "372.032",
+    "name": "Cable Multifilar Con Aislacion Pvc 6Mm2 Blanco U46",
+    "unit": "Rollo"
+  },
+  {
+    "id": 148,
+    "classification": "Eléctrica",
+    "code": "372.033",
+    "name": "Cable Multifilar Con Aislación Pvc 6Mm2 Celeste",
+    "unit": "Rollo"
+  },
+  {
+    "id": 149,
+    "classification": "Eléctrica",
+    "code": "372.034",
+    "name": "Cable Multifilar Con Aislacion Pvc 6Mm2 Rojo U46",
+    "unit": "Rollo"
+  },
+  {
+    "id": 150,
+    "classification": "Eléctrica",
+    "code": "372.035",
+    "name": "Cable Multifilar Con Aislacion Pvc 6Mm2 Verde/Amarillo",
+    "unit": "Rollo"
+  },
+  {
+    "id": 151,
+    "classification": "Eléctrica",
+    "code": "371.050",
+    "name": "Caja De Embutir Para Inst. Electrica P/Yeso (10X5) Estructural C/ Solapas",
+    "unit": "Un."
+  },
+  {
+    "id": 152,
+    "classification": "Eléctrica",
+    "code": "371.102",
+    "name": "Caja De Embutir Para Inst. Electrica P/Yeso (5X5)",
+    "unit": "Un."
+  },
+  {
+    "id": 153,
+    "classification": "Eléctrica",
+    "code": "371.006",
+    "name": "Caja De Embutir Para Instalacion Electrica Brazo (5X5)",
+    "unit": "Un."
+  },
+  {
+    "id": 154,
+    "classification": "Eléctrica",
+    "code": "371.007",
+    "name": "Caja De Embutir Para Instalacion Electrica Centro",
+    "unit": "Un."
+  },
+  {
+    "id": 155,
+    "classification": "Eléctrica",
+    "code": "371.005",
+    "name": "Caja De Embutir Para Instalacion Electrica Honda (10X5)",
+    "unit": "Un."
+  },
+  {
+    "id": 156,
+    "classification": "Eléctrica",
+    "code": "371.054",
+    "name": "Caja estanco 10x10",
+    "unit": "Un."
+  },
+  {
+    "id": 157,
+    "classification": "Eléctrica",
+    "code": "371.053",
+    "name": "Caja estanco 15x20 tapa transparente 1 modulo",
+    "unit": "Un."
+  },
+  {
+    "id": 158,
+    "classification": "Eléctrica",
+    "code": "374.017",
+    "name": "Caja Estanco P/ Interruptor Precintable C/Riel Din",
+    "unit": "Un."
+  },
+  {
+    "id": 159,
+    "classification": "Eléctrica",
+    "code": "371.009",
+    "name": "Caja Exterior Para Modulos (1Modulo) Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 160,
+    "classification": "Eléctrica",
+    "code": "371.010",
+    "name": "Caja Exterior Para Modulos (2Modulos) Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 161,
+    "classification": "Eléctrica",
+    "code": "371.011",
+    "name": "Caja Exterior Para Módulos (3Modulos) Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 162,
+    "classification": "Eléctrica",
+    "code": "374.018",
+    "name": "Cajon De Policarbonato P/Medidor Monofásico C/Llave",
+    "unit": "Un."
+  },
+  {
+    "id": 163,
+    "classification": "Eléctrica",
+    "code": "374.194",
+    "name": "Caño Corrugado 20Mm Inst. Eléct. (50Mt) Antillama",
+    "unit": "Rollo"
+  },
+  {
+    "id": 164,
+    "classification": "Eléctrica",
+    "code": "374.020",
+    "name": "Caño Corrugado 20Mm Para Instalaciones Electricas (50mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 165,
+    "classification": "Eléctrica",
+    "code": "374.195",
+    "name": "Caño Corrugado 25Mm Inst. Eléct. (50Mt) Antillama",
+    "unit": "Rollo"
+  },
+  {
+    "id": 166,
+    "classification": "Eléctrica",
+    "code": "374.021",
+    "name": "Caño Corrugado 25Mm Para Instalaciones Electricas (50mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 167,
+    "classification": "Eléctrica",
+    "code": "374.022",
+    "name": "Caño Corrugado 32Mm Para Instalaciones Electricas (50mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 168,
+    "classification": "Eléctrica",
+    "code": "371.012",
+    "name": "Conector Para Jabalina",
+    "unit": "Un."
+  },
+  {
+    "id": 169,
+    "classification": "Eléctrica",
+    "code": "371.013",
+    "name": "Cupla 20Mm Para Caño Pvc Corrugado",
+    "unit": "Un."
+  },
+  {
+    "id": 170,
+    "classification": "Eléctrica",
+    "code": "371.014",
+    "name": "Cupla 25Mm Para Caño Pvc Corrugado",
+    "unit": "Un."
+  },
+  {
+    "id": 171,
+    "classification": "Eléctrica",
+    "code": "371.015",
+    "name": "Cupla 32Mm Para Caño Pvc Corrugado",
+    "unit": "Un."
+  },
+  {
+    "id": 172,
+    "classification": "Eléctrica",
+    "code": "371.017",
+    "name": "Ducto Pvc 100Mmx50Mm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 173,
+    "classification": "Eléctrica",
+    "code": "371.076",
+    "name": "Ducto Pvc 10Mmx40Mm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 174,
+    "classification": "Eléctrica",
+    "code": "371.018",
+    "name": "Ducto Pvc 20Mmx10Mm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 175,
+    "classification": "Eléctrica",
+    "code": "371.077",
+    "name": "Ducto Pvc 20Mmx15Mm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 176,
+    "classification": "Eléctrica",
+    "code": "371.019",
+    "name": "Ducto Pvc 20Mmx20Mm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 177,
+    "classification": "Eléctrica",
+    "code": "371.020",
+    "name": "Ducto Pvc 20Mmx40Mm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 178,
+    "classification": "Eléctrica",
+    "code": "371.063",
+    "name": "Ducto PVC 25x25cm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 179,
+    "classification": "Eléctrica",
+    "code": "371.064",
+    "name": "Ducto PVC 30x25cm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 180,
+    "classification": "Eléctrica",
+    "code": "371.078",
+    "name": "Ducto Pvc 40Mmx16Mm largo 2mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 181,
+    "classification": "Eléctrica",
+    "code": "371.021",
+    "name": "Ficha 3 En Línea Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 182,
+    "classification": "Eléctrica",
+    "code": "371.022",
+    "name": "Ficha 3 En Línea Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 183,
+    "classification": "Eléctrica",
+    "code": "371.024",
+    "name": "Ficha Tipo Schuko Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 184,
+    "classification": "Eléctrica",
+    "code": "371.025",
+    "name": "Ficha Tipo Schuko Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 185,
+    "classification": "Eléctrica",
+    "code": "374.251",
+    "name": "Foco Reflector LED 100W IP66 Luz Fría",
+    "unit": "Un."
+  },
+  {
+    "id": 186,
+    "classification": "Eléctrica",
+    "code": "374.252",
+    "name": "Foco Reflector LED 50W C/Sensor De Movimiento",
+    "unit": "Un."
+  },
+  {
+    "id": 187,
+    "classification": "Eléctrica",
+    "code": "374.126",
+    "name": "Fotocélula",
+    "unit": "Un."
+  },
+  {
+    "id": 188,
+    "classification": "Eléctrica",
+    "code": "374.032",
+    "name": "Interruptor 10A Termomagnético Monofásico Bipolar",
+    "unit": "Un."
+  },
+  {
+    "id": 189,
+    "classification": "Eléctrica",
+    "code": "374.033",
+    "name": "Interruptor 16A Termomagnetico Monofásico Bipolar",
+    "unit": "Un."
+  },
+  {
+    "id": 190,
+    "classification": "Eléctrica",
+    "code": "374.036",
+    "name": "Interruptor 25A Diferencial Monofasico",
+    "unit": "Un."
+  },
+  {
+    "id": 191,
+    "classification": "Eléctrica",
+    "code": "374.037",
+    "name": "Interruptor 25A Termomagnetico Monofásico Bipolar",
+    "unit": "Un."
+  },
+  {
+    "id": 192,
+    "classification": "Eléctrica",
+    "code": "374.040",
+    "name": "Interruptor 32A Termomagnetico Monofásico Bipolar",
+    "unit": "Un."
+  },
+  {
+    "id": 193,
+    "classification": "Eléctrica",
+    "code": "374.042",
+    "name": "Interruptor 40A Diferencial Monofasico",
+    "unit": "Un."
+  },
+  {
+    "id": 194,
+    "classification": "Eléctrica",
+    "code": "374.052",
+    "name": "Interruptor Bipolar De Embutir Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 195,
+    "classification": "Eléctrica",
+    "code": "374.069",
+    "name": "Interruptor De Combinación Unipolar Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 196,
+    "classification": "Eléctrica",
+    "code": "374.054",
+    "name": "Interruptor Unipolar Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 197,
+    "classification": "Eléctrica",
+    "code": "374.055",
+    "name": "Interruptor Unipolar Exterior Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 198,
+    "classification": "Eléctrica",
+    "code": "374.056",
+    "name": "Jabalina de 2Mts con conector homologada Ø14mm",
+    "unit": "Un."
+  },
+  {
+    "id": 199,
+    "classification": "Eléctrica",
+    "code": "374.065",
+    "name": "Lámpara LED 7W Espiral Cálida",
+    "unit": "Un."
+  },
+  {
+    "id": 200,
+    "classification": "Eléctrica",
+    "code": "371.120",
+    "name": "Lampara LED 10W",
+    "unit": "Un."
+  },
+  {
+    "id": 201,
+    "classification": "Eléctrica",
+    "code": "371.030",
+    "name": "Modulo Ciego Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 202,
+    "classification": "Eléctrica",
+    "code": "371.031",
+    "name": "Plaqueta Ciega Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 203,
+    "classification": "Eléctrica",
+    "code": "371.032",
+    "name": "Plaqueta De 1 Modulo Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 204,
+    "classification": "Eléctrica",
+    "code": "371.033",
+    "name": "Plaqueta De 2 Modulo Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 205,
+    "classification": "Eléctrica",
+    "code": "371.034",
+    "name": "Plaqueta De 2 Modulo Separados Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 206,
+    "classification": "Eléctrica",
+    "code": "371.035",
+    "name": "Plaqueta De 3 Modulo Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 207,
+    "classification": "Eléctrica",
+    "code": "371.127",
+    "name": "Portalámpara De Colgar Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 208,
+    "classification": "Eléctrica",
+    "code": "371.036",
+    "name": "Portalámpara De Colgar Negro",
+    "unit": "Un."
+  },
+  {
+    "id": 209,
+    "classification": "Eléctrica",
+    "code": "371.038",
+    "name": "Receptaculo Curvo Blanco/Marfil",
+    "unit": "Un."
+  },
+  {
+    "id": 210,
+    "classification": "Eléctrica",
+    "code": "371.039",
+    "name": "Receptaculo Recto Blanco/Marfil (Portalampara C/Recep)",
+    "unit": "Un."
+  },
+  {
+    "id": 211,
+    "classification": "Eléctrica",
+    "code": "371.040",
+    "name": "Regleta De Union 10Mm2",
+    "unit": "Un."
+  },
+  {
+    "id": 212,
+    "classification": "Eléctrica",
+    "code": "371.041",
+    "name": "Regleta de unión 12mm2",
+    "unit": "Un."
+  },
+  {
+    "id": 213,
+    "classification": "Eléctrica",
+    "code": "371.044",
+    "name": "Regleta De Union 2Mm2",
+    "unit": "Un."
+  },
+  {
+    "id": 214,
+    "classification": "Eléctrica",
+    "code": "371.045",
+    "name": "Regleta De Union 4Mm2",
+    "unit": "Un."
+  },
+  {
+    "id": 215,
+    "classification": "Eléctrica",
+    "code": "371.046",
+    "name": "Regleta De Union 6Mm2",
+    "unit": "Un."
+  },
+  {
+    "id": 216,
+    "classification": "Eléctrica",
+    "code": "371.047",
+    "name": "Regleta De Union 8Mm2",
+    "unit": "Un."
+  },
+  {
+    "id": 217,
+    "classification": "Eléctrica",
+    "code": "374.201",
+    "name": "Soporte De Chapa P/ Cajon De Policarbonato",
+    "unit": "Un."
+  },
+  {
+    "id": 218,
+    "classification": "Eléctrica",
+    "code": "374.080",
+    "name": "Tablero 12 Módulos De Embutir c/bornera",
+    "unit": "Un."
+  },
+  {
+    "id": 219,
+    "classification": "Eléctrica",
+    "code": "374.082",
+    "name": "Tablero 12 Módulos Exterior c/bornera",
+    "unit": "Un."
+  },
+  {
+    "id": 220,
+    "classification": "Eléctrica",
+    "code": "374.087",
+    "name": "Tablero 24 Módulos De Embutir c/bornera",
+    "unit": "Un."
+  },
+  {
+    "id": 221,
+    "classification": "Eléctrica",
+    "code": "374.089",
+    "name": "Tablero 24 Módulos Exterior c/bornera",
+    "unit": "Un."
+  },
+  {
+    "id": 222,
+    "classification": "Eléctrica",
+    "code": "371.049",
+    "name": "Tapa Centro Para Caja De Inst Electrica Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 223,
+    "classification": "Eléctrica",
+    "code": "371.075",
+    "name": "Tapa Ciega Para Caja De Inst. Electrica (10X5) Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 224,
+    "classification": "Eléctrica",
+    "code": "371.048",
+    "name": "Tapa Ciega Para Caja De Inst. Electrica (5X5) Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 225,
+    "classification": "Eléctrica",
+    "code": "374.235",
+    "name": "Tensor Plástico Para Acometida (Cable)",
+    "unit": "Un."
+  },
+  {
+    "id": 226,
+    "classification": "Eléctrica",
+    "code": "374.074",
+    "name": "Tomacorriente 3 En Linea Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 227,
+    "classification": "Eléctrica",
+    "code": "374.192",
+    "name": "Tomacorriente Exterior Schuko Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 228,
+    "classification": "Eléctrica",
+    "code": "374.075",
+    "name": "Tomacorriente Schuko Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 229,
+    "classification": "Eléctrica",
+    "code": "374.242",
+    "name": "Unión Estanco Tipo Tubo-Caja 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 230,
+    "classification": "Equipos",
+    "code": "242.017",
+    "name": "Estufa Halógena 3 Tubos",
+    "unit": "Un."
+  },
+  {
+    "id": 231,
+    "classification": "Equipos",
+    "code": "241.007",
+    "name": "Frigobar",
+    "unit": "Un."
+  },
+  {
+    "id": 232,
+    "classification": "Equipos",
+    "code": "241.005",
+    "name": "Heladera 220Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 233,
+    "classification": "Equipos",
+    "code": "242.016",
+    "name": "Jarra eléctrica",
+    "unit": "Un."
+  },
+  {
+    "id": 234,
+    "classification": "Equipos",
+    "code": "241.006",
+    "name": "Microondas 17Lts.",
+    "unit": "Un."
+  },
+  {
+    "id": 235,
+    "classification": "Equipos",
+    "code": "241.048",
+    "name": "Termotanque 60Lt Eficiencia Energ. A (UTE)",
+    "unit": "Un."
+  },
+  {
+    "id": 236,
+    "classification": "Equipos",
+    "code": "241.013",
+    "name": "Termotanque 40 lt",
+    "unit": "Un."
+  },
+  {
+    "id": 237,
+    "classification": "Equipos",
+    "code": "242.014",
+    "name": "Ventilador de pie C/Aspas Metálicas",
+    "unit": "Un."
+  },
+  {
+    "id": 238,
+    "classification": "Fijaciones",
+    "code": "374.003",
+    "name": "Abrazadera plástica 3,5x200mm (x100un.)",
+    "unit": "Un."
+  },
+  {
+    "id": 239,
+    "classification": "Fijaciones",
+    "code": "374.005",
+    "name": "Abrazadera Plastica 5.0X200Mm (x100 un.)",
+    "unit": "Un."
+  },
+  {
+    "id": 240,
+    "classification": "Fijaciones",
+    "code": "374.121",
+    "name": "Abrazadera Plastica 5X300Mm (x100 un.)",
+    "unit": "Un."
+  },
+  {
+    "id": 241,
+    "classification": "Fijaciones",
+    "code": "374.123",
+    "name": "Abrazadera Plastica 5X400Mm (x100 un.)",
+    "unit": "Un."
+  },
+  {
+    "id": 242,
+    "classification": "Fijaciones",
+    "code": "374.006",
+    "name": "Abrazaderas De Metal De 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 243,
+    "classification": "Fijaciones",
+    "code": "374.007",
+    "name": "Abrazaderas De Metal De 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 244,
+    "classification": "Fijaciones",
+    "code": "321.001",
+    "name": "Alambre 10  (rollo 25kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 245,
+    "classification": "Fijaciones",
+    "code": "321.002",
+    "name": "Alambre 12  (rollo 25kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 246,
+    "classification": "Fijaciones",
+    "code": "321.003",
+    "name": "Alambre 14   (rollo 25kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 247,
+    "classification": "Fijaciones",
+    "code": "321.004",
+    "name": "Alambre 16   (rollo 25kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 248,
+    "classification": "Fijaciones",
+    "code": "321.005",
+    "name": "Alambre 18  (rollo 25kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 249,
+    "classification": "Fijaciones",
+    "code": "321.006",
+    "name": "Alambre Galvanizado 12   (rollo 25kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 250,
+    "classification": "Fijaciones",
+    "code": "321.007",
+    "name": "Alambre Galvanizado 14  (rollo 25kg)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 251,
+    "classification": "Fijaciones",
+    "code": "321.107",
+    "name": "Arandela plana 1/4",
+    "unit": "Un."
+  },
+  {
+    "id": 252,
+    "classification": "Fijaciones",
+    "code": "321.011",
+    "name": "Arandela Plana 5/16",
+    "unit": "Un."
+  },
+  {
+    "id": 253,
+    "classification": "Fijaciones",
+    "code": "321.099",
+    "name": "Arandela plana reforzada 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 254,
+    "classification": "Fijaciones",
+    "code": "321.025",
+    "name": "Arandela Reforzada 3/8",
+    "unit": "Un."
+  },
+  {
+    "id": 255,
+    "classification": "Fijaciones",
+    "code": "311.003",
+    "name": "Bisagra 3 x 2 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 256,
+    "classification": "Fijaciones",
+    "code": "221.299",
+    "name": "Bulon (6mm) 1/4\" x 2 1/2\" cabeza redonda, cuello cuadrado",
+    "unit": "Un."
+  },
+  {
+    "id": 257,
+    "classification": "Fijaciones",
+    "code": "221.378",
+    "name": "Bulón (6mm) 1/4\" x 2\" con tuerca",
+    "unit": "Un."
+  },
+  {
+    "id": 258,
+    "classification": "Fijaciones",
+    "code": "221.369",
+    "name": "Bulon (9,50mm) 3/8\" x 2 1/2\" cabeza hexagonal",
+    "unit": "Un."
+  },
+  {
+    "id": 259,
+    "classification": "Fijaciones",
+    "code": "321.234",
+    "name": "Clavo De Acero 2\" 1/2  para pistola de clavos",
+    "unit": "Un."
+  },
+  {
+    "id": 260,
+    "classification": "Fijaciones",
+    "code": "321.035",
+    "name": "Clavo De Acero 2\" para pistola de clavos",
+    "unit": "Un."
+  },
+  {
+    "id": 261,
+    "classification": "Fijaciones",
+    "code": "321.036",
+    "name": "Clavo J P/Techo 6Cm Completo",
+    "unit": "Un."
+  },
+  {
+    "id": 262,
+    "classification": "Fijaciones",
+    "code": "321.037",
+    "name": "Clavo J P/Techo 9Cm Completo",
+    "unit": "Un."
+  },
+  {
+    "id": 263,
+    "classification": "Fijaciones",
+    "code": "321.038",
+    "name": "Clavo Para Techo Con Gomitas",
+    "unit": "Un."
+  },
+  {
+    "id": 264,
+    "classification": "Fijaciones",
+    "code": "321.241",
+    "name": "Clavos 1”  (Kg)",
+    "unit": "kg."
+  },
+  {
+    "id": 265,
+    "classification": "Fijaciones",
+    "code": "321.039",
+    "name": "Clavos 2 ½”  (Kg)",
+    "unit": "kg."
+  },
+  {
+    "id": 266,
+    "classification": "Fijaciones",
+    "code": "321.040",
+    "name": "Clavos 2”  (Kg)",
+    "unit": "kg."
+  },
+  {
+    "id": 267,
+    "classification": "Fijaciones",
+    "code": "321.041",
+    "name": "Clavos 3”  (Kg)",
+    "unit": "kg."
+  },
+  {
+    "id": 268,
+    "classification": "Fijaciones",
+    "code": "321.042",
+    "name": "Clavos 4”  (Kg)",
+    "unit": "Un."
+  },
+  {
+    "id": 269,
+    "classification": "Fijaciones",
+    "code": "374.029",
+    "name": "Fleje Acero Inox. 19Mm x30Mt P/Eléctrica",
+    "unit": "Un."
+  },
+  {
+    "id": 270,
+    "classification": "Fijaciones",
+    "code": "371.142",
+    "name": "Fleje de plástico 19mm x30mt.",
+    "unit": "Rollo"
+  },
+  {
+    "id": 271,
+    "classification": "Fijaciones",
+    "code": "211.314",
+    "name": "Gancho P/Techo 1/4\" x 20cm largo completo",
+    "unit": "Un."
+  },
+  {
+    "id": 272,
+    "classification": "Fijaciones",
+    "code": "371.029",
+    "name": "Hebilla Para Fleje de plástico de 19 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 273,
+    "classification": "Fijaciones",
+    "code": "371.069",
+    "name": "Hebilla para fleje metálico 19mm",
+    "unit": "Un."
+  },
+  {
+    "id": 274,
+    "classification": "Fijaciones",
+    "code": "211.183",
+    "name": "Taco autoexpansible metálico 3/8\"",
+    "unit": "Un."
+  },
+  {
+    "id": 275,
+    "classification": "Fijaciones",
+    "code": "374.101",
+    "name": "Taco Fisher 10Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 276,
+    "classification": "Fijaciones",
+    "code": "374.102",
+    "name": "Taco Fisher 10Mm P/Bloque",
+    "unit": "Un."
+  },
+  {
+    "id": 277,
+    "classification": "Fijaciones",
+    "code": "374.103",
+    "name": "Taco Fisher 12Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 278,
+    "classification": "Fijaciones",
+    "code": "374.105",
+    "name": "Taco Fisher 6Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 279,
+    "classification": "Fijaciones",
+    "code": "374.106",
+    "name": "Taco Fisher 6Mm P/Bloque",
+    "unit": "Un."
+  },
+  {
+    "id": 280,
+    "classification": "Fijaciones",
+    "code": "374.107",
+    "name": "Taco Fisher 8Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 281,
+    "classification": "Fijaciones",
+    "code": "374.163",
+    "name": "Taco Fisher 8Mm P/Bloque",
+    "unit": "Un."
+  },
+  {
+    "id": 282,
+    "classification": "Fijaciones",
+    "code": "374.166",
+    "name": "Taco Fisher 8Mm P/Yeso",
+    "unit": "Un."
+  },
+  {
+    "id": 283,
+    "classification": "Fijaciones",
+    "code": "221.319",
+    "name": "Taco Metálico de Expansión 8Mm Camisa Larga de 90mm",
+    "unit": "Un."
+  },
+  {
+    "id": 284,
+    "classification": "Fijaciones",
+    "code": "211.298",
+    "name": "Tensor para alambre 10mm",
+    "unit": "Un."
+  },
+  {
+    "id": 285,
+    "classification": "Fijaciones",
+    "code": "211.369",
+    "name": "Tirafondo ((1/4\") X 2 1/2\")",
+    "unit": "Un."
+  },
+  {
+    "id": 286,
+    "classification": "Fijaciones",
+    "code": "211.256",
+    "name": "Tirafondo (5/16\" x 2 1/2\")",
+    "unit": "Un."
+  },
+  {
+    "id": 287,
+    "classification": "Fijaciones",
+    "code": "211.255",
+    "name": "Tirafondo (5/16\" X 2\")",
+    "unit": "Un."
+  },
+  {
+    "id": 288,
+    "classification": "Fijaciones",
+    "code": "321.056",
+    "name": "Tirafondo (6Mm (1/4\") x 4\")",
+    "unit": "Un."
+  },
+  {
+    "id": 289,
+    "classification": "Fijaciones",
+    "code": "321.244",
+    "name": "Tornillo 2,3x30",
+    "unit": "Un."
+  },
+  {
+    "id": 290,
+    "classification": "Fijaciones",
+    "code": "211.170",
+    "name": "Tornillo 4 x 35-50 (Para taco de 6mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 291,
+    "classification": "Fijaciones",
+    "code": "321.239",
+    "name": "Tornillo 4.5x50",
+    "unit": "Un."
+  },
+  {
+    "id": 292,
+    "classification": "Fijaciones",
+    "code": "211.287",
+    "name": "Tornillo 4x30 Pozy Drive",
+    "unit": "Un."
+  },
+  {
+    "id": 293,
+    "classification": "Fijaciones",
+    "code": "221.327",
+    "name": "Tornillo 4x40 cabeza hexagonal Punta Mecha c/ Goma",
+    "unit": "Un."
+  },
+  {
+    "id": 294,
+    "classification": "Fijaciones",
+    "code": "211.286",
+    "name": "Tornillo 4x50 Pozy Drive",
+    "unit": "Un."
+  },
+  {
+    "id": 295,
+    "classification": "Fijaciones",
+    "code": "211.173",
+    "name": "Tornillo 5 x 35-50 (Para taco de 8mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 296,
+    "classification": "Fijaciones",
+    "code": "211.317",
+    "name": "Tornillo 5x70",
+    "unit": "Un."
+  },
+  {
+    "id": 297,
+    "classification": "Fijaciones",
+    "code": "211.176",
+    "name": "Tornillo 6 x 35-50 (Para taco de 10mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 298,
+    "classification": "Fijaciones",
+    "code": "211.397",
+    "name": "Tornillo Autorrosc. Cabeza Hexagonal 3/8\" De 3,5\" de largo",
+    "unit": "Un."
+  },
+  {
+    "id": 299,
+    "classification": "Fijaciones",
+    "code": "221.396",
+    "name": "Tornillo Cab. Hexag. Punta Mecha 10x3/4-4.8x19mm",
+    "unit": "Un."
+  },
+  {
+    "id": 300,
+    "classification": "Fijaciones",
+    "code": "211.313",
+    "name": "Tornillo cabeza hexagonal punta mecha 1\" c/ goma",
+    "unit": "Un."
+  },
+  {
+    "id": 301,
+    "classification": "Fijaciones",
+    "code": "321.237",
+    "name": "Tornillo Cabeza Plana 3Cm Para Plaqueta",
+    "unit": "Un."
+  },
+  {
+    "id": 302,
+    "classification": "Fijaciones",
+    "code": "321.236",
+    "name": "Tornillo Cabeza Plana 5Cm Para Plaqueta",
+    "unit": "Un."
+  },
+  {
+    "id": 303,
+    "classification": "Fijaciones",
+    "code": "221.300",
+    "name": "Tornillo T1 Punta Aguja 8x1/2 - 4.2x14mm",
+    "unit": "Un."
+  },
+  {
+    "id": 304,
+    "classification": "Fijaciones",
+    "code": "321.078",
+    "name": "Tornillo T1 Punta Mecha 8x1/2-4.2x14mm",
+    "unit": "Un."
+  },
+  {
+    "id": 305,
+    "classification": "Fijaciones",
+    "code": "321.079",
+    "name": "Tornillo T2 Punta Aguja 6x1-3.5x25mm",
+    "unit": "Un."
+  },
+  {
+    "id": 306,
+    "classification": "Fijaciones",
+    "code": "221.398",
+    "name": "Tornillo T2 Punta Mecha 6x1-3.5x25mm",
+    "unit": "Un."
+  },
+  {
+    "id": 307,
+    "classification": "Fijaciones",
+    "code": "211.189",
+    "name": "Tornillo T3 Punta Aguja 6x1-3.5x38mm",
+    "unit": "Un."
+  },
+  {
+    "id": 308,
+    "classification": "Fijaciones",
+    "code": "221.332",
+    "name": "Tornillo T3 Punta Mecha 6x1-3.5x38mm",
+    "unit": "Un."
+  },
+  {
+    "id": 309,
+    "classification": "Fijaciones",
+    "code": "211.152",
+    "name": "Tuerca 1/2",
+    "unit": "Un."
+  },
+  {
+    "id": 310,
+    "classification": "Fijaciones",
+    "code": "211.153",
+    "name": "Tuerca 1/4",
+    "unit": "Un."
+  },
+  {
+    "id": 311,
+    "classification": "Fijaciones",
+    "code": "321.150",
+    "name": "Tuerca 1/4 Zincada",
+    "unit": "Un."
+  },
+  {
+    "id": 312,
+    "classification": "Fijaciones",
+    "code": "211.337",
+    "name": "Tuerca 1/8",
+    "unit": "Un."
+  },
+  {
+    "id": 313,
+    "classification": "Fijaciones",
+    "code": "211.154",
+    "name": "Tuerca 3/16",
+    "unit": "Un."
+  },
+  {
+    "id": 314,
+    "classification": "Fijaciones",
+    "code": "211.290",
+    "name": "Tuerca 3/4",
+    "unit": "Un."
+  },
+  {
+    "id": 315,
+    "classification": "Fijaciones",
+    "code": "211.155",
+    "name": "Tuerca 3/8",
+    "unit": "Un."
+  },
+  {
+    "id": 316,
+    "classification": "Fijaciones",
+    "code": "211.156",
+    "name": "Tuerca 5/16",
+    "unit": "Un."
+  },
+  {
+    "id": 317,
+    "classification": "Fijaciones",
+    "code": "211.291",
+    "name": "Tuerca 5/8",
+    "unit": "Un."
+  },
+  {
+    "id": 318,
+    "classification": "Fijaciones",
+    "code": "321.219",
+    "name": "Varilla 1/4\" C/Rosca 9cm x 20cm largo",
+    "unit": "Un."
+  },
+  {
+    "id": 319,
+    "classification": "Fijaciones",
+    "code": "321.114",
+    "name": "Varilla roscada 3/8",
+    "unit": "Un."
+  },
+  {
+    "id": 320,
+    "classification": "Grifería y Varios",
+    "code": "314.001",
+    "name": "Aro Base Inodoro",
+    "unit": "Un."
+  },
+  {
+    "id": 321,
+    "classification": "Grifería y Varios",
+    "code": "314.093",
+    "name": "Asiento Rebatible Para Ducha Accesible Acero Inox.",
+    "unit": "Un."
+  },
+  {
+    "id": 322,
+    "classification": "Grifería y Varios",
+    "code": "314.105",
+    "name": "Asiento y Tapa Para Inodoro Accesible C/ Agujero Frontal",
+    "unit": "Un."
+  },
+  {
+    "id": 323,
+    "classification": "Grifería y Varios",
+    "code": "314.108",
+    "name": "Barra L P/ Baño Accesible Derecha 90 cm Acero Inox.",
+    "unit": "Un."
+  },
+  {
+    "id": 324,
+    "classification": "Grifería y Varios",
+    "code": "321.288",
+    "name": "Barra P/ Baño Accesible 50Cm Acero Inox.",
+    "unit": "Un."
+  },
+  {
+    "id": 325,
+    "classification": "Grifería y Varios",
+    "code": "314.107",
+    "name": "Barra Rebatible C/Portarrollo Baño Accesible 80Cm Acero Inox",
+    "unit": "Un."
+  },
+  {
+    "id": 326,
+    "classification": "Grifería y Varios",
+    "code": "314.098",
+    "name": "Barrote Métalico Extens. P/Cortina Ducha 110-200 cm",
+    "unit": "Un."
+  },
+  {
+    "id": 327,
+    "classification": "Grifería y Varios",
+    "code": "314.111",
+    "name": "Botiquin C/Espejo PVC Blanco Exterior 40x28 cm",
+    "unit": "Un."
+  },
+  {
+    "id": 328,
+    "classification": "Grifería y Varios",
+    "code": "346.001",
+    "name": "Cañamo (100Gr)",
+    "unit": "Un."
+  },
+  {
+    "id": 329,
+    "classification": "Grifería y Varios",
+    "code": "314.060",
+    "name": "Colilla 1/2\" 35Cm Para Monocomando",
+    "unit": "Un."
+  },
+  {
+    "id": 330,
+    "classification": "Grifería y Varios",
+    "code": "314.050",
+    "name": "Colilla 1/2\" 40Cm Para Monocomando",
+    "unit": "Un."
+  },
+  {
+    "id": 331,
+    "classification": "Grifería y Varios",
+    "code": "314.002",
+    "name": "Colilla H/H 1/2\" 20Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 332,
+    "classification": "Grifería y Varios",
+    "code": "314.004",
+    "name": "Colilla H/H 1/2\" 30Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 333,
+    "classification": "Grifería y Varios",
+    "code": "314.005",
+    "name": "Colilla H/H 1/2\" 40Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 334,
+    "classification": "Grifería y Varios",
+    "code": "314.007",
+    "name": "Colilla H/H 1/2\" 60Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 335,
+    "classification": "Grifería y Varios",
+    "code": "314.008",
+    "name": "Colilla M/H 1/2\" 20Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 336,
+    "classification": "Grifería y Varios",
+    "code": "314.010",
+    "name": "Colilla M/H 1/2\" 30Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 337,
+    "classification": "Grifería y Varios",
+    "code": "314.011",
+    "name": "Colilla M/H 1/2\" 40Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 338,
+    "classification": "Grifería y Varios",
+    "code": "314.012",
+    "name": "Colilla M/H 1/2\" 60Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 339,
+    "classification": "Grifería y Varios",
+    "code": "314.013",
+    "name": "Conexion Chica Para Inodoro",
+    "unit": "Un."
+  },
+  {
+    "id": 340,
+    "classification": "Grifería y Varios",
+    "code": "314.040",
+    "name": "Cono para inodoro",
+    "unit": "Un."
+  },
+  {
+    "id": 341,
+    "classification": "Grifería y Varios",
+    "code": "347.095",
+    "name": "Desplazador Para Inodoro 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 342,
+    "classification": "Grifería y Varios",
+    "code": "314.019",
+    "name": "Griferia Monocomando Duchero",
+    "unit": "Un."
+  },
+  {
+    "id": 343,
+    "classification": "Grifería y Varios",
+    "code": "314.020",
+    "name": "Griferia Monocomando Para Lavatorio",
+    "unit": "Un."
+  },
+  {
+    "id": 344,
+    "classification": "Grifería y Varios",
+    "code": "314.021",
+    "name": "Griferia Monocomando Para Pileta De Cocina De Mesada",
+    "unit": "Un."
+  },
+  {
+    "id": 345,
+    "classification": "Grifería y Varios",
+    "code": "314.058",
+    "name": "Griferia Monocomando de Cocina Para Pared ",
+    "unit": "Un."
+  },
+  {
+    "id": 346,
+    "classification": "Grifería y Varios",
+    "code": "314.095",
+    "name": "Kit Accesorio De Baño Metálico 6 Piezas",
+    "unit": "Un."
+  },
+  {
+    "id": 347,
+    "classification": "Grifería y Varios",
+    "code": "348.026",
+    "name": "Llave Esferica Metalica 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 348,
+    "classification": "Grifería y Varios",
+    "code": "348.039",
+    "name": "Llave Esferica Metalica 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 349,
+    "classification": "Grifería y Varios",
+    "code": "346.013",
+    "name": "Sella Roscas",
+    "unit": "Un."
+  },
+  {
+    "id": 350,
+    "classification": "Grifería y Varios",
+    "code": "314.099",
+    "name": "Tapa P/Inodoro De PVC Blanco (Lorenzetti 6.0 LPF)",
+    "unit": "Un."
+  },
+  {
+    "id": 351,
+    "classification": "Grifería y Varios",
+    "code": "314.091",
+    "name": "Tapajunta Acero Inox P/Colilla 35Mm Interior Refundida",
+    "unit": "Un."
+  },
+  {
+    "id": 352,
+    "classification": "Grifería y Varios",
+    "code": "314.088",
+    "name": "Tapajunta Cromado P/Colilla 35Mm Interior Bombé",
+    "unit": "Un."
+  },
+  {
+    "id": 353,
+    "classification": "Grifería y Varios",
+    "code": "348.037",
+    "name": "Teflon",
+    "unit": "Un."
+  },
+  {
+    "id": 354,
+    "classification": "Grifería y Varios",
+    "code": "314.024",
+    "name": "Tornillos Para Ajuste Inodoro (Par X2)",
+    "unit": "Un."
+  },
+  {
+    "id": 355,
+    "classification": "Grifería y Varios",
+    "code": "314.025",
+    "name": "Tornillos Para Ajuste Lavatorio (Par X2)",
+    "unit": "Un."
+  },
+  {
+    "id": 356,
+    "classification": "Grifería y Varios",
+    "code": "314.027",
+    "name": "Valvula Para Lavatorio",
+    "unit": "Un."
+  },
+  {
+    "id": 357,
+    "classification": "Grifería y Varios",
+    "code": "314.049",
+    "name": "Zócalo P/Ducha Aluminio 75mm x 25mm x 1.25 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 358,
+    "classification": "Herramientas",
+    "code": "211.230",
+    "name": "Acople rápido para manguera",
+    "unit": "Un."
+  },
+  {
+    "id": 359,
+    "classification": "Herramientas",
+    "code": "374.138",
+    "name": "Alargue 15mt bajo goma 3x2, terminación ficha schuko M. H.",
+    "unit": "Un."
+  },
+  {
+    "id": 360,
+    "classification": "Herramientas",
+    "code": "374.009",
+    "name": "Alargue 30Mt. Bajo Goma 3X2, 1 Ficha Macho Schuko, 1 Ficha H",
+    "unit": "Un."
+  },
+  {
+    "id": 361,
+    "classification": "Herramientas",
+    "code": "374.010",
+    "name": "Alargue 50Mt. Bajo Goma 3X2, 1 Ficha Macho 3 En L, 1 Ficha S",
+    "unit": "Un."
+  },
+  {
+    "id": 362,
+    "classification": "Herramientas",
+    "code": "221.112",
+    "name": "Alicate corte universal aislada 8\" (1000V)",
+    "unit": "Un."
+  },
+  {
+    "id": 363,
+    "classification": "Herramientas",
+    "code": "221.111",
+    "name": "Alicate punta fina aislada 8\" (1000V)",
+    "unit": "Un."
+  },
+  {
+    "id": 364,
+    "classification": "Herramientas",
+    "code": "231.001",
+    "name": "Amoladora Angular Electrica Portatil 4 1/2\" 900W",
+    "unit": "Un."
+  },
+  {
+    "id": 365,
+    "classification": "Herramientas",
+    "code": "231.002",
+    "name": "Amoladora Angular Electrica Portatil 7 1/4\" 2000W",
+    "unit": "Un."
+  },
+  {
+    "id": 366,
+    "classification": "Herramientas",
+    "code": "231.003",
+    "name": "Amoladora Angular Electrica Portatil 9\"",
+    "unit": "Un."
+  },
+  {
+    "id": 367,
+    "classification": "Herramientas",
+    "code": "212.003",
+    "name": "Anclaje De Seguridad",
+    "unit": "Un."
+  },
+  {
+    "id": 368,
+    "classification": "Herramientas",
+    "code": "221.002",
+    "name": "Arco De Sierra Manual Fijo",
+    "unit": "Un."
+  },
+  {
+    "id": 369,
+    "classification": "Herramientas",
+    "code": "221.003",
+    "name": "Atornillador A Bateria 12V",
+    "unit": "Un."
+  },
+  {
+    "id": 370,
+    "classification": "Herramientas",
+    "code": "221.028",
+    "name": "Atornillador A Bateria 18V",
+    "unit": "Un."
+  },
+  {
+    "id": 371,
+    "classification": "Herramientas",
+    "code": "231.004",
+    "name": "Atornillador Electrico 500W",
+    "unit": "Un."
+  },
+  {
+    "id": 372,
+    "classification": "Herramientas",
+    "code": "221.004",
+    "name": "Azada",
+    "unit": "Un."
+  },
+  {
+    "id": 373,
+    "classification": "Herramientas",
+    "code": "221.005",
+    "name": "Balde De Albañil Negro Reforzado",
+    "unit": "Un."
+  },
+  {
+    "id": 374,
+    "classification": "Herramientas",
+    "code": "221.407",
+    "name": "Bandeja De Plastico Para Pintor 29x38Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 375,
+    "classification": "Herramientas",
+    "code": "243.157",
+    "name": "Barra Extensión P/Cricket de 1/2\" X 5\"Largo",
+    "unit": "Un."
+  },
+  {
+    "id": 376,
+    "classification": "Herramientas",
+    "code": "221.145",
+    "name": "Barreta de punta Ø1\" 150cm",
+    "unit": "Un."
+  },
+  {
+    "id": 377,
+    "classification": "Herramientas",
+    "code": "231.083",
+    "name": "Batidor Mezclador Binda/Pintura 1400W 220-240V",
+    "unit": "Un."
+  },
+  {
+    "id": 378,
+    "classification": "Herramientas",
+    "code": "211.001",
+    "name": "Bolsa De Escombro 0.6X0.9Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 379,
+    "classification": "Herramientas",
+    "code": "211.002",
+    "name": "Bolsa De Nylon 1X1Mt Resistente Negra 60mic",
+    "unit": "Un."
+  },
+  {
+    "id": 380,
+    "classification": "Herramientas",
+    "code": "211.151",
+    "name": "Bolsa de Trapos 5 kg",
+    "unit": "Un."
+  },
+  {
+    "id": 381,
+    "classification": "Herramientas",
+    "code": "211.302",
+    "name": "Bomba de desagote 1 HP  monofásica",
+    "unit": "Un."
+  },
+  {
+    "id": 382,
+    "classification": "Herramientas",
+    "code": "231.058",
+    "name": "Bomba De Desagote Sumergible",
+    "unit": "Un."
+  },
+  {
+    "id": 383,
+    "classification": "Herramientas",
+    "code": "221.149",
+    "name": "Bomba p/prueba Hidráulica de Manómetro Completa",
+    "unit": "Un."
+  },
+  {
+    "id": 384,
+    "classification": "Herramientas",
+    "code": "221.007",
+    "name": "Brocha N°2",
+    "unit": "Un."
+  },
+  {
+    "id": 385,
+    "classification": "Herramientas",
+    "code": "221.008",
+    "name": "Brocha N°3",
+    "unit": "Un."
+  },
+  {
+    "id": 386,
+    "classification": "Herramientas",
+    "code": "221.157",
+    "name": "Budinera Acero Inox. 12\" Para Masilla",
+    "unit": "Un."
+  },
+  {
+    "id": 387,
+    "classification": "Herramientas",
+    "code": "221.011",
+    "name": "Cabo De Madera Para Herramienta Maceta 30cm",
+    "unit": "Un."
+  },
+  {
+    "id": 388,
+    "classification": "Herramientas",
+    "code": "221.012",
+    "name": "Cabo De Madera Para Herramienta Martillo 30cm",
+    "unit": "Un."
+  },
+  {
+    "id": 389,
+    "classification": "Herramientas",
+    "code": "221.013",
+    "name": "Cabo De Madera Para Herramienta Pala de Obra",
+    "unit": "Un."
+  },
+  {
+    "id": 390,
+    "classification": "Herramientas",
+    "code": "221.014",
+    "name": "Cabo De Madera Para Herramienta Pico",
+    "unit": "Un."
+  },
+  {
+    "id": 391,
+    "classification": "Herramientas",
+    "code": "321.030",
+    "name": "Cadena 10Mm",
+    "unit": "Mt."
+  },
+  {
+    "id": 392,
+    "classification": "Herramientas",
+    "code": "221.309",
+    "name": "Cadena 4 mm",
+    "unit": "Mt."
+  },
+  {
+    "id": 393,
+    "classification": "Herramientas",
+    "code": "221.308",
+    "name": "Cadena de 6 mm",
+    "unit": "Mt."
+  },
+  {
+    "id": 394,
+    "classification": "Herramientas",
+    "code": "211.003",
+    "name": "Caja De Herramientas 17\"",
+    "unit": "Un."
+  },
+  {
+    "id": 395,
+    "classification": "Herramientas",
+    "code": "231.059",
+    "name": "Caladora",
+    "unit": "Un."
+  },
+  {
+    "id": 396,
+    "classification": "Herramientas",
+    "code": "211.004",
+    "name": "Candado 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 397,
+    "classification": "Herramientas",
+    "code": "211.005",
+    "name": "Candado 60Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 398,
+    "classification": "Herramientas",
+    "code": "211.321",
+    "name": "Candado 60Mm anti palanca",
+    "unit": "Un."
+  },
+  {
+    "id": 399,
+    "classification": "Herramientas",
+    "code": "211.411",
+    "name": "Candado 80Mm Anti Palanca",
+    "unit": "Un."
+  },
+  {
+    "id": 400,
+    "classification": "Herramientas",
+    "code": "221.016",
+    "name": "Carretilla De Hierro 65 lts. Con Rueda De Goma Maciza",
+    "unit": "Un."
+  },
+  {
+    "id": 401,
+    "classification": "Herramientas",
+    "code": "231.053",
+    "name": "Cepillo carpintero eléctrico",
+    "unit": "Un."
+  },
+  {
+    "id": 402,
+    "classification": "Herramientas",
+    "code": "221.326",
+    "name": "Cepillo de alambre",
+    "unit": "Un."
+  },
+  {
+    "id": 403,
+    "classification": "Herramientas",
+    "code": "221.017",
+    "name": "Cepillo De Carpintero",
+    "unit": "Un."
+  },
+  {
+    "id": 404,
+    "classification": "Herramientas",
+    "code": "221.018",
+    "name": "Chocla (Chalk Line - Linea De Tiza)",
+    "unit": "Un."
+  },
+  {
+    "id": 405,
+    "classification": "Herramientas",
+    "code": "221.506",
+    "name": "Cincel P/Martillo Percutor 30Cm Encastre Rápido",
+    "unit": "Un."
+  },
+  {
+    "id": 406,
+    "classification": "Herramientas",
+    "code": "221.428",
+    "name": "Cincel P/Martillo Percutor 40Cm Encastre Rápido",
+    "unit": "Un."
+  },
+  {
+    "id": 407,
+    "classification": "Herramientas",
+    "code": "211.007",
+    "name": "Cinta \"Pare\" (8mt x Kg.)",
+    "unit": "kg."
+  },
+  {
+    "id": 408,
+    "classification": "Herramientas",
+    "code": "221.019",
+    "name": "Cinta Agrimensor 30Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 409,
+    "classification": "Herramientas",
+    "code": "374.024",
+    "name": "Cinta Aisladora Negra, 10Mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 410,
+    "classification": "Herramientas",
+    "code": "374.025",
+    "name": "Cinta Aisladora Roja, 10Mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 411,
+    "classification": "Herramientas",
+    "code": "374.027",
+    "name": "Cinta Autosoldable",
+    "unit": "Un."
+  },
+  {
+    "id": 412,
+    "classification": "Herramientas",
+    "code": "211.008",
+    "name": "Cinta De Enhebrar Para Electricista 25Mt (Alma acero)",
+    "unit": "Un."
+  },
+  {
+    "id": 413,
+    "classification": "Herramientas",
+    "code": "211.009",
+    "name": "Cinta De Papel Microperforada 5Cm, 75Mts",
+    "unit": "Un."
+  },
+  {
+    "id": 414,
+    "classification": "Herramientas",
+    "code": "312.026",
+    "name": "Cinta Embalar Marron, 48Mm Ancho, 100Mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 415,
+    "classification": "Herramientas",
+    "code": "221.020",
+    "name": "Cinta Metalica 30Mt P/Sanitaria",
+    "unit": "Un."
+  },
+  {
+    "id": 416,
+    "classification": "Herramientas",
+    "code": "221.141",
+    "name": "Cinta métrica 30mts.",
+    "unit": "Un."
+  },
+  {
+    "id": 417,
+    "classification": "Herramientas",
+    "code": "221.023",
+    "name": "Cinta Metrica 5Mt (calidad superior)",
+    "unit": "Un."
+  },
+  {
+    "id": 418,
+    "classification": "Herramientas",
+    "code": "221.021",
+    "name": "Cinta Metrica, 10Mt (Calidad superior)",
+    "unit": "Un."
+  },
+  {
+    "id": 419,
+    "classification": "Herramientas",
+    "code": "221.370",
+    "name": "Cizalla 18\"",
+    "unit": "Un."
+  },
+  {
+    "id": 420,
+    "classification": "Herramientas",
+    "code": "221.024",
+    "name": "Cizalla 24\"",
+    "unit": "Un."
+  },
+  {
+    "id": 421,
+    "classification": "Herramientas",
+    "code": "231.005",
+    "name": "Cizalla De Banco Somar Nº1",
+    "unit": "Un."
+  },
+  {
+    "id": 422,
+    "classification": "Herramientas",
+    "code": "221.025",
+    "name": "Cizalla De Mano 36\" Con Hojas Intercambiables",
+    "unit": "Un."
+  },
+  {
+    "id": 423,
+    "classification": "Herramientas",
+    "code": "211.013",
+    "name": "Cola Vinílica (envase 1lt.)",
+    "unit": "Un."
+  },
+  {
+    "id": 424,
+    "classification": "Herramientas",
+    "code": "231.006",
+    "name": "Compresor De Aire 100Lt 2Hp",
+    "unit": "Un."
+  },
+  {
+    "id": 425,
+    "classification": "Herramientas",
+    "code": "221.026",
+    "name": "Corta Hierro 12\"",
+    "unit": "Un."
+  },
+  {
+    "id": 426,
+    "classification": "Herramientas",
+    "code": "231.054",
+    "name": "Cortador de Vidrio",
+    "unit": "Un."
+  },
+  {
+    "id": 427,
+    "classification": "Herramientas",
+    "code": "231.028",
+    "name": "Cortadora de ceramica ",
+    "unit": "Un."
+  },
+  {
+    "id": 428,
+    "classification": "Herramientas",
+    "code": "221.408",
+    "name": "Cubeta De Plastico Para Pintor Honda 10Lts.",
+    "unit": "Un."
+  },
+  {
+    "id": 429,
+    "classification": "Herramientas",
+    "code": "221.027",
+    "name": "Cuchara De Albañil 7\"",
+    "unit": "Un."
+  },
+  {
+    "id": 430,
+    "classification": "Herramientas",
+    "code": "211.217",
+    "name": "Dado 5/16 para taladro",
+    "unit": "Un."
+  },
+  {
+    "id": 431,
+    "classification": "Herramientas",
+    "code": "212.331",
+    "name": "Delantal De Cuero",
+    "unit": "Un."
+  },
+  {
+    "id": 432,
+    "classification": "Herramientas",
+    "code": "231.073",
+    "name": "Desmalezadora",
+    "unit": "Un."
+  },
+  {
+    "id": 433,
+    "classification": "Herramientas",
+    "code": "211.306",
+    "name": "Destornillador Busca Polo",
+    "unit": "Un."
+  },
+  {
+    "id": 434,
+    "classification": "Herramientas",
+    "code": "212.028",
+    "name": "Destornillador De Paleta 1/4X4\" Aisl 1000V",
+    "unit": "Un."
+  },
+  {
+    "id": 435,
+    "classification": "Herramientas",
+    "code": "212.029",
+    "name": "Destornillador De Paleta 1/8X4\" Aisl 1000V",
+    "unit": "Un."
+  },
+  {
+    "id": 436,
+    "classification": "Herramientas",
+    "code": "212.027",
+    "name": "Destornillador De Paleta 3/16X4\" Aisl 1000V",
+    "unit": "Un."
+  },
+  {
+    "id": 437,
+    "classification": "Herramientas",
+    "code": "212.020",
+    "name": "Destornillador Phillips 1/16 X 6\" Aisl 1000V.",
+    "unit": "Un."
+  },
+  {
+    "id": 438,
+    "classification": "Herramientas",
+    "code": "212.019",
+    "name": "Destornillador Phillips 1/8 X 6\" Aislad 1000V.",
+    "unit": "Un."
+  },
+  {
+    "id": 439,
+    "classification": "Herramientas",
+    "code": "211.035",
+    "name": "Disco De Corte 41/2\" De 1Mm De Espesor",
+    "unit": "Un."
+  },
+  {
+    "id": 440,
+    "classification": "Herramientas",
+    "code": "211.036",
+    "name": "Disco De Corte 7 1/4 De 1Mm De Espesor",
+    "unit": "Un."
+  },
+  {
+    "id": 441,
+    "classification": "Herramientas",
+    "code": "211.038",
+    "name": "Disco De Corte De Mamposteria 4 1/2\" metalico c/widia",
+    "unit": "Un."
+  },
+  {
+    "id": 442,
+    "classification": "Herramientas",
+    "code": "211.039",
+    "name": "Disco De Corte De Mamposteria 7 1/4\" c/widia",
+    "unit": "Un."
+  },
+  {
+    "id": 443,
+    "classification": "Herramientas",
+    "code": "211.040",
+    "name": "Disco De Corte De Mamposteria 9\" c/widia",
+    "unit": "Un."
+  },
+  {
+    "id": 444,
+    "classification": "Herramientas",
+    "code": "211.041",
+    "name": "Disco De Corte Madera 10\" para sierra de mesa",
+    "unit": "Un."
+  },
+  {
+    "id": 445,
+    "classification": "Herramientas",
+    "code": "211.044",
+    "name": "Disco de corte madera 7 1/4' x 24D c/widia (centro 24mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 446,
+    "classification": "Herramientas",
+    "code": "211.045",
+    "name": "Disco De Corte Para Hierro 4 1/2\" 3mm espesor",
+    "unit": "Un."
+  },
+  {
+    "id": 447,
+    "classification": "Herramientas",
+    "code": "211.046",
+    "name": "Disco De Corte Para Hierro 7 1/4\" 3mm espesor",
+    "unit": "Un."
+  },
+  {
+    "id": 448,
+    "classification": "Herramientas",
+    "code": "211.047",
+    "name": "Disco De Corte Para Hierro 9\" 3mm espesor",
+    "unit": "Un."
+  },
+  {
+    "id": 449,
+    "classification": "Herramientas",
+    "code": "211.048",
+    "name": "Disco De Corte Sensitiva De 14\"",
+    "unit": "Un."
+  },
+  {
+    "id": 450,
+    "classification": "Herramientas",
+    "code": "211.050",
+    "name": "Disco De Desbaste Metal 4 1/2\" 6mm espesor",
+    "unit": "Un."
+  },
+  {
+    "id": 451,
+    "classification": "Herramientas",
+    "code": "211.051",
+    "name": "Disco De Desbaste Metal 7 1/4\" 6mm espesor",
+    "unit": "Un."
+  },
+  {
+    "id": 452,
+    "classification": "Herramientas",
+    "code": "211.049",
+    "name": "Disco De Desbaste Metal 9\"",
+    "unit": "Un."
+  },
+  {
+    "id": 453,
+    "classification": "Herramientas",
+    "code": "211.432",
+    "name": "Disco de desbaste para hormigón 4 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 454,
+    "classification": "Herramientas",
+    "code": "211.431",
+    "name": "Disco De Pulir Hormigón 7\"",
+    "unit": "Un."
+  },
+  {
+    "id": 455,
+    "classification": "Herramientas",
+    "code": "211.057",
+    "name": "Electrodo Aws E-6013 2,5Mm",
+    "unit": "kg."
+  },
+  {
+    "id": 456,
+    "classification": "Herramientas",
+    "code": "211.054",
+    "name": "Electrodo Aws E-6013 3,25Mm",
+    "unit": "kg."
+  },
+  {
+    "id": 457,
+    "classification": "Herramientas",
+    "code": "221.430",
+    "name": "Engrafadora 1er y 2do Cierre (Isodec)",
+    "unit": "Un."
+  },
+  {
+    "id": 458,
+    "classification": "Herramientas",
+    "code": "231.007",
+    "name": "Equipo Termofusor Electrico Boquillas 20 A 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 459,
+    "classification": "Herramientas",
+    "code": "221.036",
+    "name": "Escalera De Madera (10 Escalones)",
+    "unit": "Un."
+  },
+  {
+    "id": 460,
+    "classification": "Herramientas",
+    "code": "221.201",
+    "name": "Escalera De Madera (12 Escalones) ",
+    "unit": "Un."
+  },
+  {
+    "id": 461,
+    "classification": "Herramientas",
+    "code": "221.037",
+    "name": "Escalera De Madera (8 Escalones)",
+    "unit": "Un."
+  },
+  {
+    "id": 462,
+    "classification": "Herramientas",
+    "code": "221.040",
+    "name": "Escofina 8\"",
+    "unit": "Un."
+  },
+  {
+    "id": 463,
+    "classification": "Herramientas",
+    "code": "221.041",
+    "name": "Escuadra Metal 30cm (Chata 12\")",
+    "unit": "Un."
+  },
+  {
+    "id": 464,
+    "classification": "Herramientas",
+    "code": "221.417",
+    "name": "Espatula 1y1/2\" de acero inoxidable",
+    "unit": "Un."
+  },
+  {
+    "id": 465,
+    "classification": "Herramientas",
+    "code": "221.042",
+    "name": "Espátula De Acero Inoxidable (10Cm)",
+    "unit": "Un."
+  },
+  {
+    "id": 466,
+    "classification": "Herramientas",
+    "code": "221.139",
+    "name": "Espátula De Acero Inoxidable (30Cm)",
+    "unit": "Un."
+  },
+  {
+    "id": 467,
+    "classification": "Herramientas",
+    "code": "314.054",
+    "name": "Estopa",
+    "unit": "Un."
+  },
+  {
+    "id": 468,
+    "classification": "Herramientas",
+    "code": "221.153",
+    "name": "Extensible Para Rodillo 2Mt C/Rosca",
+    "unit": "Un."
+  },
+  {
+    "id": 469,
+    "classification": "Herramientas",
+    "code": "212.390",
+    "name": "Filtro Para Mascarilla De Gases",
+    "unit": "Un."
+  },
+  {
+    "id": 470,
+    "classification": "Herramientas",
+    "code": "221.560",
+    "name": "Flejadora para fleje de plástico",
+    "unit": "Un."
+  },
+  {
+    "id": 471,
+    "classification": "Herramientas",
+    "code": "221.373",
+    "name": "Formon 1 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 472,
+    "classification": "Herramientas",
+    "code": "221.371",
+    "name": "Formon 1 1/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 473,
+    "classification": "Herramientas",
+    "code": "221.372",
+    "name": "Formon 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 474,
+    "classification": "Herramientas",
+    "code": "231.134",
+    "name": "Formon 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 475,
+    "classification": "Herramientas",
+    "code": "211.295",
+    "name": "Fretacho con Esponja",
+    "unit": "Un."
+  },
+  {
+    "id": 476,
+    "classification": "Herramientas",
+    "code": "221.146",
+    "name": "Fretacho De Madera 12x25Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 477,
+    "classification": "Herramientas",
+    "code": "221.043",
+    "name": "Fretacho De Plástico12X25Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 478,
+    "classification": "Herramientas",
+    "code": "211.200",
+    "name": "Fulminante Para Pistola tiro a tiro Amarillo X100Un. C27",
+    "unit": "Un."
+  },
+  {
+    "id": 479,
+    "classification": "Herramientas",
+    "code": "211.059",
+    "name": "Grasa X 1 Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 480,
+    "classification": "Herramientas",
+    "code": "211.060",
+    "name": "Hilo De Algodon Nº6",
+    "unit": "Un."
+  },
+  {
+    "id": 481,
+    "classification": "Herramientas",
+    "code": "211.061",
+    "name": "Hoja De Sierra Bimetal Para Arco 12\" (18 Dientes)",
+    "unit": "Un."
+  },
+  {
+    "id": 482,
+    "classification": "Herramientas",
+    "code": "221.481",
+    "name": "Hoja Trincheta Para Yeso",
+    "unit": "Un."
+  },
+  {
+    "id": 483,
+    "classification": "Herramientas",
+    "code": "231.011",
+    "name": "Hormigonera 130lts. Eléctrica Trompito",
+    "unit": "Un."
+  },
+  {
+    "id": 484,
+    "classification": "Herramientas",
+    "code": "231.010",
+    "name": "Hormigonera 180lts. tranca c/pedal 1.2HP, 220V",
+    "unit": "Un."
+  },
+  {
+    "id": 485,
+    "classification": "Herramientas",
+    "code": "231.029",
+    "name": "Hormigonera 350lts. tranca c/pedal Eléctrica",
+    "unit": "Un."
+  },
+  {
+    "id": 486,
+    "classification": "Herramientas",
+    "code": "221.051",
+    "name": "Juego De Llaves Allen",
+    "unit": "Un."
+  },
+  {
+    "id": 487,
+    "classification": "Herramientas",
+    "code": "221.052",
+    "name": "Juego De Llaves Combinadas Milimetricas (6 A 22)",
+    "unit": "Un."
+  },
+  {
+    "id": 488,
+    "classification": "Herramientas",
+    "code": "211.064",
+    "name": "Juego De Mecha Copa Para Madera",
+    "unit": "Un."
+  },
+  {
+    "id": 489,
+    "classification": "Herramientas",
+    "code": "211.304",
+    "name": "Juego de Mechas Copa P/Ceramica",
+    "unit": "Un."
+  },
+  {
+    "id": 490,
+    "classification": "Herramientas",
+    "code": "221.054",
+    "name": "Juego De Mechas Para Madera",
+    "unit": "Un."
+  },
+  {
+    "id": 491,
+    "classification": "Herramientas",
+    "code": "221.303",
+    "name": "Juego Llave Cricket de 8 a 32mm",
+    "unit": "Un."
+  },
+  {
+    "id": 492,
+    "classification": "Herramientas",
+    "code": "211.067",
+    "name": "Lapiz Carpintero",
+    "unit": "Un."
+  },
+  {
+    "id": 493,
+    "classification": "Herramientas",
+    "code": "211.633",
+    "name": "Lija Al Agua 120",
+    "unit": "Un."
+  },
+  {
+    "id": 494,
+    "classification": "Herramientas",
+    "code": "211.635",
+    "name": "Lija Al Agua 220",
+    "unit": "Un."
+  },
+  {
+    "id": 495,
+    "classification": "Herramientas",
+    "code": "211.637",
+    "name": "Lija Al Agua 80",
+    "unit": "Un."
+  },
+  {
+    "id": 496,
+    "classification": "Herramientas",
+    "code": "211.623",
+    "name": "Lija Al Agua Grano 180",
+    "unit": "Un."
+  },
+  {
+    "id": 497,
+    "classification": "Herramientas",
+    "code": "211.648",
+    "name": "Lija Esmeril 120Gr",
+    "unit": "Un."
+  },
+  {
+    "id": 498,
+    "classification": "Herramientas",
+    "code": "211.645",
+    "name": "Lija Esmeril 220Gr",
+    "unit": "Un."
+  },
+  {
+    "id": 499,
+    "classification": "Herramientas",
+    "code": "211.646",
+    "name": "Lija Esmeril 80Gr",
+    "unit": "Un."
+  },
+  {
+    "id": 500,
+    "classification": "Herramientas",
+    "code": "211.651",
+    "name": "Lija Para Madera 120Gr",
+    "unit": "Un."
+  },
+  {
+    "id": 501,
+    "classification": "Herramientas",
+    "code": "221.409",
+    "name": "Lija Para Madera 220Gr",
+    "unit": "Un."
+  },
+  {
+    "id": 502,
+    "classification": "Herramientas",
+    "code": "211.660",
+    "name": "Lija Para Madera Grano 120 Ø125Mm C/Velcro",
+    "unit": "Un."
+  },
+  {
+    "id": 503,
+    "classification": "Herramientas",
+    "code": "211.653",
+    "name": "Lija Para Madera Grano 180",
+    "unit": "Un."
+  },
+  {
+    "id": 504,
+    "classification": "Herramientas",
+    "code": "221.217",
+    "name": "Lija Para Madera Grano 180 Ø125Mm C/Velcro",
+    "unit": "Un."
+  },
+  {
+    "id": 505,
+    "classification": "Herramientas",
+    "code": "221.385",
+    "name": "Lija Para Madera Grano 200 Ø125Mm C/Velcro",
+    "unit": "Un."
+  },
+  {
+    "id": 506,
+    "classification": "Herramientas",
+    "code": "211.625",
+    "name": "Lija Para Madera Grano 80",
+    "unit": "Un."
+  },
+  {
+    "id": 507,
+    "classification": "Herramientas",
+    "code": "211.630",
+    "name": "Lija Para Madera Grano 80 Ø125Mm C/Velcro",
+    "unit": "Un."
+  },
+  {
+    "id": 508,
+    "classification": "Herramientas",
+    "code": "231.012",
+    "name": "Lijadora De Banda",
+    "unit": "Un."
+  },
+  {
+    "id": 509,
+    "classification": "Herramientas",
+    "code": "221.415",
+    "name": "Lijadora Roto Orbital 180W C/Colector Polvo",
+    "unit": "Un."
+  },
+  {
+    "id": 510,
+    "classification": "Herramientas",
+    "code": "231.026",
+    "name": "Linterna recargable",
+    "unit": "Un."
+  },
+  {
+    "id": 511,
+    "classification": "Herramientas",
+    "code": "221.059",
+    "name": "Llana Dentada 12X25Cm, diente 8x8mm",
+    "unit": "Un."
+  },
+  {
+    "id": 512,
+    "classification": "Herramientas",
+    "code": "221.060",
+    "name": "Llana Metalica Lisa 12X25Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 513,
+    "classification": "Herramientas",
+    "code": "221.062",
+    "name": "Llave Ajustable 8\"",
+    "unit": "Un."
+  },
+  {
+    "id": 514,
+    "classification": "Herramientas",
+    "code": "221.350",
+    "name": "Llave Cricket Encastre De 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 515,
+    "classification": "Herramientas",
+    "code": "221.082",
+    "name": "Llave Francesa 8\"",
+    "unit": "Un."
+  },
+  {
+    "id": 516,
+    "classification": "Herramientas",
+    "code": "221.403",
+    "name": "Llave Para Varilla (10 Y 12Mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 517,
+    "classification": "Herramientas",
+    "code": "221.085",
+    "name": "Llave Para Varilla (6 Y 8Mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 518,
+    "classification": "Herramientas",
+    "code": "221.088",
+    "name": "Maceta Cuadrada (1,5 Kg)",
+    "unit": "Un."
+  },
+  {
+    "id": 519,
+    "classification": "Herramientas",
+    "code": "221.090",
+    "name": "Maceta Cuadrada (2 Kg)",
+    "unit": "Un."
+  },
+  {
+    "id": 520,
+    "classification": "Herramientas",
+    "code": "211.167",
+    "name": "Maceta de goma",
+    "unit": "Un."
+  },
+  {
+    "id": 521,
+    "classification": "Herramientas",
+    "code": "211.088",
+    "name": "Malla Sombra negra 4M Ancho, X Ml",
+    "unit": "Mt."
+  },
+  {
+    "id": 522,
+    "classification": "Herramientas",
+    "code": "212.671",
+    "name": "Mameluco Descartable talle L",
+    "unit": "Un."
+  },
+  {
+    "id": 523,
+    "classification": "Herramientas",
+    "code": "212.658",
+    "name": "Mameluco Descartable talle M",
+    "unit": "Un."
+  },
+  {
+    "id": 524,
+    "classification": "Herramientas",
+    "code": "212.670",
+    "name": "Mameluco Descartable talle XL",
+    "unit": "Un."
+  },
+  {
+    "id": 525,
+    "classification": "Herramientas",
+    "code": "211.089",
+    "name": "Manguera De Pvc (1/2\")",
+    "unit": "Mt."
+  },
+  {
+    "id": 526,
+    "classification": "Herramientas",
+    "code": "211.090",
+    "name": "Manguera Nivel",
+    "unit": "Mt."
+  },
+  {
+    "id": 527,
+    "classification": "Herramientas",
+    "code": "221.091",
+    "name": "Máquina Balai Plástico",
+    "unit": "Un."
+  },
+  {
+    "id": 528,
+    "classification": "Herramientas",
+    "code": "221.092",
+    "name": "Marrón de 5kg",
+    "unit": "Un."
+  },
+  {
+    "id": 529,
+    "classification": "Herramientas",
+    "code": "221.093",
+    "name": "Martillo Con Bolita",
+    "unit": "Un."
+  },
+  {
+    "id": 530,
+    "classification": "Herramientas",
+    "code": "221.095",
+    "name": "Martillo De Uña (500Gr)",
+    "unit": "Un."
+  },
+  {
+    "id": 531,
+    "classification": "Herramientas",
+    "code": "212.194",
+    "name": "Máscara facial transparente",
+    "unit": "Un."
+  },
+  {
+    "id": 532,
+    "classification": "Herramientas",
+    "code": "211.330",
+    "name": "Mecha 10 mm. x 260 mm. para hormigon",
+    "unit": "Un."
+  },
+  {
+    "id": 533,
+    "classification": "Herramientas",
+    "code": "211.092",
+    "name": "Mecha 10Mm Para Hierro Milimetrica",
+    "unit": "Un."
+  },
+  {
+    "id": 534,
+    "classification": "Herramientas",
+    "code": "211.093",
+    "name": "Mecha 10Mm Para Hormigon",
+    "unit": "Un."
+  },
+  {
+    "id": 535,
+    "classification": "Herramientas",
+    "code": "211.094",
+    "name": "Mecha 10Mm Para Madera",
+    "unit": "Un."
+  },
+  {
+    "id": 536,
+    "classification": "Herramientas",
+    "code": "211.096",
+    "name": "Mecha 12Mm Para Hierro Milimetrica",
+    "unit": "Un."
+  },
+  {
+    "id": 537,
+    "classification": "Herramientas",
+    "code": "211.097",
+    "name": "Mecha 12Mm Para Hormigon",
+    "unit": "Un."
+  },
+  {
+    "id": 538,
+    "classification": "Herramientas",
+    "code": "211.095",
+    "name": "Mecha 12Mm Para Madera",
+    "unit": "Un."
+  },
+  {
+    "id": 539,
+    "classification": "Herramientas",
+    "code": "211.102",
+    "name": "Mecha 16Mm Para Hierro Milimetrica",
+    "unit": "Un."
+  },
+  {
+    "id": 540,
+    "classification": "Herramientas",
+    "code": "211.110",
+    "name": "Mecha 4Mm Para Hierro Milimetrica",
+    "unit": "Un."
+  },
+  {
+    "id": 541,
+    "classification": "Herramientas",
+    "code": "211.116",
+    "name": "Mecha 6Mm Para Hierro Milimetrica",
+    "unit": "Un."
+  },
+  {
+    "id": 542,
+    "classification": "Herramientas",
+    "code": "211.117",
+    "name": "Mecha 6Mm Para Hormigon",
+    "unit": "Un."
+  },
+  {
+    "id": 543,
+    "classification": "Herramientas",
+    "code": "211.118",
+    "name": "Mecha 6Mm Para Madera",
+    "unit": "Un."
+  },
+  {
+    "id": 544,
+    "classification": "Herramientas",
+    "code": "211.121",
+    "name": "Mecha 8Mm Para Hierro Milimetrica",
+    "unit": "Un."
+  },
+  {
+    "id": 545,
+    "classification": "Herramientas",
+    "code": "211.122",
+    "name": "Mecha 8Mm Para Hormigon",
+    "unit": "Un."
+  },
+  {
+    "id": 546,
+    "classification": "Herramientas",
+    "code": "211.123",
+    "name": "Mecha 8Mm Para Madera",
+    "unit": "Un."
+  },
+  {
+    "id": 547,
+    "classification": "Herramientas",
+    "code": "211.133",
+    "name": "Mecha Concreto 10Mmx210Mm P/Martillo Rotopercutor",
+    "unit": "Un."
+  },
+  {
+    "id": 548,
+    "classification": "Herramientas",
+    "code": "211.134",
+    "name": "Mecha Concreto 12Mm X210Mm P/Martillo Rotopercutor",
+    "unit": "Un."
+  },
+  {
+    "id": 549,
+    "classification": "Herramientas",
+    "code": "221.181",
+    "name": "Mecha Concreto 12Mm X400Mm P/Martillo Rotopercutor",
+    "unit": "Un."
+  },
+  {
+    "id": 550,
+    "classification": "Herramientas",
+    "code": "211.135",
+    "name": "Mecha Concreto 6Mmx210Mm P/Martillo Rotopercutor",
+    "unit": "Un."
+  },
+  {
+    "id": 551,
+    "classification": "Herramientas",
+    "code": "211.136",
+    "name": "Mecha Concreto 8Mmx210Mm P/Martillo Rotopercutor",
+    "unit": "Un."
+  },
+  {
+    "id": 552,
+    "classification": "Herramientas",
+    "code": "211.236",
+    "name": "Mecha plana 1/2 madera",
+    "unit": "Un."
+  },
+  {
+    "id": 553,
+    "classification": "Herramientas",
+    "code": "211.227",
+    "name": "Mecha plana 3/8 madera",
+    "unit": "Un."
+  },
+  {
+    "id": 554,
+    "classification": "Herramientas",
+    "code": "211.142",
+    "name": "Mecha Plana Para Madera 3/4",
+    "unit": "Un."
+  },
+  {
+    "id": 555,
+    "classification": "Herramientas",
+    "code": "221.096",
+    "name": "Metro de carpintero de madera",
+    "unit": "Un."
+  },
+  {
+    "id": 556,
+    "classification": "Herramientas",
+    "code": "231.039",
+    "name": "Muela Para Cizalla de Banco",
+    "unit": "Un."
+  },
+  {
+    "id": 557,
+    "classification": "Herramientas",
+    "code": "211.216",
+    "name": "Nivel de burbuja 20\" c/iman",
+    "unit": "Un."
+  },
+  {
+    "id": 558,
+    "classification": "Herramientas",
+    "code": "221.380",
+    "name": "Nivel de Burbuja 36\" aluminio",
+    "unit": "Un."
+  },
+  {
+    "id": 559,
+    "classification": "Herramientas",
+    "code": "221.100",
+    "name": "Pala Con Mango De Madera",
+    "unit": "Un."
+  },
+  {
+    "id": 560,
+    "classification": "Herramientas",
+    "code": "221.101",
+    "name": "Pala De Corte (Recta)",
+    "unit": "Un."
+  },
+  {
+    "id": 561,
+    "classification": "Herramientas",
+    "code": "221.102",
+    "name": "Pala Pocera Con Pisón",
+    "unit": "Un."
+  },
+  {
+    "id": 562,
+    "classification": "Herramientas",
+    "code": "221.103",
+    "name": "Pico Con Mango",
+    "unit": "Un."
+  },
+  {
+    "id": 563,
+    "classification": "Herramientas",
+    "code": "221.346",
+    "name": "Pincel 1 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 564,
+    "classification": "Herramientas",
+    "code": "221.104",
+    "name": "Pincel 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 565,
+    "classification": "Herramientas",
+    "code": "221.105",
+    "name": "Pincel 2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 566,
+    "classification": "Herramientas",
+    "code": "221.106",
+    "name": "Pincel 3\"",
+    "unit": "Un."
+  },
+  {
+    "id": 567,
+    "classification": "Herramientas",
+    "code": "221.114",
+    "name": "Pinza Corte Universal 8\"",
+    "unit": "Un."
+  },
+  {
+    "id": 568,
+    "classification": "Herramientas",
+    "code": "221.115",
+    "name": "Pinza Morza 8\"",
+    "unit": "Un."
+  },
+  {
+    "id": 569,
+    "classification": "Herramientas",
+    "code": "221.374",
+    "name": "Pinza para flejadora",
+    "unit": "Un."
+  },
+  {
+    "id": 570,
+    "classification": "Herramientas",
+    "code": "211.303",
+    "name": "Pinza Pela Cable",
+    "unit": "Un."
+  },
+  {
+    "id": 571,
+    "classification": "Herramientas",
+    "code": "221.117",
+    "name": "Pinza Pico De Loro 10\"",
+    "unit": "Un."
+  },
+  {
+    "id": 572,
+    "classification": "Herramientas",
+    "code": "221.199",
+    "name": "Pinza Pico De Loro 12\"",
+    "unit": "Un."
+  },
+  {
+    "id": 573,
+    "classification": "Herramientas",
+    "code": "211.235",
+    "name": "Pinza portaelectrodos p/maquina de soldar",
+    "unit": "Un."
+  },
+  {
+    "id": 574,
+    "classification": "Herramientas",
+    "code": "211.307",
+    "name": "Pinza Punta Fina Curva",
+    "unit": "Un."
+  },
+  {
+    "id": 575,
+    "classification": "Herramientas",
+    "code": "221.116",
+    "name": "Pinza tierra Para Soldadora Eléctrica",
+    "unit": "Un."
+  },
+  {
+    "id": 576,
+    "classification": "Herramientas",
+    "code": "231.017",
+    "name": "Pistola De Calor",
+    "unit": "Un."
+  },
+  {
+    "id": 577,
+    "classification": "Herramientas",
+    "code": "221.118",
+    "name": "Pistola Manual Para Cartucho De Silicona",
+    "unit": "Un."
+  },
+  {
+    "id": 578,
+    "classification": "Herramientas",
+    "code": "221.119",
+    "name": "Pistola Para Clavar Tiro a Tiro manual, clavo de acero",
+    "unit": "Un."
+  },
+  {
+    "id": 579,
+    "classification": "Herramientas",
+    "code": "231.049",
+    "name": "Plancha Apisonadora 90kg 5.5 HP",
+    "unit": "Un."
+  },
+  {
+    "id": 580,
+    "classification": "Herramientas",
+    "code": "221.121",
+    "name": "Planchuela Doblar 6 A 12Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 581,
+    "classification": "Herramientas",
+    "code": "211.231",
+    "name": "Plomada De Barril",
+    "unit": "Un."
+  },
+  {
+    "id": 582,
+    "classification": "Herramientas",
+    "code": "211.232",
+    "name": "Plomada de punto",
+    "unit": "Un."
+  },
+  {
+    "id": 583,
+    "classification": "Herramientas",
+    "code": "212.332",
+    "name": "Polainas De Cuero (par)",
+    "unit": "Un."
+  },
+  {
+    "id": 584,
+    "classification": "Herramientas",
+    "code": "221.150",
+    "name": "Portaherramientas de cuero",
+    "unit": "Un."
+  },
+  {
+    "id": 585,
+    "classification": "Herramientas",
+    "code": "221.168",
+    "name": "Portaherramientas Para Yesero",
+    "unit": "Un."
+  },
+  {
+    "id": 586,
+    "classification": "Herramientas",
+    "code": "221.125",
+    "name": "Punta Albañil (12\")",
+    "unit": "Un."
+  },
+  {
+    "id": 587,
+    "classification": "Herramientas",
+    "code": "221.320",
+    "name": "Punta para atornillador combinada 5cm",
+    "unit": "Un."
+  },
+  {
+    "id": 588,
+    "classification": "Herramientas",
+    "code": "221.507",
+    "name": "Punta P/Martillo Percutor 25Cm Encastre Rápido",
+    "unit": "Un."
+  },
+  {
+    "id": 589,
+    "classification": "Herramientas",
+    "code": "221.144",
+    "name": "Punta P/Martillo Percutor 40Cm Encastre Rápido - U87",
+    "unit": "Un."
+  },
+  {
+    "id": 590,
+    "classification": "Herramientas",
+    "code": "221.126",
+    "name": "Puntal Telescopico",
+    "unit": "Un."
+  },
+  {
+    "id": 591,
+    "classification": "Herramientas",
+    "code": "221.127",
+    "name": "Rastrillo",
+    "unit": "Un."
+  },
+  {
+    "id": 592,
+    "classification": "Herramientas",
+    "code": "221.128",
+    "name": "Regla De Aluminio Para Albañil 2\" (3M)",
+    "unit": "Un."
+  },
+  {
+    "id": 593,
+    "classification": "Herramientas",
+    "code": "211.228",
+    "name": "Regla De Aluminio Para Albañil 2\" (6M)",
+    "unit": "Un."
+  },
+  {
+    "id": 594,
+    "classification": "Herramientas",
+    "code": "221.203",
+    "name": "Regla De Aluminio Para Albañil 3\" (3M)",
+    "unit": "Un."
+  },
+  {
+    "id": 595,
+    "classification": "Herramientas",
+    "code": "231.048",
+    "name": "Remachadora manual tipo fuelle (Acordeón)",
+    "unit": "Un."
+  },
+  {
+    "id": 596,
+    "classification": "Herramientas",
+    "code": "231.091",
+    "name": "Remachadora Pop Manual Tipo Pinza 10\"",
+    "unit": "Un."
+  },
+  {
+    "id": 597,
+    "classification": "Herramientas",
+    "code": "231.094",
+    "name": "Remachadora Neumática P/Compresor 5/32\" C/Manguera",
+    "unit": "Un."
+  },
+  {
+    "id": 598,
+    "classification": "Herramientas",
+    "code": "212.107",
+    "name": "Repuesto tapa boca",
+    "unit": "Un."
+  },
+  {
+    "id": 599,
+    "classification": "Herramientas",
+    "code": "221.193",
+    "name": "Rodel P/Cortadora de Cerámica 8Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 600,
+    "classification": "Herramientas",
+    "code": "221.129",
+    "name": "Rodillo Corderito 180X38",
+    "unit": "Un."
+  },
+  {
+    "id": 601,
+    "classification": "Herramientas",
+    "code": "221.130",
+    "name": "Rodillo Corderito 230X38",
+    "unit": "Un."
+  },
+  {
+    "id": 602,
+    "classification": "Herramientas",
+    "code": "231.034",
+    "name": "Rotomartillo 850 W",
+    "unit": "Un."
+  },
+  {
+    "id": 603,
+    "classification": "Herramientas",
+    "code": "221.132",
+    "name": "Ruedas Para Carretilla De Goma Macizas",
+    "unit": "Un."
+  },
+  {
+    "id": 604,
+    "classification": "Herramientas",
+    "code": "221.133",
+    "name": "Serrucho Dentado Acero SAE10 Universal Mango Madera 60cm",
+    "unit": "Un."
+  },
+  {
+    "id": 605,
+    "classification": "Herramientas",
+    "code": "221.360",
+    "name": "Serrucho para yeso",
+    "unit": "Un."
+  },
+  {
+    "id": 606,
+    "classification": "Herramientas",
+    "code": "231.020",
+    "name": "Sierra Circular 7 1/4\" 1400W",
+    "unit": "Un."
+  },
+  {
+    "id": 607,
+    "classification": "Herramientas",
+    "code": "231.021",
+    "name": "Sierra De Mano hoja de 12\"",
+    "unit": "Un."
+  },
+  {
+    "id": 608,
+    "classification": "Herramientas",
+    "code": "231.022",
+    "name": "Sierra De Mesa 10\"",
+    "unit": "Un."
+  },
+  {
+    "id": 609,
+    "classification": "Herramientas",
+    "code": "231.031",
+    "name": "Sierra sensitiva de 14\"",
+    "unit": "Un."
+  },
+  {
+    "id": 610,
+    "classification": "Herramientas",
+    "code": "231.044",
+    "name": "Soldadora Inverter 160A",
+    "unit": "Un."
+  },
+  {
+    "id": 611,
+    "classification": "Herramientas",
+    "code": "231.024",
+    "name": "Taladro 600W Con Percutor",
+    "unit": "Un."
+  },
+  {
+    "id": 612,
+    "classification": "Herramientas",
+    "code": "231.032",
+    "name": "Taladro 800w con Percutor",
+    "unit": "Un."
+  },
+  {
+    "id": 613,
+    "classification": "Herramientas",
+    "code": "211.149",
+    "name": "Tanza (0.8Mm) Rollo 100mt.",
+    "unit": "Un."
+  },
+  {
+    "id": 614,
+    "classification": "Herramientas",
+    "code": "212.087",
+    "name": "Tapa boca rígido c/repuesto",
+    "unit": "Un."
+  },
+  {
+    "id": 615,
+    "classification": "Herramientas",
+    "code": "221.134",
+    "name": "Tenaza De Armador Para Todo Corte (10\")",
+    "unit": "Un."
+  },
+  {
+    "id": 616,
+    "classification": "Herramientas",
+    "code": "347.085",
+    "name": "Terraja ajustable metálica para PPL 1/2\", 3/4\", 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 617,
+    "classification": "Herramientas",
+    "code": "231.025",
+    "name": "Tester Clasico",
+    "unit": "Un."
+  },
+  {
+    "id": 618,
+    "classification": "Herramientas",
+    "code": "374.112",
+    "name": "Tierra De Color Rojo (1kg)",
+    "unit": "Un."
+  },
+  {
+    "id": 619,
+    "classification": "Herramientas",
+    "code": "211.194",
+    "name": "Tijera de corte para caño",
+    "unit": "Un."
+  },
+  {
+    "id": 620,
+    "classification": "Herramientas",
+    "code": "221.135",
+    "name": "Tijera Para Cortar Chapa Recta",
+    "unit": "Un."
+  },
+  {
+    "id": 621,
+    "classification": "Herramientas",
+    "code": "210.056",
+    "name": "Tijera Recta P/ Yeso",
+    "unit": "Un."
+  },
+  {
+    "id": 622,
+    "classification": "Herramientas",
+    "code": "312.090",
+    "name": "Tiza Blanca X100Un.",
+    "unit": "Un."
+  },
+  {
+    "id": 623,
+    "classification": "Herramientas",
+    "code": "221.173",
+    "name": "Trincheta Para Yeso",
+    "unit": "Un."
+  },
+  {
+    "id": 624,
+    "classification": "Herramientas",
+    "code": "221.137",
+    "name": "Trozador Para Madera 24\"",
+    "unit": "Un."
+  },
+  {
+    "id": 625,
+    "classification": "Herramientas",
+    "code": "221.138",
+    "name": "Uña (Herramienta Manual) 60 cm",
+    "unit": "Un."
+  },
+  {
+    "id": 626,
+    "classification": "Herramientas",
+    "code": "211.157",
+    "name": "Vaselina en pasta 600 gr.",
+    "unit": "Un."
+  },
+  {
+    "id": 627,
+    "classification": "Herramientas",
+    "code": "221.383",
+    "name": "Viruta Nº2 100 Grs.",
+    "unit": "Paq."
+  },
+  {
+    "id": 628,
+    "classification": "Herramientas",
+    "code": "221.474",
+    "name": "Viruta Nº3 100 Grs.",
+    "unit": "Paq."
+  },
+  {
+    "id": 629,
+    "classification": "Hierro",
+    "code": "343.003",
+    "name": "Aro Hierro Fundido Saneamiento Aprob. IMM Calle",
+    "unit": "Un."
+  },
+  {
+    "id": 630,
+    "classification": "Hierro",
+    "code": "343.001",
+    "name": "Aro Hierro Fundido Saneamiento Aprob. IMM Vereda",
+    "unit": "Un."
+  },
+  {
+    "id": 631,
+    "classification": "Hierro",
+    "code": "321.287",
+    "name": "Caño de Hierro 2” 6mt e=3mm",
+    "unit": "Un."
+  },
+  {
+    "id": 632,
+    "classification": "Hierro",
+    "code": "321.188",
+    "name": "Caño de Hierro 3\" x  3mm x 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 633,
+    "classification": "Hierro",
+    "code": "321.225",
+    "name": "Caño de Hierro 40x40mm 6mt e=3mm",
+    "unit": "Un."
+  },
+  {
+    "id": 634,
+    "classification": "Hierro",
+    "code": "321.140",
+    "name": "Caño de Hierro 50x30mm 6mt e=1.6mm",
+    "unit": "Un."
+  },
+  {
+    "id": 635,
+    "classification": "Hierro",
+    "code": "321.198",
+    "name": "Caño de hierro 50x50mm e=3mm 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 636,
+    "classification": "Hierro",
+    "code": "321.163",
+    "name": "Caño de Hierro 60x30mm 6mt e=2mm",
+    "unit": "Un."
+  },
+  {
+    "id": 637,
+    "classification": "Hierro",
+    "code": "321.204",
+    "name": "Caño de hierro 80x80mm e=3mm 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 638,
+    "classification": "Hierro",
+    "code": "321.186",
+    "name": "Caño de Hierro 100x100mm 6mt e=3mm",
+    "unit": "Un."
+  },
+  {
+    "id": 639,
+    "classification": "Hierro",
+    "code": "321.180",
+    "name": "Caño redondo Ø 1 1/2\" 2 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 640,
+    "classification": "Hierro",
+    "code": "321.181",
+    "name": "Caño redondo Ø 1 1/4\" 2 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 641,
+    "classification": "Hierro",
+    "code": "321.182",
+    "name": "Caño redondo Ø 1\" 2 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 642,
+    "classification": "Hierro",
+    "code": "321.183",
+    "name": "Caño redondo Ø 1/2\" 2 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 643,
+    "classification": "Hierro",
+    "code": "321.184",
+    "name": "Caño redondo Ø 2\" 2 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 644,
+    "classification": "Hierro",
+    "code": "321.185",
+    "name": "Caño redondo Ø 3/4\" 2mm",
+    "unit": "Un."
+  },
+  {
+    "id": 645,
+    "classification": "Hierro",
+    "code": "321.252",
+    "name": "Caño redondo Ø 5/8\" 2 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 646,
+    "classification": "Hierro",
+    "code": "321.301",
+    "name": "Hierro Ángulo 1/8\" X 1 1/2\" 6Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 647,
+    "classification": "Hierro",
+    "code": "321.278",
+    "name": "Hierro Ángulo 1/8\" X 1 1/4\" 6Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 648,
+    "classification": "Hierro",
+    "code": "321.293",
+    "name": "Hierro Ángulo 3/16\" x 2\" 6Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 649,
+    "classification": "Hierro",
+    "code": "321.279",
+    "name": "Hierro T de 1/8\" x 1 1/4\" x 6mts",
+    "unit": "Un."
+  },
+  {
+    "id": 650,
+    "classification": "Hierro",
+    "code": "321.047",
+    "name": "Malla Electrosoldada 4,2X15X15 50mt",
+    "unit": "Rollo"
+  },
+  {
+    "id": 651,
+    "classification": "Hierro",
+    "code": "321.303",
+    "name": "Malla Metal Desplegado Rombo 50x24x3,2 Mm M2",
+    "unit": "m2"
+  },
+  {
+    "id": 652,
+    "classification": "Hierro",
+    "code": "321.044",
+    "name": "Perfil Hierro Ángulo 1/8\" x 2\" 6Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 653,
+    "classification": "Hierro",
+    "code": "321.343",
+    "name": "Perfil hierro L 3/8\" de 2\" x 2\" x 3mts",
+    "unit": "Un."
+  },
+  {
+    "id": 654,
+    "classification": "Hierro",
+    "code": "321.175",
+    "name": "Planchuela 1/4\" x 1 1/4\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 655,
+    "classification": "Hierro",
+    "code": "321.049",
+    "name": "Planchuela 1/4\" x 2\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 656,
+    "classification": "Hierro",
+    "code": "321.050",
+    "name": "Planchuela 1/8\" X 1\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 657,
+    "classification": "Hierro",
+    "code": "321.051",
+    "name": "Planchuela 1/8\" X 2\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 658,
+    "classification": "Hierro",
+    "code": "321.104",
+    "name": "Planchuela 1/8\" x 3/4\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 659,
+    "classification": "Hierro",
+    "code": "321.206",
+    "name": "Planchuela 3/16\" x 1 1/2\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 660,
+    "classification": "Hierro",
+    "code": "321.118",
+    "name": "Planchuela 3/16\" x 1 1/4\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 661,
+    "classification": "Hierro",
+    "code": "321.053",
+    "name": "Planchuela 3/16\" X 2\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 662,
+    "classification": "Hierro",
+    "code": "321.134",
+    "name": "Planchuela 3/16\" x 3 1/2\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 663,
+    "classification": "Hierro",
+    "code": "321.135",
+    "name": "Planchuela 3/16\" x 3\" 6mt",
+    "unit": "Un."
+  },
+  {
+    "id": 664,
+    "classification": "Hierro",
+    "code": "321.054",
+    "name": "Tejido Galvanizado 1.8Mt Alto 2Mm (Rectangular Rollo 25mt)",
+    "unit": "Rollo"
+  },
+  {
+    "id": 665,
+    "classification": "Hierro",
+    "code": "321.321",
+    "name": "Varilla 10Mm Conformado (6 mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 666,
+    "classification": "Hierro",
+    "code": "321.196",
+    "name": "Varilla 10Mm Lisa (6mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 667,
+    "classification": "Hierro",
+    "code": "321.235",
+    "name": "Varilla 12Mm Conformado (6mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 668,
+    "classification": "Hierro",
+    "code": "321.350",
+    "name": "Varilla 6Mm Conformado (6 mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 669,
+    "classification": "Hierro",
+    "code": "321.086",
+    "name": "Varilla 6Mm Lisa (6mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 670,
+    "classification": "Hierro",
+    "code": "321.296",
+    "name": "Varilla 8Mm Conformado (6mt)",
+    "unit": "Un."
+  },
+  {
+    "id": 671,
+    "classification": "Hormigón",
+    "code": "344.001",
+    "name": "Aro de hormigón Ø 1mt, alto 25cm. pozo negro",
+    "unit": "Un."
+  },
+  {
+    "id": 672,
+    "classification": "Hormigón",
+    "code": "344.040",
+    "name": "Aro de hormigón Ø 1mt, alto 25cm. Saneamiento",
+    "unit": "Un."
+  },
+  {
+    "id": 673,
+    "classification": "Hormigón",
+    "code": "344.002",
+    "name": "Aro de hormigón Ø 1mt, alto 50cm. pozo negro",
+    "unit": "Un."
+  },
+  {
+    "id": 674,
+    "classification": "Hormigón",
+    "code": "344.017",
+    "name": "Aro de hormigón Ø 1mt, alto 50cm. Saneamiento",
+    "unit": "Un."
+  },
+  {
+    "id": 675,
+    "classification": "Hormigón",
+    "code": "344.048",
+    "name": "Aro de hormigón Ø 2mt, alto 50cm. pozo negro",
+    "unit": "Un."
+  },
+  {
+    "id": 676,
+    "classification": "Hormigón",
+    "code": "344.003",
+    "name": "Caño De Hormigon 400Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 677,
+    "classification": "Hormigón",
+    "code": "344.004",
+    "name": "Caño De Hormigon 500Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 678,
+    "classification": "Hormigón",
+    "code": "344.020",
+    "name": "Columna Hormigón  0.10x2.25 Mt Sin Codo",
+    "unit": "Un."
+  },
+  {
+    "id": 679,
+    "classification": "Hormigón",
+    "code": "344.032",
+    "name": "Columna hormigón 0.12x0.12x4 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 680,
+    "classification": "Hormigón",
+    "code": "344.042",
+    "name": "Columna hormigón 0.15X0.15X5 Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 681,
+    "classification": "Hormigón",
+    "code": "344.039",
+    "name": "Cono De Saneamiento H=0.6M, Arriba=0.6M, Abajo=1M",
+    "unit": "Un."
+  },
+  {
+    "id": 682,
+    "classification": "Hormigón",
+    "code": "344.041",
+    "name": "Cono De Saneamiento H=0.9M, Arriba=0.6M, Abajo=1M",
+    "unit": "Un."
+  },
+  {
+    "id": 683,
+    "classification": "Hormigón",
+    "code": "344.022",
+    "name": "Contratapa (Para marco y tapa de 60x60cm)",
+    "unit": "Un."
+  },
+  {
+    "id": 684,
+    "classification": "Hormigón",
+    "code": "344.007",
+    "name": "Marco Y Tapa 20X20cm.",
+    "unit": "Un."
+  },
+  {
+    "id": 685,
+    "classification": "Hormigón",
+    "code": "344.008",
+    "name": "Marco Y Tapa 40X40cm.",
+    "unit": "Un."
+  },
+  {
+    "id": 686,
+    "classification": "Hormigón",
+    "code": "344.016",
+    "name": "Marco y Tapa 60x60cm",
+    "unit": "Un."
+  },
+  {
+    "id": 687,
+    "classification": "Hormigón",
+    "code": "344.055",
+    "name": "Marco De Hormigón 60x60Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 688,
+    "classification": "Hormigón",
+    "code": "344.012",
+    "name": "Nicho De Ose De Hormigon C/Tapa",
+    "unit": "Un."
+  },
+  {
+    "id": 689,
+    "classification": "Hormigón",
+    "code": "344.013",
+    "name": "Pileta De Patio Hormigon 20X20Cm c/rejilla",
+    "unit": "Un."
+  },
+  {
+    "id": 690,
+    "classification": "Hormigón",
+    "code": "344.014",
+    "name": "Tapa Cono Saneamiento",
+    "unit": "Un."
+  },
+  {
+    "id": 691,
+    "classification": "Hormigón",
+    "code": "344.047",
+    "name": "Tapa de Hormigón 20x20Cm Perforada",
+    "unit": "Un."
+  },
+  {
+    "id": 692,
+    "classification": "Hormigón",
+    "code": "344.046",
+    "name": "Tapa de Hormigón 40x40Cm Perforada",
+    "unit": "Un."
+  },
+  {
+    "id": 693,
+    "classification": "Hormigón",
+    "code": "344.038",
+    "name": "Tapa de Hormigón 60x60 cm",
+    "unit": "Un."
+  },
+  {
+    "id": 694,
+    "classification": "Hormigón",
+    "code": "344.015",
+    "name": "Tapa Para Pozo Negro 1Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 695,
+    "classification": "Hormigón",
+    "code": "344.049",
+    "name": "Tapa Para Pozo Negro 2Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 696,
+    "classification": "Hormigón",
+    "code": "344.006",
+    "name": "Terminal de cámara 60x60cm (marco grueso con tapa y contr.)",
+    "unit": "Un."
+  },
+  {
+    "id": 697,
+    "classification": "Impermeabilizante",
+    "code": "341.001",
+    "name": "Asfalkote 18Kg.",
+    "unit": "Un."
+  },
+  {
+    "id": 698,
+    "classification": "Impermeabilizante",
+    "code": "341.002",
+    "name": "Asfalkote 200Kg.",
+    "unit": "Un."
+  },
+  {
+    "id": 699,
+    "classification": "Insumo de protección personal",
+    "code": "212.007",
+    "name": "Bota (Talle 35) De Goma Caña Larga.",
+    "unit": "Un."
+  },
+  {
+    "id": 700,
+    "classification": "Insumo de protección personal",
+    "code": "212.008",
+    "name": "Bota (Talle 36) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 701,
+    "classification": "Insumo de protección personal",
+    "code": "212.009",
+    "name": "Bota (Talle 37) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 702,
+    "classification": "Insumo de protección personal",
+    "code": "212.010",
+    "name": "Bota (Talle 38) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 703,
+    "classification": "Insumo de protección personal",
+    "code": "212.011",
+    "name": "Bota (Talle 39) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 704,
+    "classification": "Insumo de protección personal",
+    "code": "212.012",
+    "name": "Bota (Talle 40) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 705,
+    "classification": "Insumo de protección personal",
+    "code": "212.013",
+    "name": "Bota (Talle 41) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 706,
+    "classification": "Insumo de protección personal",
+    "code": "212.014",
+    "name": "Bota (Talle 42) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 707,
+    "classification": "Insumo de protección personal",
+    "code": "212.015",
+    "name": "Bota (Talle 43) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 708,
+    "classification": "Insumo de protección personal",
+    "code": "212.016",
+    "name": "Bota (Talle 44) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 709,
+    "classification": "Insumo de protección personal",
+    "code": "212.017",
+    "name": "Bota (Talle 45) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 710,
+    "classification": "Insumo de protección personal",
+    "code": "212.018",
+    "name": "Bota (Talle 46) De Goma Caña Larga",
+    "unit": "Un."
+  },
+  {
+    "id": 711,
+    "classification": "Insumo de protección personal",
+    "code": "212.391",
+    "name": "Filtro Para Mascarilla P/Polvo",
+    "unit": "Un."
+  },
+  {
+    "id": 712,
+    "classification": "Insumo de protección personal",
+    "code": "212.049",
+    "name": "Mascara Para Filtro Intercambiable",
+    "unit": "Un."
+  },
+  {
+    "id": 713,
+    "classification": "Insumo de protección personal",
+    "code": "212.066",
+    "name": "Traje De Lluvia (L)",
+    "unit": "Un."
+  },
+  {
+    "id": 714,
+    "classification": "Insumo de protección personal",
+    "code": "212.067",
+    "name": "Traje De Lluvia (M)",
+    "unit": "Un."
+  },
+  {
+    "id": 715,
+    "classification": "Insumo de protección personal",
+    "code": "212.068",
+    "name": "Traje De Lluvia (S)",
+    "unit": "Un."
+  },
+  {
+    "id": 716,
+    "classification": "Insumo de protección personal",
+    "code": "212.069",
+    "name": "Traje De Lluvia (XL)",
+    "unit": "Un."
+  },
+  {
+    "id": 717,
+    "classification": "Insumo de protección personal",
+    "code": "212.070",
+    "name": "Traje De Lluvia (XXL)",
+    "unit": "Un."
+  },
+  {
+    "id": 718,
+    "classification": "Insumo de protección personal",
+    "code": "212.657",
+    "name": "Traje De Lluvia (Xxxl)",
+    "unit": "Un."
+  },
+  {
+    "id": 719,
+    "classification": "Insumo de protección personal",
+    "code": "212.074",
+    "name": "Zapato (Talle 35) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 720,
+    "classification": "Insumo de protección personal",
+    "code": "212.075",
+    "name": "Zapato (Talle 36) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 721,
+    "classification": "Insumo de protección personal",
+    "code": "212.076",
+    "name": "Zapato (Talle 37) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 722,
+    "classification": "Insumo de protección personal",
+    "code": "212.077",
+    "name": "Zapato (Talle 38) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 723,
+    "classification": "Insumo de protección personal",
+    "code": "212.078",
+    "name": "Zapato (Talle 39) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 724,
+    "classification": "Insumo de protección personal",
+    "code": "212.079",
+    "name": "Zapato (Talle 40) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 725,
+    "classification": "Insumo de protección personal",
+    "code": "212.080",
+    "name": "Zapato (Talle 41) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 726,
+    "classification": "Insumo de protección personal",
+    "code": "212.081",
+    "name": "Zapato (Talle 42) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 727,
+    "classification": "Insumo de protección personal",
+    "code": "212.082",
+    "name": "Zapato (Talle 43) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 728,
+    "classification": "Insumo de protección personal",
+    "code": "212.083",
+    "name": "Zapato (Talle 44) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 729,
+    "classification": "Insumo de protección personal",
+    "code": "212.084",
+    "name": "Zapato (Talle 45) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 730,
+    "classification": "Insumo de protección personal",
+    "code": "212.085",
+    "name": "Zapato (Talle 46) De Seguridad Industrial",
+    "unit": "Un."
+  },
+  {
+    "id": 731,
+    "classification": "Insumo de seguridad",
+    "code": "221.147",
+    "name": "Abrazadera para andamio reticulada",
+    "unit": "Un."
+  },
+  {
+    "id": 732,
+    "classification": "Insumo de seguridad",
+    "code": "221.467",
+    "name": "Andamio Tubular 3X1.9X0.6Mt P/Espacio Reducido",
+    "unit": "Un."
+  },
+  {
+    "id": 733,
+    "classification": "Insumo de seguridad",
+    "code": "221.562",
+    "name": "Mini Andamio con ruedas 2 plataformas Bandeja rebatible L140 x A78 x H135cm",
+    "unit": "Un."
+  },
+  {
+    "id": 734,
+    "classification": "Insumo de seguridad",
+    "code": "221.001",
+    "name": "Andamio Tubular 3X1.9X1.3M (X2) Acero Inox.",
+    "unit": "Un."
+  },
+  {
+    "id": 735,
+    "classification": "Insumo de seguridad",
+    "code": "212.105",
+    "name": "Anticaída Deslizante Metálico",
+    "unit": "Un."
+  },
+  {
+    "id": 736,
+    "classification": "Insumo de seguridad",
+    "code": "212.004",
+    "name": "Antiparra transparente",
+    "unit": "Un."
+  },
+  {
+    "id": 737,
+    "classification": "Insumo de seguridad",
+    "code": "212.660",
+    "name": "Careta de protección transparente",
+    "unit": "Un."
+  },
+  {
+    "id": 738,
+    "classification": "Insumo de seguridad",
+    "code": "212.030",
+    "name": "Careta Soldar Fotocromática",
+    "unit": "Un."
+  },
+  {
+    "id": 739,
+    "classification": "Insumo de seguridad",
+    "code": "212.031",
+    "name": "Casco De Seguridad (Amarillo)",
+    "unit": "Un."
+  },
+  {
+    "id": 740,
+    "classification": "Insumo de seguridad",
+    "code": "212.032",
+    "name": "Casco De Seguridad (Blanco)",
+    "unit": "Un."
+  },
+  {
+    "id": 741,
+    "classification": "Insumo de seguridad",
+    "code": "243.155",
+    "name": "Cono Reflectivo Naranja 70Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 742,
+    "classification": "Insumo de seguridad",
+    "code": "212.034",
+    "name": "Cinturon De Seguridad",
+    "unit": "Un."
+  },
+  {
+    "id": 743,
+    "classification": "Insumo de seguridad",
+    "code": "212.661",
+    "name": "Cola De Amarre Sin Amortiguador",
+    "unit": "Un."
+  },
+  {
+    "id": 744,
+    "classification": "Insumo de seguridad",
+    "code": "211.160",
+    "name": "Cruceta Para Andamio De Acero Inox.",
+    "unit": "Un."
+  },
+  {
+    "id": 745,
+    "classification": "Insumo de seguridad",
+    "code": "212.124",
+    "name": "Cubre Nuca Para Casco C/Reflectivo",
+    "unit": "Un."
+  },
+  {
+    "id": 746,
+    "classification": "Insumo de seguridad",
+    "code": "212.036",
+    "name": "Cuerda De Poliester Trenzada 14Mm (De Vida)",
+    "unit": "Mt."
+  },
+  {
+    "id": 747,
+    "classification": "Insumo de seguridad",
+    "code": "212.089",
+    "name": "Guante De Cuero, descarne puño corto",
+    "unit": "Un."
+  },
+  {
+    "id": 748,
+    "classification": "Insumo de seguridad",
+    "code": "212.043",
+    "name": "Guante De Lanilla Y Palma Verde Latex Reforzada",
+    "unit": "Un."
+  },
+  {
+    "id": 749,
+    "classification": "Insumo de seguridad",
+    "code": "212.045",
+    "name": "Lente De Proteccion Oscuro con filtro UV",
+    "unit": "Un."
+  },
+  {
+    "id": 750,
+    "classification": "Insumo de seguridad",
+    "code": "212.046",
+    "name": "Lente De Protección Transparente",
+    "unit": "Un."
+  },
+  {
+    "id": 751,
+    "classification": "Insumo de seguridad",
+    "code": "212.048",
+    "name": "Lente Proteccion Uv (Ámbar)",
+    "unit": "Un."
+  },
+  {
+    "id": 752,
+    "classification": "Insumo de seguridad",
+    "code": "211.454",
+    "name": "Malla Vallado Naranja Rollo 1x50Mt 60Gr",
+    "unit": "Un."
+  },
+  {
+    "id": 753,
+    "classification": "Insumo de seguridad",
+    "code": "221.148",
+    "name": "Pie nivelador para andamio",
+    "unit": "Un."
+  },
+  {
+    "id": 754,
+    "classification": "Insumo de seguridad",
+    "code": "212.057",
+    "name": "Protector Auditivo",
+    "unit": "Un."
+  },
+  {
+    "id": 755,
+    "classification": "Insumo de seguridad",
+    "code": "212.223",
+    "name": "Repuesto Para Mascara Facial Transparente",
+    "unit": "Un."
+  },
+  {
+    "id": 756,
+    "classification": "Insumo de seguridad",
+    "code": "212.118",
+    "name": "Rodillera Ergonómico para Obra (Par)",
+    "unit": "Un."
+  },
+  {
+    "id": 757,
+    "classification": "Insumo de seguridad",
+    "code": "212.119",
+    "name": "Sobrelente Antiparra Transparente",
+    "unit": "Un."
+  },
+  {
+    "id": 758,
+    "classification": "Insumo de seguridad",
+    "code": "212.093",
+    "name": "Trabacaídas Para Cuerda de Seguridad 14Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 759,
+    "classification": "Insumo de seguridad",
+    "code": "321.122",
+    "name": "Tuerca para andamio",
+    "unit": "Un."
+  },
+  {
+    "id": 760,
+    "classification": "Limpieza",
+    "code": "211.395",
+    "name": "Aerosol Mata Moscas y Mosquitos",
+    "unit": "Un."
+  },
+  {
+    "id": 761,
+    "classification": "Limpieza",
+    "code": "221.328",
+    "name": "Balde común (no obra)",
+    "unit": "Un."
+  },
+  {
+    "id": 762,
+    "classification": "Limpieza",
+    "code": "211.394",
+    "name": "Creolina Envase x 1Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 763,
+    "classification": "Limpieza",
+    "code": "211.392",
+    "name": "Desodorante Antibacterial P/Pisos X5 Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 764,
+    "classification": "Limpieza",
+    "code": "312.112",
+    "name": "Desodorante de Ambiente en Aerosol",
+    "unit": "Un."
+  },
+  {
+    "id": 765,
+    "classification": "Limpieza",
+    "code": "312.110",
+    "name": "Detergente Neutro bidon 5 lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 766,
+    "classification": "Limpieza",
+    "code": "221.038",
+    "name": "Escoba",
+    "unit": "Un."
+  },
+  {
+    "id": 767,
+    "classification": "Limpieza",
+    "code": "211.238",
+    "name": "Escobillon de obra 40 cm",
+    "unit": "Un."
+  },
+  {
+    "id": 768,
+    "classification": "Limpieza",
+    "code": "314.053",
+    "name": "Esponja De Aluminio",
+    "unit": "Un."
+  },
+  {
+    "id": 769,
+    "classification": "Limpieza",
+    "code": "314.057",
+    "name": "Esponja de cocina",
+    "unit": "Un."
+  },
+  {
+    "id": 770,
+    "classification": "Limpieza",
+    "code": "212.042",
+    "name": "Guante De Goma Doméstico PVC Talle 9/10",
+    "unit": "Un."
+  },
+  {
+    "id": 771,
+    "classification": "Limpieza",
+    "code": "312.175",
+    "name": "Hipoclorito de Sodio Concentrado 5lts.",
+    "unit": "Un."
+  },
+  {
+    "id": 772,
+    "classification": "Limpieza",
+    "code": "312.109",
+    "name": "Jabón para manos bidon 5 lt",
+    "unit": "Un."
+  },
+  {
+    "id": 773,
+    "classification": "Limpieza",
+    "code": "221.055",
+    "name": "Lampazo Grande",
+    "unit": "Un."
+  },
+  {
+    "id": 774,
+    "classification": "Limpieza",
+    "code": "211.396",
+    "name": "Limpiador Final De Obra 5 Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 775,
+    "classification": "Limpieza",
+    "code": "312.176",
+    "name": " Papel De Cocina 200Mt",
+    "unit": "Rollo"
+  },
+  {
+    "id": 776,
+    "classification": "Limpieza",
+    "code": "312.105",
+    "name": "Papel higiénico 500mt",
+    "unit": "Rollo"
+  },
+  {
+    "id": 777,
+    "classification": "Limpieza",
+    "code": "211.388",
+    "name": "Trapo De Piso 60x55Cm Calidad Alta",
+    "unit": "Un."
+  },
+  {
+    "id": 778,
+    "classification": "Limpieza",
+    "code": "211.390",
+    "name": "Trapo Rejilla Fregón 32x32Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 779,
+    "classification": "Madera",
+    "code": "391.068",
+    "name": "Barrote Madera Para Cortina 20Mm 1,4 Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 780,
+    "classification": "Madera",
+    "code": "391.023",
+    "name": "Chapon fenólico plastificado 18Mm 1.22x2.44Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 781,
+    "classification": "Madera",
+    "code": "391.001",
+    "name": "Chapon Osb 12Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 782,
+    "classification": "Madera",
+    "code": "391.002",
+    "name": "Chapon Osb 18Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 783,
+    "classification": "Madera",
+    "code": "391.003",
+    "name": "Chapon Osb 9Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 784,
+    "classification": "Madera",
+    "code": "311.103",
+    "name": "Contramarco De Madera 4.5cm x 3.30Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 785,
+    "classification": "Madera",
+    "code": "311.073",
+    "name": "Contramarco De Madera 7cm X 3.30Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 786,
+    "classification": "Madera",
+    "code": "211.143",
+    "name": "Pallet 1.00x1.20m (Mercosur)",
+    "unit": "Un."
+  },
+  {
+    "id": 787,
+    "classification": "Madera",
+    "code": "391.038",
+    "name": "Poste Madera 3Mt. 12 Ø Tratado C/CCA",
+    "unit": "Un."
+  },
+  {
+    "id": 788,
+    "classification": "Madera",
+    "code": "391.073",
+    "name": "Poste Madera 4,5Mt. 15 Ø Tratado C/CCA",
+    "unit": "Un."
+  },
+  {
+    "id": 789,
+    "classification": "Madera",
+    "code": "391.062",
+    "name": "Poste Madera 5Mt. 12 Ø Tratado C/ CCA",
+    "unit": "Un."
+  },
+  {
+    "id": 790,
+    "classification": "Madera",
+    "code": "391.011",
+    "name": "Puntal 3 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 791,
+    "classification": "Madera",
+    "code": "391.027",
+    "name": "Puntal 6 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 792,
+    "classification": "Madera",
+    "code": "391.067",
+    "name": "Puntero Madera P/Barrote De Cortina 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 793,
+    "classification": "Madera",
+    "code": "391.066",
+    "name": "Soporte Madera P/Barrote De Cortina 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 794,
+    "classification": "Madera",
+    "code": "391.101",
+    "name": "Tabla Deck Tratada C/CCA Cepillada 1\"x6\" 3.30Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 795,
+    "classification": "Madera",
+    "code": "391.014",
+    "name": "Tabla De Primera 0.15X3.3X1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 796,
+    "classification": "Madera",
+    "code": "391.016",
+    "name": "Tablon 0.3 X2\" X3.30",
+    "unit": "Un."
+  },
+  {
+    "id": 797,
+    "classification": "Madera",
+    "code": "391.017",
+    "name": "Tirante 2\"X2\" X3.30M",
+    "unit": "Un."
+  },
+  {
+    "id": 798,
+    "classification": "Madera",
+    "code": "391.018",
+    "name": "Tirante 2\"X2\" X4.50M",
+    "unit": "Un."
+  },
+  {
+    "id": 799,
+    "classification": "Madera",
+    "code": "391.019",
+    "name": "Tirante 2\"X4\" X3.30M",
+    "unit": "Un."
+  },
+  {
+    "id": 800,
+    "classification": "Madera",
+    "code": "391.020",
+    "name": "Tirante 2\"X4\" X4.50M",
+    "unit": "Un."
+  },
+  {
+    "id": 801,
+    "classification": "Madera",
+    "code": "391.053",
+    "name": "Tirante Pino Ellliotis de 2\" x 6\" x 3.30",
+    "unit": "Un."
+  },
+  {
+    "id": 802,
+    "classification": "Madera",
+    "code": "391.071",
+    "name": "Zócalo De Madera 5Cm x 3.30Mt e=1Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 803,
+    "classification": "Madera",
+    "code": "391.077",
+    "name": "Zócalo De Madera 7Cm x 3.30Mt e=1Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 804,
+    "classification": "Mampuestos",
+    "code": "310.001",
+    "name": "Bloque De Hormigón 12X20X40cm.",
+    "unit": "Un."
+  },
+  {
+    "id": 805,
+    "classification": "Mampuestos",
+    "code": "310.002",
+    "name": "Bloque De Hormigón U 12X20X40cm.",
+    "unit": "Un."
+  },
+  {
+    "id": 806,
+    "classification": "Mampuestos",
+    "code": "310.014",
+    "name": "Bloque De Hormigón U Vibrado 12x19x39",
+    "unit": "Un."
+  },
+  {
+    "id": 807,
+    "classification": "Mampuestos",
+    "code": "310.016",
+    "name": "Bloque De Hormigón U Vibrado 20x19x40",
+    "unit": "Un."
+  },
+  {
+    "id": 808,
+    "classification": "Mampuestos",
+    "code": "310.005",
+    "name": "Bloque vibrado 12x19x39 Con Fondo",
+    "unit": "Un."
+  },
+  {
+    "id": 809,
+    "classification": "Mampuestos",
+    "code": "310.006",
+    "name": "Bloque vibrado 20x19x40 Sin Fondo",
+    "unit": "Un."
+  },
+  {
+    "id": 810,
+    "classification": "Mampuestos",
+    "code": "310.008",
+    "name": "Bloqueta De Hormigón 8X40X20Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 811,
+    "classification": "Mampuestos",
+    "code": "310.003",
+    "name": "Ladrillo De Campo 1ª",
+    "unit": "Un."
+  },
+  {
+    "id": 812,
+    "classification": "Mampuestos",
+    "code": "310.007",
+    "name": "Ticholo 12x25x25",
+    "unit": "Un."
+  },
+  {
+    "id": 813,
+    "classification": "Otros",
+    "code": "312.020",
+    "name": "Carton Corrugado Rollo 10Mt",
+    "unit": "Rollo"
+  },
+  {
+    "id": 814,
+    "classification": "Otros",
+    "code": "211.436",
+    "name": "Malla Fibra De Vidrio 1M Rollo 50 m2",
+    "unit": "Rollo"
+  },
+  {
+    "id": 815,
+    "classification": "Otros",
+    "code": "212.058",
+    "name": "Protector Solar Fs 30 Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 816,
+    "classification": "Otros",
+    "code": "212.106",
+    "name": "Repelente x 180Ml Pumpspray",
+    "unit": "Un."
+  },
+  {
+    "id": 817,
+    "classification": "Pintura",
+    "code": "313.042",
+    "name": "Aerosol Amarillo",
+    "unit": "Un."
+  },
+  {
+    "id": 818,
+    "classification": "Pintura",
+    "code": "313.040",
+    "name": "Aerosol Rojo",
+    "unit": "Un."
+  },
+  {
+    "id": 819,
+    "classification": "Pintura",
+    "code": "313.044",
+    "name": "Canatech 20Lts Azul",
+    "unit": "Un."
+  },
+  {
+    "id": 820,
+    "classification": "Pintura",
+    "code": "313.045",
+    "name": "Canatech 20Lts Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 821,
+    "classification": "Pintura",
+    "code": "313.046",
+    "name": "Canatech 20Lts Gris",
+    "unit": "Un."
+  },
+  {
+    "id": 822,
+    "classification": "Pintura",
+    "code": "313.047",
+    "name": "Canatech 20Lts Negro",
+    "unit": "Un."
+  },
+  {
+    "id": 823,
+    "classification": "Pintura",
+    "code": "313.048",
+    "name": "Canatech 20Lts Ocre",
+    "unit": "Un."
+  },
+  {
+    "id": 824,
+    "classification": "Pintura",
+    "code": "313.049",
+    "name": "Canatech 20Lts Rojo",
+    "unit": "Un."
+  },
+  {
+    "id": 825,
+    "classification": "Pintura",
+    "code": "313.050",
+    "name": "Canatech 20Lts Teja",
+    "unit": "Un."
+  },
+  {
+    "id": 826,
+    "classification": "Pintura",
+    "code": "313.051",
+    "name": "Canatech 20Lts Verde Cemento",
+    "unit": "Un."
+  },
+  {
+    "id": 827,
+    "classification": "Pintura",
+    "code": "313.053",
+    "name": "Canatech 20Lts Verde Musgo",
+    "unit": "Un."
+  },
+  {
+    "id": 828,
+    "classification": "Pintura",
+    "code": "313.097",
+    "name": "Esmalte Convertidor Negro 3.6Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 829,
+    "classification": "Pintura",
+    "code": "313.007",
+    "name": "Esmalte Multiuso Azul 1 Lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 830,
+    "classification": "Pintura",
+    "code": "313.008",
+    "name": "Esmalte Multiuso Azul 4Lts",
+    "unit": "Un."
+  },
+  {
+    "id": 831,
+    "classification": "Pintura",
+    "code": "313.010",
+    "name": "Esmalte Multiuso Blanco 1 Lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 832,
+    "classification": "Pintura",
+    "code": "313.011",
+    "name": "Esmalte Multiuso Blanco 4Lts",
+    "unit": "Un."
+  },
+  {
+    "id": 833,
+    "classification": "Pintura",
+    "code": "313.012",
+    "name": "Esmalte Multiuso Gris 1 Lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 834,
+    "classification": "Pintura",
+    "code": "313.013",
+    "name": "Esmalte Multiuso Negro 1 Lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 835,
+    "classification": "Pintura",
+    "code": "313.014",
+    "name": "Esmalte Multiuso Negro 4Lts",
+    "unit": "Un."
+  },
+  {
+    "id": 836,
+    "classification": "Pintura",
+    "code": "313.028",
+    "name": "Esmalte Sintético Gris Grafito 3.6Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 837,
+    "classification": "Pintura",
+    "code": "313.074",
+    "name": "Imprimación Blanco 20 Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 838,
+    "classification": "Pintura",
+    "code": "313.121",
+    "name": "Pintura Base 18Lt Amarillo P/ 2021C Ecuador (Kabuki)",
+    "unit": "Un."
+  },
+  {
+    "id": 839,
+    "classification": "Pintura",
+    "code": "313.054",
+    "name": "Pintura Cielo Raso Antihongo x20Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 840,
+    "classification": "Pintura",
+    "code": "313.111",
+    "name": "Pintura Impermeable Exterior 20Lt Amarillo",
+    "unit": "Un."
+  },
+  {
+    "id": 841,
+    "classification": "Pintura",
+    "code": "313.080",
+    "name": "Pintura Incafrent Antisalitre 18Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 842,
+    "classification": "Pintura",
+    "code": "313.112",
+    "name": "Pintura Látex Ext. Texturada 18Lt Amarillo (2021C Ecuador)",
+    "unit": "Un."
+  },
+  {
+    "id": 843,
+    "classification": "Pintura",
+    "code": "313.107",
+    "name": "Pintura Látex Int/Ext Textur. Al Agua 18Lt Azul Medio",
+    "unit": "Un."
+  },
+  {
+    "id": 844,
+    "classification": "Pintura",
+    "code": "313.108",
+    "name": "Pintura Látex Int/Ext Textur. Al Agua 18Lt Verde Medio",
+    "unit": "Un."
+  },
+  {
+    "id": 845,
+    "classification": "Pintura",
+    "code": "313.106",
+    "name": "Pintura Látex Int/Ext Textur. Al Agua 18Lt  Marrón Claro",
+    "unit": "Un."
+  },
+  {
+    "id": 846,
+    "classification": "Pintura",
+    "code": "313.023",
+    "name": "Pintura Latex Interior 18lt.",
+    "unit": "Un."
+  },
+  {
+    "id": 847,
+    "classification": "Pintura",
+    "code": "311.106",
+    "name": "Pintura Para Piso Gris Mate 18Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 848,
+    "classification": "Pintura",
+    "code": "313.076",
+    "name": "Pintura Para Piso Gris Mate 4Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 849,
+    "classification": "Pintura",
+    "code": "313.066",
+    "name": "Protector de madera 4lts. Nogal (a base de agua)",
+    "unit": "Un."
+  },
+  {
+    "id": 850,
+    "classification": "Pintura",
+    "code": "313.067",
+    "name": "Protector de madera 4lts. Nogal (a base de thiner)",
+    "unit": "Un."
+  },
+  {
+    "id": 851,
+    "classification": "Pintura",
+    "code": "313.027",
+    "name": "Sellador Al Agua 20lt. Calidad Superior Blanco",
+    "unit": "Un."
+  },
+  {
+    "id": 852,
+    "classification": "Plastiducto",
+    "code": "345.022",
+    "name": "Caño Plastiducto 1\"",
+    "unit": "Mt."
+  },
+  {
+    "id": 853,
+    "classification": "Plastiducto",
+    "code": "345.001",
+    "name": "Caño Plastiducto 1/2\"",
+    "unit": "Mt."
+  },
+  {
+    "id": 854,
+    "classification": "Plastiducto",
+    "code": "345.002",
+    "name": "Caño Plastiducto 3/4\"",
+    "unit": "Mt."
+  },
+  {
+    "id": 855,
+    "classification": "Plastiducto",
+    "code": "345.023",
+    "name": "Codo plastiducto 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 856,
+    "classification": "Plastiducto",
+    "code": "345.003",
+    "name": "Codo Plastiducto 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 857,
+    "classification": "Plastiducto",
+    "code": "345.004",
+    "name": "Codo Plastiducto 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 858,
+    "classification": "Plastiducto",
+    "code": "345.005",
+    "name": "Cupla Plastiducto 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 859,
+    "classification": "Plastiducto",
+    "code": "345.006",
+    "name": "Cupla Plastiducto 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 860,
+    "classification": "Plastiducto",
+    "code": "345.007",
+    "name": "Cupla Reduccion Plastiducto 1\"X3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 861,
+    "classification": "Plastiducto",
+    "code": "345.024",
+    "name": "Cuplas plastiducto 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 862,
+    "classification": "Plastiducto",
+    "code": "345.008",
+    "name": "Rebose Hembra Plastiducto 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 863,
+    "classification": "Plastiducto",
+    "code": "345.009",
+    "name": "Rebose Hembra Plastiducto 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 864,
+    "classification": "Plastiducto",
+    "code": "345.021",
+    "name": "Rebose Macho Plastiducto 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 865,
+    "classification": "Plastiducto",
+    "code": "345.010",
+    "name": "Rebose Macho Plastiducto 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 866,
+    "classification": "Plastiducto",
+    "code": "345.011",
+    "name": "Rebose Macho Plastiducto 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 867,
+    "classification": "Plastiducto",
+    "code": "345.012",
+    "name": "Reducción Plastiducto 1\" A 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 868,
+    "classification": "Plastiducto",
+    "code": "345.013",
+    "name": "Reducción Plastiducto 1\" A 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 869,
+    "classification": "Plastiducto",
+    "code": "345.014",
+    "name": "Reducción Plastiducto 3/4\" A 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 870,
+    "classification": "Plastiducto",
+    "code": "345.020",
+    "name": "Tee plastiducto 1\"",
+    "unit": "Un."
+  },
+  {
+    "id": 871,
+    "classification": "Plastiducto",
+    "code": "345.015",
+    "name": "Tee Plastiducto 1\" A 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 872,
+    "classification": "Plastiducto",
+    "code": "345.016",
+    "name": "Tee Plastiducto 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 873,
+    "classification": "Plastiducto",
+    "code": "345.017",
+    "name": "Tee Plastiducto 3/4\"",
+    "unit": "Un."
+  },
+  {
+    "id": 874,
+    "classification": "Plastiducto",
+    "code": "345.018",
+    "name": "Tee Plastiducto 3/4\" A 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 875,
+    "classification": "Plastiducto",
+    "code": "345.019",
+    "name": "Tee Plastiducto 3/4\" A 1/2\" R/Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 876,
+    "classification": "Prefabricados",
+    "code": "361.021",
+    "name": "Babeta Aluminizada Plegada 0.25Mt x 2Mt largo",
+    "unit": "Un."
+  },
+  {
+    "id": 877,
+    "classification": "Prefabricados",
+    "code": "210.029",
+    "name": "Cantonera para yeso de papel 2cm",
+    "unit": "Un."
+  },
+  {
+    "id": 878,
+    "classification": "Prefabricados",
+    "code": "361.012",
+    "name": "Chapa C26 Trapezoidal 1.08x3,66 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 879,
+    "classification": "Prefabricados",
+    "code": "361.014",
+    "name": "Chapa Plus Trapezoidal 1,00x2,50 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 880,
+    "classification": "Prefabricados",
+    "code": "361.015",
+    "name": "Chapa Plus Trapezoidal 1,00x3,00 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 881,
+    "classification": "Prefabricados",
+    "code": "211.010",
+    "name": "Cinta De Papel Enmascarar 30Mm 50Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 882,
+    "classification": "Prefabricados",
+    "code": "221.340",
+    "name": "Cinta De Papel Enmascarar 50Mm 76mt",
+    "unit": "Un."
+  },
+  {
+    "id": 883,
+    "classification": "Prefabricados",
+    "code": "211.011",
+    "name": "Cinta De Papel Enmascarar19Mm 50Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 884,
+    "classification": "Prefabricados",
+    "code": "210.051",
+    "name": "Cinta malla para yeso 5 cm",
+    "unit": "Un."
+  },
+  {
+    "id": 885,
+    "classification": "Prefabricados",
+    "code": "361.028",
+    "name": "Cumbrera Chapa 2.5 mt x 030 mt",
+    "unit": "Un."
+  },
+  {
+    "id": 886,
+    "classification": "Prefabricados",
+    "code": "361.032",
+    "name": "Cumbrera de 2mt x 0,30mt",
+    "unit": "Un."
+  },
+  {
+    "id": 887,
+    "classification": "Prefabricados",
+    "code": "321.282",
+    "name": "Empalme Para Perfil C 120Mm Cal.14",
+    "unit": "Un."
+  },
+  {
+    "id": 888,
+    "classification": "Prefabricados",
+    "code": "331.010",
+    "name": "Masilla Para Yeso 32Kg",
+    "unit": "Un."
+  },
+  {
+    "id": 889,
+    "classification": "Prefabricados",
+    "code": "210.006",
+    "name": "Masilla Plastica Para Yeso 28Kg.",
+    "unit": "Un."
+  },
+  {
+    "id": 890,
+    "classification": "Prefabricados",
+    "code": "332.009",
+    "name": "Mezcla Fina Bolsa",
+    "unit": "Un."
+  },
+  {
+    "id": 891,
+    "classification": "Prefabricados",
+    "code": "221.491",
+    "name": "Moldura De Poliestireno 30x30Mm x 2Mt Largo",
+    "unit": "Un."
+  },
+  {
+    "id": 892,
+    "classification": "Prefabricados",
+    "code": "341.021",
+    "name": "Moldura De Poliestireno 50x50Mm x 2Mt Largo",
+    "unit": "Un."
+  },
+  {
+    "id": 893,
+    "classification": "Prefabricados",
+    "code": "210.044",
+    "name": "Montante 35 mm x 2,6 mt Cal 0.39",
+    "unit": "Un."
+  },
+  {
+    "id": 894,
+    "classification": "Prefabricados",
+    "code": "210.020",
+    "name": "Montante 35 mm x 3 mt Cal 0.39",
+    "unit": "Un."
+  },
+  {
+    "id": 895,
+    "classification": "Prefabricados",
+    "code": "210.017",
+    "name": "Montante 70 x 2,6m cal 0,39",
+    "unit": "Un."
+  },
+  {
+    "id": 896,
+    "classification": "Prefabricados",
+    "code": "210.043",
+    "name": "Montante 70Mm X 3M Cal 0.39",
+    "unit": "Un."
+  },
+  {
+    "id": 897,
+    "classification": "Prefabricados",
+    "code": "361.320",
+    "name": "Perfil Ángulo L Aluminio Anodizado 15x15Mm 3.0Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 898,
+    "classification": "Prefabricados",
+    "code": "361.321",
+    "name": "Perfil Ángulo L Aluminio Anodizado 15x32Mm 3.0Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 899,
+    "classification": "Prefabricados",
+    "code": "361.232",
+    "name": "Perfil Ángulo L Alumin. Anodizado 1X1 Cm 3.50 Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 900,
+    "classification": "Prefabricados",
+    "code": "321.281",
+    "name": "Perfil C Acero Galvan.120Mm Cal.14 4Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 901,
+    "classification": "Prefabricados",
+    "code": "321.280",
+    "name": "Perfil C Acero Galvan.120Mm Cal.14 5Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 902,
+    "classification": "Prefabricados",
+    "code": "321.100",
+    "name": "Perfil C Acero Galvan.120Mm Cal.14 6Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 903,
+    "classification": "Prefabricados",
+    "code": "361.024",
+    "name": "Perfil chapa prepint. 30cm 3mt (tapajunta contenedores)",
+    "unit": "Un."
+  },
+  {
+    "id": 904,
+    "classification": "Prefabricados",
+    "code": "361.031",
+    "name": "Perfil chapa prepint. 35cm 3mt (tapajunta contenedor/bloque)",
+    "unit": "Un."
+  },
+  {
+    "id": 905,
+    "classification": "Prefabricados",
+    "code": "210.058",
+    "name": "Perfil Omega 80Mm 3Mt Cal 0.39",
+    "unit": "Un."
+  },
+  {
+    "id": 906,
+    "classification": "Prefabricados",
+    "code": "321.368",
+    "name": "Perfil Omega Estructural e=0,99Mm x 37Mm x 3Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 907,
+    "classification": "Prefabricados",
+    "code": "361.059",
+    "name": "Perfil Perimetral Z Buña PVC 3.05Mt Cielorraso",
+    "unit": "Un."
+  },
+  {
+    "id": 908,
+    "classification": "Prefabricados",
+    "code": "321.363",
+    "name": "Perfil U Solera Acero Galvan. 104Mm e=1.5mm 6Mt (U104)",
+    "unit": "Un."
+  },
+  {
+    "id": 909,
+    "classification": "Prefabricados",
+    "code": "210.023",
+    "name": "Placa Cementicia 12mm",
+    "unit": "Un."
+  },
+  {
+    "id": 910,
+    "classification": "Prefabricados",
+    "code": "210.009",
+    "name": "Placa De Yeso 12.5Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 911,
+    "classification": "Prefabricados",
+    "code": "210.011",
+    "name": "Placa De Yeso 9.5Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 912,
+    "classification": "Prefabricados",
+    "code": "210.012",
+    "name": "Placa De Yeso Verde 12.5Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 913,
+    "classification": "Prefabricados",
+    "code": "321.096",
+    "name": "Separador de chapa trapezoidal",
+    "unit": "Un."
+  },
+  {
+    "id": 914,
+    "classification": "Prefabricados",
+    "code": "210.021",
+    "name": "Solera 35mm x 2.6 mt Cal 0.39",
+    "unit": "Un."
+  },
+  {
+    "id": 915,
+    "classification": "Prefabricados",
+    "code": "210.042",
+    "name": "Solera 35mm x 3 mt Cal 0.39",
+    "unit": "Un."
+  },
+  {
+    "id": 916,
+    "classification": "Prefabricados",
+    "code": "210.014",
+    "name": "Solera 70Mm x 2.6 mt cal ",
+    "unit": "Un."
+  },
+  {
+    "id": 917,
+    "classification": "Prefabricados",
+    "code": "210.041",
+    "name": "Solera 70Mm x 3 mt Cal 0.39",
+    "unit": "Un."
+  },
+  {
+    "id": 918,
+    "classification": "PVC",
+    "code": "347.001",
+    "name": "Adhesivo Pvc 1Lt",
+    "unit": "Un."
+  },
+  {
+    "id": 919,
+    "classification": "PVC",
+    "code": "347.004",
+    "name": "Caja De Pvc Sifonada 4 Bocas",
+    "unit": "Un."
+  },
+  {
+    "id": 920,
+    "classification": "PVC",
+    "code": "347.088",
+    "name": "Caja de PVC sifonada 5 bocas salida PVC63mm",
+    "unit": "Un."
+  },
+  {
+    "id": 921,
+    "classification": "PVC",
+    "code": "347.005",
+    "name": "Canilla Pvc 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 922,
+    "classification": "PVC",
+    "code": "347.006",
+    "name": "Caño Pvc 110Mm 3Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 923,
+    "classification": "PVC",
+    "code": "347.007",
+    "name": "Caño Pvc 160Mm 3Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 924,
+    "classification": "PVC",
+    "code": "347.146",
+    "name": "Caño Pvc 160Mm Serie 20 6Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 925,
+    "classification": "PVC",
+    "code": "347.008",
+    "name": "Caño Pvc 200Mm 3Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 926,
+    "classification": "PVC",
+    "code": "347.009",
+    "name": "Caño Pvc 200Mm Serie 20 6Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 927,
+    "classification": "PVC",
+    "code": "347.010",
+    "name": "Caño Pvc 40Mm 3Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 928,
+    "classification": "PVC",
+    "code": "347.011",
+    "name": "Caño Pvc 50Mm 3Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 929,
+    "classification": "PVC",
+    "code": "347.012",
+    "name": "Caño Pvc 63Mm 3Mt",
+    "unit": "Un."
+  },
+  {
+    "id": 930,
+    "classification": "PVC",
+    "code": "347.014",
+    "name": "Codo Pvc 110Mm 45° HH",
+    "unit": "Un."
+  },
+  {
+    "id": 931,
+    "classification": "PVC",
+    "code": "347.015",
+    "name": "Codo Pvc 110Mm 45º M/H",
+    "unit": "Un."
+  },
+  {
+    "id": 932,
+    "classification": "PVC",
+    "code": "347.016",
+    "name": "Codo Pvc 110Mm 90º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 933,
+    "classification": "PVC",
+    "code": "347.017",
+    "name": "Codo Pvc 110Mm 90º M/H",
+    "unit": "Un."
+  },
+  {
+    "id": 934,
+    "classification": "PVC",
+    "code": "347.018",
+    "name": "Codo Pvc 110Mm C/Registro",
+    "unit": "Un."
+  },
+  {
+    "id": 935,
+    "classification": "PVC",
+    "code": "347.092",
+    "name": "Codo PVC 160 90º MH",
+    "unit": "Un."
+  },
+  {
+    "id": 936,
+    "classification": "PVC",
+    "code": "347.019",
+    "name": "Codo Pvc 160Mm 45º",
+    "unit": "Un."
+  },
+  {
+    "id": 937,
+    "classification": "PVC",
+    "code": "347.020",
+    "name": "Codo Pvc 160Mm 90º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 938,
+    "classification": "PVC",
+    "code": "347.021",
+    "name": "Codo Pvc 200Mm 45º",
+    "unit": "Un."
+  },
+  {
+    "id": 939,
+    "classification": "PVC",
+    "code": "347.022",
+    "name": "Codo Pvc 200Mm 90º",
+    "unit": "Un."
+  },
+  {
+    "id": 940,
+    "classification": "PVC",
+    "code": "347.023",
+    "name": "Codo Pvc 40Mm 45° M/H",
+    "unit": "Un."
+  },
+  {
+    "id": 941,
+    "classification": "PVC",
+    "code": "347.024",
+    "name": "Codo Pvc 40Mm 45º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 942,
+    "classification": "PVC",
+    "code": "347.025",
+    "name": "Codo Pvc 40Mm 90° M/H",
+    "unit": "Un."
+  },
+  {
+    "id": 943,
+    "classification": "PVC",
+    "code": "347.026",
+    "name": "Codo Pvc 40Mm 90º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 944,
+    "classification": "PVC",
+    "code": "347.105",
+    "name": "Codo PVC 50 Mm 45º MH",
+    "unit": "Un."
+  },
+  {
+    "id": 945,
+    "classification": "PVC",
+    "code": "347.027",
+    "name": "Codo Pvc 50Mm 45º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 946,
+    "classification": "PVC",
+    "code": "347.028",
+    "name": "Codo Pvc 50Mm 90º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 947,
+    "classification": "PVC",
+    "code": "347.124",
+    "name": "Codo Pvc 50Mm 90º MH",
+    "unit": "Un."
+  },
+  {
+    "id": 948,
+    "classification": "PVC",
+    "code": "347.029",
+    "name": "Codo Pvc 63Mm 45º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 949,
+    "classification": "PVC",
+    "code": "347.030",
+    "name": "Codo Pvc 63Mm 45º M/H",
+    "unit": "Un."
+  },
+  {
+    "id": 950,
+    "classification": "PVC",
+    "code": "347.031",
+    "name": "Codo Pvc 63Mm 90º HH",
+    "unit": "Un."
+  },
+  {
+    "id": 951,
+    "classification": "PVC",
+    "code": "347.125",
+    "name": "Codo Pvc 63Mm 90º MH",
+    "unit": "Un."
+  },
+  {
+    "id": 952,
+    "classification": "PVC",
+    "code": "347.032",
+    "name": "Cupla Pvc 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 953,
+    "classification": "PVC",
+    "code": "347.033",
+    "name": "Cupla Pvc 160Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 954,
+    "classification": "PVC",
+    "code": "347.034",
+    "name": "Cupla Pvc 200Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 955,
+    "classification": "PVC",
+    "code": "347.035",
+    "name": "Cupla Pvc 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 956,
+    "classification": "PVC",
+    "code": "347.036",
+    "name": "Cupla Pvc 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 957,
+    "classification": "PVC",
+    "code": "347.037",
+    "name": "Cupla Pvc 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 958,
+    "classification": "PVC",
+    "code": "347.150",
+    "name": "Fondo De Cámara PVC 60x60x60Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 959,
+    "classification": "PVC",
+    "code": "314.015",
+    "name": "Grampa Omega PVC 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 960,
+    "classification": "PVC",
+    "code": "314.014",
+    "name": "Grampa Omega PVC 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 961,
+    "classification": "PVC",
+    "code": "314.056",
+    "name": "Grampa Omega PVC 25Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 962,
+    "classification": "PVC",
+    "code": "314.016",
+    "name": "Grampa Omega PVC 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 963,
+    "classification": "PVC",
+    "code": "314.017",
+    "name": "Grampa Omega PVC 50 Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 964,
+    "classification": "PVC",
+    "code": "314.018",
+    "name": "Grampa Omega PVC 63 Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 965,
+    "classification": "PVC",
+    "code": "347.107",
+    "name": "Grasera PVC salida 63 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 966,
+    "classification": "PVC",
+    "code": "347.089",
+    "name": "Nicho de Ose PVC",
+    "unit": "Un."
+  },
+  {
+    "id": 967,
+    "classification": "PVC",
+    "code": "347.090",
+    "name": "Ramal Y PVC  40 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 968,
+    "classification": "PVC",
+    "code": "347.039",
+    "name": "Ramal Y Pvc 110 mm HH",
+    "unit": "Un."
+  },
+  {
+    "id": 969,
+    "classification": "PVC",
+    "code": "347.094",
+    "name": "Ramal Y PVC 110/63 mm HH",
+    "unit": "Un."
+  },
+  {
+    "id": 970,
+    "classification": "PVC",
+    "code": "347.119",
+    "name": "Ramal Y PVC 110mm/50mm",
+    "unit": "Un."
+  },
+  {
+    "id": 971,
+    "classification": "PVC",
+    "code": "347.040",
+    "name": "Ramal Y Pvc 110Mm/63 mm MH",
+    "unit": "Un."
+  },
+  {
+    "id": 972,
+    "classification": "PVC",
+    "code": "347.041",
+    "name": "Ramal Y Pvc 160/110 mm HH",
+    "unit": "Un."
+  },
+  {
+    "id": 973,
+    "classification": "PVC",
+    "code": "347.042",
+    "name": "Ramal Y Pvc 200Mm/160 mm HH",
+    "unit": "Un."
+  },
+  {
+    "id": 974,
+    "classification": "PVC",
+    "code": "347.043",
+    "name": "Ramal Y Pvc 40 mm HH",
+    "unit": "Un."
+  },
+  {
+    "id": 975,
+    "classification": "PVC",
+    "code": "347.127",
+    "name": "Ramal Y Pvc 40 mm MH",
+    "unit": "Un."
+  },
+  {
+    "id": 976,
+    "classification": "PVC",
+    "code": "347.044",
+    "name": "Ramal Y Pvc 50 mm HH",
+    "unit": "Un."
+  },
+  {
+    "id": 977,
+    "classification": "PVC",
+    "code": "347.108",
+    "name": "Ramal y PVC 50 mm MH",
+    "unit": "Un."
+  },
+  {
+    "id": 978,
+    "classification": "PVC",
+    "code": "347.045",
+    "name": "Ramal Y Pvc 63 mm HH",
+    "unit": "Un."
+  },
+  {
+    "id": 979,
+    "classification": "PVC",
+    "code": "347.126",
+    "name": "Ramal Y Pvc 63 mm MH",
+    "unit": "Un."
+  },
+  {
+    "id": 980,
+    "classification": "PVC",
+    "code": "347.046",
+    "name": "Receptáculo Para Ducha C/Rejilla",
+    "unit": "Un."
+  },
+  {
+    "id": 981,
+    "classification": "PVC",
+    "code": "347.047",
+    "name": "Reduccion Pvc 110 A 63 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 982,
+    "classification": "PVC",
+    "code": "347.048",
+    "name": "Reduccion Pvc 160 A 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 983,
+    "classification": "PVC",
+    "code": "347.049",
+    "name": "Reduccion Pvc 200 A 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 984,
+    "classification": "PVC",
+    "code": "347.050",
+    "name": "Reduccion Pvc 200 A 160Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 985,
+    "classification": "PVC",
+    "code": "347.051",
+    "name": "Reduccion Pvc 50 A 40 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 986,
+    "classification": "PVC",
+    "code": "347.052",
+    "name": "Reducción Pvc 63 A 40 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 987,
+    "classification": "PVC",
+    "code": "347.053",
+    "name": "Reduccion Pvc 63 A 50 mm",
+    "unit": "Un."
+  },
+  {
+    "id": 988,
+    "classification": "PVC",
+    "code": "347.054",
+    "name": "Rejilla De Ventilacion PVC C/ Marco 10X10 Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 989,
+    "classification": "PVC",
+    "code": "347.055",
+    "name": "Rejilla De Ventilacion PVC C/ Marco 20X20 Cm",
+    "unit": "Un."
+  },
+  {
+    "id": 990,
+    "classification": "PVC",
+    "code": "347.152",
+    "name": "Rejilla De Ventilacion Ø63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 991,
+    "classification": "PVC",
+    "code": "347.134",
+    "name": "Sifon Corrugado Pvc 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 992,
+    "classification": "PVC",
+    "code": "347.056",
+    "name": "Sifon Corrugado Pvc 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 993,
+    "classification": "PVC",
+    "code": "347.115",
+    "name": "Sifon Desconector 110/160Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 994,
+    "classification": "PVC",
+    "code": "347.057",
+    "name": "Sifon Desconector 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 995,
+    "classification": "PVC",
+    "code": "347.058",
+    "name": "Sifon Desconector 160Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 996,
+    "classification": "PVC",
+    "code": "347.059",
+    "name": "Sifon Rigido Pvc 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 997,
+    "classification": "PVC",
+    "code": "347.120",
+    "name": "Silleta PVC 110 /160MM",
+    "unit": "Un."
+  },
+  {
+    "id": 998,
+    "classification": "PVC",
+    "code": "347.091",
+    "name": "Silleta PVC 110 MM",
+    "unit": "Un."
+  },
+  {
+    "id": 999,
+    "classification": "PVC",
+    "code": "347.116",
+    "name": "Silleta PVC 160/200 MM",
+    "unit": "Un."
+  },
+  {
+    "id": 1000,
+    "classification": "PVC",
+    "code": "347.130",
+    "name": "Silleta PVC 160/250 MM",
+    "unit": "Un."
+  },
+  {
+    "id": 1001,
+    "classification": "PVC",
+    "code": "347.121",
+    "name": "Silleta PVC 200 /110MM",
+    "unit": "Un."
+  },
+  {
+    "id": 1002,
+    "classification": "PVC",
+    "code": "347.060",
+    "name": "Sombrerete Pvc 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1003,
+    "classification": "PVC",
+    "code": "347.062",
+    "name": "Sombrerete Pvc 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1004,
+    "classification": "PVC",
+    "code": "347.061",
+    "name": "Sombrerete Pvc 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1005,
+    "classification": "PVC",
+    "code": "347.063",
+    "name": "Tapa De Pegar Pvc 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1006,
+    "classification": "PVC",
+    "code": "347.064",
+    "name": "Tapa De Pegar Pvc 160Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1007,
+    "classification": "PVC",
+    "code": "347.065",
+    "name": "Tapa De Pegar Pvc 200Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1008,
+    "classification": "PVC",
+    "code": "347.066",
+    "name": "Tapa De Pegar Pvc 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1009,
+    "classification": "PVC",
+    "code": "347.067",
+    "name": "Tapa De Pegar Pvc 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1010,
+    "classification": "PVC",
+    "code": "347.068",
+    "name": "Tapa De Pegar Pvc 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1011,
+    "classification": "PVC",
+    "code": "347.069",
+    "name": "Tapon Con Rosca Pvc 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1012,
+    "classification": "PVC",
+    "code": "347.070",
+    "name": "Tapon Con Rosca Pvc 160Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1013,
+    "classification": "PVC",
+    "code": "347.072",
+    "name": "Tapon Con Rosca Pvc 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1014,
+    "classification": "PVC",
+    "code": "347.073",
+    "name": "Tapon Con Rosca Pvc 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1015,
+    "classification": "PVC",
+    "code": "347.074",
+    "name": "Tapon Con Rosca Pvc 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1016,
+    "classification": "PVC",
+    "code": "347.075",
+    "name": "Tee De Inspeccion Pvc 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1017,
+    "classification": "PVC",
+    "code": "347.076",
+    "name": "Tee De Inspeccion Pvc 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1018,
+    "classification": "PVC",
+    "code": "347.086",
+    "name": "Tee PVC 110/63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1019,
+    "classification": "PVC",
+    "code": "347.077",
+    "name": "Tee Pvc 110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1020,
+    "classification": "PVC",
+    "code": "347.112",
+    "name": "Tee PVC 110Mm MH",
+    "unit": "Un."
+  },
+  {
+    "id": 1021,
+    "classification": "PVC",
+    "code": "347.118",
+    "name": "Tee PVC 160/110Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1022,
+    "classification": "PVC",
+    "code": "347.078",
+    "name": "Tee Pvc 160Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1023,
+    "classification": "PVC",
+    "code": "347.079",
+    "name": "Tee Pvc 200Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1024,
+    "classification": "PVC",
+    "code": "347.080",
+    "name": "Tee Pvc 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1025,
+    "classification": "PVC",
+    "code": "347.123",
+    "name": "Tee Pvc 40Mm MH",
+    "unit": "Un."
+  },
+  {
+    "id": 1026,
+    "classification": "PVC",
+    "code": "347.081",
+    "name": "Tee Pvc 50Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1027,
+    "classification": "PVC",
+    "code": "347.082",
+    "name": "Tee Pvc 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1028,
+    "classification": "PVC",
+    "code": "347.113",
+    "name": "Tee PVC 63Mm MH",
+    "unit": "Un."
+  },
+  {
+    "id": 1029,
+    "classification": "PVC",
+    "code": "314.026",
+    "name": "Valvula Cocina Pvc",
+    "unit": "Un."
+  },
+  {
+    "id": 1030,
+    "classification": "Termofusión",
+    "code": "348.058",
+    "name": "Caño Termofusión 1\" 4mt. (32mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 1031,
+    "classification": "Termofusión",
+    "code": "348.004",
+    "name": "Caño Termofusión 1/2\" 4 mt (20mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 1032,
+    "classification": "Termofusión",
+    "code": "348.005",
+    "name": "Caño Termofusión 3/4\" 4mt. (25mm)",
+    "unit": "Un."
+  },
+  {
+    "id": 1033,
+    "classification": "Termofusión",
+    "code": "348.007",
+    "name": "Codo Termofusión 20 mm 90°",
+    "unit": "Un."
+  },
+  {
+    "id": 1034,
+    "classification": "Termofusión",
+    "code": "348.049",
+    "name": "Codo Termofusión 20mm 45º",
+    "unit": "Un."
+  },
+  {
+    "id": 1035,
+    "classification": "Termofusión",
+    "code": "348.009",
+    "name": "Codo Termofusión 25 mm 90º",
+    "unit": "Un."
+  },
+  {
+    "id": 1036,
+    "classification": "Termofusión",
+    "code": "348.059",
+    "name": "Codo Termofusión 32 mm 90º",
+    "unit": "Un."
+  },
+  {
+    "id": 1037,
+    "classification": "Termofusión",
+    "code": "348.010",
+    "name": "Codo Termofusión 40 mm 90º",
+    "unit": "Un."
+  },
+  {
+    "id": 1038,
+    "classification": "Termofusión",
+    "code": "348.050",
+    "name": "Codo Termofusión 63mm 90º",
+    "unit": "Un."
+  },
+  {
+    "id": 1039,
+    "classification": "Termofusión",
+    "code": "348.011",
+    "name": "Codo Tf 90º 20Mm R/Metalica Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 1040,
+    "classification": "Termofusión",
+    "code": "348.012",
+    "name": "Codo Tf 90º 20Mm R/Metalica Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 1041,
+    "classification": "Termofusión",
+    "code": "348.013",
+    "name": "Codo Tf 90º 25Mm R/Metalica Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 1042,
+    "classification": "Termofusión",
+    "code": "348.014",
+    "name": "Codo Tf 90º 25Mm R/Metalica Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 1043,
+    "classification": "Termofusión",
+    "code": "348.015",
+    "name": "Cupla Termofusión 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1044,
+    "classification": "Termofusión",
+    "code": "348.016",
+    "name": "Cupla Termofusión 20Mm Rosca Metalica Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 1045,
+    "classification": "Termofusión",
+    "code": "348.017",
+    "name": "Cupla Termofusión 20Mm Rosca Metalica Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 1046,
+    "classification": "Termofusión",
+    "code": "348.018",
+    "name": "Cupla Termofusión 25Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1047,
+    "classification": "Termofusión",
+    "code": "348.061",
+    "name": "Cupla Termofusión 32Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1048,
+    "classification": "Termofusión",
+    "code": "348.063",
+    "name": "Cupla Termofusión 32Mm Rosca Metálica Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 1049,
+    "classification": "Termofusión",
+    "code": "348.019",
+    "name": "Cupla Termofusión 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1050,
+    "classification": "Termofusión",
+    "code": "348.056",
+    "name": "Cupla Termofusión 40Mm Rosca Metalica Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 1051,
+    "classification": "Termofusión",
+    "code": "348.055",
+    "name": "Cupla Termofusión 40Mm Rosca Metalica Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 1052,
+    "classification": "Termofusión",
+    "code": "348.041",
+    "name": "Cupla TF inserto metálico macho 1 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 1053,
+    "classification": "Termofusión",
+    "code": "348.020",
+    "name": "Desvio Termofusión 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1054,
+    "classification": "Termofusión",
+    "code": "348.021",
+    "name": "Desvio Termofusión 25Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1055,
+    "classification": "Termofusión",
+    "code": "348.022",
+    "name": "Llave De Paso 20Mm Para Termofusión",
+    "unit": "Un."
+  },
+  {
+    "id": 1056,
+    "classification": "Termofusión",
+    "code": "348.023",
+    "name": "Llave De Paso 25Mm Para Termofusión",
+    "unit": "Un."
+  },
+  {
+    "id": 1057,
+    "classification": "Termofusión",
+    "code": "348.064",
+    "name": "Llave De Paso 32Mm Para Termofusión",
+    "unit": "Un."
+  },
+  {
+    "id": 1058,
+    "classification": "Termofusión",
+    "code": "347.109",
+    "name": "Llave de Paso Metálica Para Lavarropas de 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 1059,
+    "classification": "Termofusión",
+    "code": "348.027",
+    "name": "Reducción Termofusión 25Mm A 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1060,
+    "classification": "Termofusión",
+    "code": "348.028",
+    "name": "Reducción Termofusión 32Mm A 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1061,
+    "classification": "Termofusión",
+    "code": "348.029",
+    "name": "Reduccion Termofusión 32Mm A 25Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1062,
+    "classification": "Termofusión",
+    "code": "348.030",
+    "name": "Reduccion Termofusión 40Mm A 25Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1063,
+    "classification": "Termofusión",
+    "code": "348.065",
+    "name": "Reducción Termofusión 40Mm a 32Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1064,
+    "classification": "Termofusión",
+    "code": "348.031",
+    "name": "Tapa Termofusión 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1065,
+    "classification": "Termofusión",
+    "code": "348.042",
+    "name": "Tee Termofusión 1 1/2\"",
+    "unit": "Un."
+  },
+  {
+    "id": 1066,
+    "classification": "Termofusión",
+    "code": "348.032",
+    "name": "Tee Termofusión 20Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1067,
+    "classification": "Termofusión",
+    "code": "348.033",
+    "name": "Tee Termofusión 25Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1068,
+    "classification": "Termofusión",
+    "code": "348.060",
+    "name": "Tee Termofusión 32Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1069,
+    "classification": "Termofusión",
+    "code": "348.034",
+    "name": "Tee Termofusión 40Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1070,
+    "classification": "Termofusión",
+    "code": "348.051",
+    "name": "Tee Termofusión 63Mm",
+    "unit": "Un."
+  },
+  {
+    "id": 1071,
+    "classification": "Termofusión",
+    "code": "348.035",
+    "name": "Tee Tf 20Mm R/Metalica Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 1072,
+    "classification": "Termofusión",
+    "code": "348.036",
+    "name": "Tee Tf 20Mm R/Metalica Macho",
+    "unit": "Un."
+  },
+  {
+    "id": 1073,
+    "classification": "Termofusión",
+    "code": "348.048",
+    "name": "Tee Tf 25Mm R/Metalica Hembra",
+    "unit": "Un."
+  },
+  {
+    "id": 1074,
+    "classification": "Termofusión",
+    "code": "348.053",
+    "name": "Unión doble Termofusión",
+    "unit": "Un."
+  }
+]

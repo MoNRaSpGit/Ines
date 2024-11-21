@@ -126,3 +126,9 @@
     margin-top: 15px;
   }
   
+
+  .miercolesImage {
+    transition: opacity 40s ease-in-out, transform 40s ease-in-out; /* Duración más lenta */
+    z-index: 1000; /* Asegurar que la imagen esté encima de otros elementos */
+  }
+  

@@ -60,3 +60,21 @@
     transform: scale(1);
   }
 }
+
+.fixedButton {
+  position: fixed;
+  bottom: 20px; /* Distancia desde la parte inferior */
+  right: 20px; /* Distancia desde la parte derecha */
+  padding: 10px 20px;
+  background-color: #007bff; /* Azul, puedes cambiarlo */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 1000; /* Asegúrate de que esté por encima de otros elementos */
+}
+
+.fixedButton:hover {
+  background-color: #0056b3; /* Color más oscuro al pasar el mouse */
+}
+

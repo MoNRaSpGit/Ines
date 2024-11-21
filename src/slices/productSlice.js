@@ -1,17 +1,16 @@
-// src/redux/slices/productSlice.js
 import { createSlice } from '@reduxjs/toolkit';
+import productos from '../productoJSON/productos_limpios.json'; // Ajusta la ruta según tu estructura
 
 const initialState = {
-  products: [
-    { id: 1, name: 'Cemento Portland', price: 120, stock: 0 },
-    { id: 2, name: 'Arena Fina', price: 50, stock: 0 },
-    { id: 3, name: 'Hierro Corrugado', price: 300, stock: 0 },
-    { id: 4, name: 'Ladrillo Común', price: 10, stock: 0 },
-    { id: 5, name: 'Cal Hidratada', price: 80, stock: 0 },
-    { id: 6, name: 'Teja Colonial', price: 25, stock: 0 },
-    { id: 7, name: 'Azulejos Cerámicos', price: 150, stock: 0 },
-    { id: 8, name: 'Tubo PVC', price: 100, stock: 0 },
-  ],
+  products: productos
+    .filter((producto) => producto.id !== 1) // Excluye la fila de encabezados
+    .map((producto) => ({
+      id: producto.id, // Utiliza el ID del JSON
+      name: producto.name, // Nombre del insumo
+      classification: producto.classification, // Clasificación del insumo
+      code: producto.code, // Código del insumo
+      unit: producto.unit, // Unidad
+    })),
   selectedProducts: [],
 };
 
@@ -21,28 +20,118 @@ const productSlice = createSlice({
   reducers: {
     addProductToSelection: (state, action) => {
       const { id, quantity } = action.payload;
-      const product = state.products.find(p => p.id === id);
+      const product = state.products.find((p) => p.id === id);
       if (product) {
-        const selectedProduct = state.selectedProducts.find(p => p.id === id);
+        const selectedProduct = state.selectedProducts.find((p) => p.id === id);
         if (!selectedProduct) {
-          state.selectedProducts.push({ ...product, quantity, purchased: 0 });
+          state.selectedProducts.push({
+            ...product,
+            initialQuantity: quantity, // Cantidad inicial seleccionada
+            quantity, // Inicialmente igual a la cantidad seleccionada
+            pendingDelivery: 0,
+            deliveredTotal: 0,
+            purchasedTotal: 0,
+          });
         } else {
-          selectedProduct.quantity = quantity;
+          selectedProduct.initialQuantity = quantity;
+          selectedProduct.quantity = quantity; // Actualizar cantidad seleccionada
         }
       }
-    },
+    },    
     removeProductFromSelection: (state, action) => {
-      state.selectedProducts = state.selectedProducts.filter(p => p.id !== action.payload);
+      state.selectedProducts = state.selectedProducts.filter((p) => p.id !== action.payload);
     },
     purchaseProduct: (state, action) => {
-      const { id, purchaseQuantity } = action.payload;
-      const selectedProduct = state.selectedProducts.find(p => p.id === id);
-      if (selectedProduct && purchaseQuantity <= selectedProduct.quantity - selectedProduct.purchased) {
-        selectedProduct.purchased += purchaseQuantity;
+      const { id, purchaseQuantity, purchaseDate } = action.payload;
+      const selectedProduct = state.selectedProducts.find((p) => p.id === id);
+    
+      if (!selectedProduct) {
+        console.error(`Producto con ID ${id} no encontrado en la lista seleccionada.`);
+        return;
       }
-    },
+    
+      if (purchaseQuantity > 0) {
+        // Incrementar los pendientes
+        selectedProduct.pendingDelivery = (selectedProduct.pendingDelivery || 0) + purchaseQuantity;
+    
+        // Registrar el total comprado
+        selectedProduct.purchasedTotal = (selectedProduct.purchasedTotal || 0) + purchaseQuantity;
+    
+        // Registrar la compra en el historial
+        selectedProduct.purchaseHistory = selectedProduct.purchaseHistory || [];
+        selectedProduct.purchaseHistory.push({ quantity: purchaseQuantity, date: purchaseDate });
+      } else {
+        console.error('Cantidad de compra inválida.');
+      }
+    },    
+    updateStockAfterDelivery: (state, action) => {
+      const { id, deliveredQuantity } = action.payload;
+      const selectedProduct = state.selectedProducts.find((p) => p.id === id);
+    
+      if (!selectedProduct) {
+        console.error(`Producto con ID ${id} no encontrado en la lista seleccionada.`);
+        return;
+      }
+    
+      const pendingDelivery = selectedProduct.pendingDelivery || 0;
+    
+      if (deliveredQuantity >= 0 && deliveredQuantity <= pendingDelivery) {
+        // Reducir los pendientes
+        selectedProduct.pendingDelivery -= deliveredQuantity;
+    
+        // Acumular el total entregado
+        selectedProduct.deliveredTotal = (selectedProduct.deliveredTotal || 0) + deliveredQuantity;
+    
+        // Calcular la cantidad actual correctamente
+        selectedProduct.quantity =
+          selectedProduct.initialQuantity - selectedProduct.deliveredTotal - selectedProduct.pendingDelivery;
+    
+        // Registrar la fecha de llegada si se confirma la entrega
+        if (deliveredQuantity > 0) {
+          selectedProduct.arrivalDate = new Date().toISOString().split('T')[0]; // Fecha actual
+        }
+      } else {
+        console.error(`Cantidad entregada inválida para el producto ${id}`);
+      }
+    },           
+    addPurchaseNumber: (state, action) => {
+      const { id, purchaseNumber } = action.payload;
+      const selectedProduct = state.selectedProducts.find((p) => p.id === id);
+    
+      if (!selectedProduct) {
+        console.error(`Producto con ID ${id} no encontrado en la lista seleccionada.`);
+        return;
+      }
+    
+      // Añadir el número de compra al historial y al producto en general
+      if (selectedProduct.purchaseHistory) {
+        selectedProduct.purchaseHistory.forEach((entry) => {
+          if (!entry.purchaseNumber) {
+            entry.purchaseNumber = purchaseNumber; // Añade el número de compra
+          }
+        });
+      }
+      // Guardar el número de compra también en el producto principal
+      selectedProduct.purchaseNumber = purchaseNumber;
+    },       
+    confirmPurchase: (state, action) => {
+      const { id, purchaseQuantity } = action.payload;
+      const product = state.stock.byId[id];
+    
+      if (product && product.currentQuantity >= purchaseQuantity) {
+        product.currentQuantity -= purchaseQuantity; // Reducir stock actual
+        product.purchasedTotal = (product.purchasedTotal || 0) + purchaseQuantity; // Registrar total comprado
+      }
+    },    
   },
 });
 
-export const { addProductToSelection, removeProductFromSelection, purchaseProduct } = productSlice.actions;
+export const {
+  addProductToSelection,
+  removeProductFromSelection,
+  purchaseProduct,
+  updateStockAfterDelivery,
+  confirmPurchase,
+  addPurchaseNumber,
+} = productSlice.actions;
 export default productSlice.reducer;
