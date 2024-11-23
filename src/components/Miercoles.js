@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ProductTable from '../components/ProductoTable';
 import SelectedList from '../components/SelectedList';
 import PurchaseList from '../components/PurchaseList';
+import FilteredPurchases from '../components/FilteredPurchases'; // Importa el nuevo componente
 import Navigation from '../components/Navigation'; // Componente de navegación
 import '../Style/Miercoles.css';
 import pelo2 from '../images/pelo2.png'; // Imagen que aparece y desaparece
@@ -38,7 +39,7 @@ const Miercoles = () => {
 
         setTimeout(() => setShowImage(false), 1500); // Ocultar después de 1.5 segundos
         setImageCount((prevCount) => prevCount + 1);
-      }, 1500); // Cambiar cada 3 segundos
+      }, 1500); // Cambiar cada 1.5 segundos
 
       return () => clearInterval(interval); // Limpiar intervalo al desmontar
     }
@@ -46,7 +47,12 @@ const Miercoles = () => {
 
   return (
     <div className="miercolesContainer">
-      <Navigation view={view} onChangeView={handleViewChange} minimal /> {/* Navegación minimalista */}
+      {/* Cambiar la posición de navegación solo en PurchaseList */}
+      <Navigation
+        view={view}
+        onChangeView={handleViewChange}
+        customClass={view === 'truck' ? 'topRight' : ''}
+      />
       <h1 className="miercolesTitle">¡Bienvenida, Inés!</h1>
       <h2 className="miercolesSubtitle">Hoy es un lindo {todayName}</h2>
 
@@ -82,6 +88,7 @@ const Miercoles = () => {
       {view === 'products' && <ProductTable />}
       {view === 'selected' && <SelectedList />}
       {view === 'purchased' && <PurchaseList />}
+      {view === 'truck' && <FilteredPurchases />} {/* Nueva vista para "Camión" */}
     </div>
   );
 };

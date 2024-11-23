@@ -103,29 +103,57 @@
     }
   }
   
-  /* Estilo de productos comprados */
-  .purchaseListContainer {
-    margin-top: 30px;
-    text-align: center;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background-color: #f9f9f9;
-    animation: fadeIn 1s ease-in-out;
-  }
+  /*/* Estilo de productos comprados */
+/* Contenedor principal para centrar la tabla */
+.purchaseListContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra todo el contenido horizontalmente */
+ 
+  min-height: 100vh; /* Asegura que el contenedor ocupe toda la altura de la ventana */
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+/* Tabla de productos comprados */
+.purchaseListTable {
   
-  .purchaseListContainer h2 {
-    font-size: 1.8rem;
-    color: #333;
-    margin-bottom: 15px;
+  max-width: 3800px; /* Ancho máximo de la tabla */
+  border-collapse: collapse; /* Unir bordes de celdas */
+}
+
+.purchaseListTable th,
+.purchaseListTable td {
+  padding: 10px 15px; /* Espaciado interno */
+  text-align: left; /* Alineación del texto */
+  border: 1px solid #ddd; /* Bordes suaves */
+}
+
+.purchaseListTable th {
+  background-color: #f2f2f2; /* Fondo de los encabezados */
+  font-weight: bold; /* Negrita en encabezados */
+}
+
+.purchaseListTable td {
+  background-color: #fff; /* Fondo blanco para filas */
+}
+
+/* Ajustar el texto del título */
+.purchaseListContainer h2 {
+  text-align: center; /* Asegura que el título también esté centrado */
+}
+
+
+/* Animación */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
   }
-  
-  .purchaseListContainer p {
-    font-size: 1.2rem;
-    color: #555;
-    margin-top: 15px;
+  to {
+    opacity: 1;
   }
-  
+}
+
 
   .miercolesImage {
     transition: opacity 40s ease-in-out, transform 40s ease-in-out; /* Duración más lenta */

@@ -6,6 +6,7 @@ import Miercoles from './components/Miercoles';
 import ProductTable from './components/ProductoTable';
 import SelectedList from './components/SelectedList';
 import Pamela from './components/Pamela';
+import FilteredPurchases from './components/FilteredPurchases';
 
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
           <Route path="/productos" element={<ProductTable />} />
           <Route path="/seleccionados" element={<SelectedList />} />
           <Route path="/pamela" element={<Pamela />} />
+          <Route path="/filtered-purchases" element={<FilteredPurchases />} />
         </Routes>
       </Router>
     </Provider>

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { purchaseProduct, removeProductFromSelection } from '../slices/productSlice'; // Incluye la acción de eliminación
+import { purchaseProduct, removeProductFromSelection } from '../slices/productSlice';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const SelectedList = () => {
@@ -8,6 +8,13 @@ const SelectedList = () => {
   const dispatch = useDispatch();
   const [purchaseQuantities, setPurchaseQuantities] = useState({});
   const [purchaseDates, setPurchaseDates] = useState({});
+
+  // Función para obtener la fecha local en formato YYYY-MM-DD
+  const getLocalDate = () => {
+    const today = new Date();
+    const offsetDate = new Date(today.getTime() - today.getTimezoneOffset() * 60000);
+    return offsetDate.toISOString().split('T')[0];
+  };
 
   const handlePurchaseChange = (id, value) => {
     setPurchaseQuantities({ ...purchaseQuantities, [id]: value });
@@ -19,7 +26,7 @@ const SelectedList = () => {
 
   const handlePurchase = (id) => {
     const purchaseQuantity = parseInt(purchaseQuantities[id], 10) || 0;
-    const purchaseDate = purchaseDates[id] || new Date().toISOString().split('T')[0]; // Fecha actual por defecto
+    const purchaseDate = purchaseDates[id] || getLocalDate(); // Usa la fecha local
     const selectedProduct = selectedProducts.find((p) => p.id === id);
 
     if (!selectedProduct) {
@@ -44,7 +51,7 @@ const SelectedList = () => {
       }));
       setPurchaseDates((prevDates) => ({
         ...prevDates,
-        [id]: new Date().toISOString().split('T')[0], // Resetea la fecha al día actual
+        [id]: getLocalDate(), // Resetea la fecha al día actual
       }));
     } else {
       alert('Cantidad inválida. Verifique el stock disponible.');
@@ -78,7 +85,7 @@ const SelectedList = () => {
               <tr key={product.id}>
                 <td>{product.id}</td>
                 <td>{product.name}</td>
-                <td>{product.quantity}</td> {/* Mostrar cantidad actual calculada */}
+                <td>{product.quantity}</td>
                 <td>{product.unit}</td>
                 <td>{product.purchasedTotal || 0}</td>
                 <td>{product.deliveredTotal || 0}</td>
@@ -87,7 +94,7 @@ const SelectedList = () => {
                   <input
                     type="date"
                     className="form-control"
-                    value={purchaseDates[product.id] || new Date().toISOString().split('T')[0]}
+                    value={purchaseDates[product.id] || getLocalDate()} // Usa la fecha local
                     onChange={(e) => handleDateChange(product.id, e.target.value)}
                   />
                 </td>
@@ -108,7 +115,7 @@ const SelectedList = () => {
                     </button>
                     <button
                       className="btn btn-danger"
-                      onClick={() => handleRemove(product.id)} // Llama a la función de eliminación
+                      onClick={() => handleRemove(product.id)}
                     >
                       Eliminar
                     </button>

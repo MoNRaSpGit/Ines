@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useSelector, useDispatch } from 'react-redux';
 import { addPurchaseNumber } from '../slices/productSlice';
 
 const Pamela = () => {
   const selectedProducts = useSelector((state) => state.products.selectedProducts);
   const dispatch = useDispatch();
+  const [visibleProducts, setVisibleProducts] = useState(selectedProducts);
   const [purchaseNumbers, setPurchaseNumbers] = useState({});
 
   const handlePurchaseNumberChange = (id, value) => {
@@ -21,12 +22,15 @@ const Pamela = () => {
     // Despacha la acción para actualizar el número de compra
     dispatch(addPurchaseNumber({ id, purchaseNumber }));
     alert(`Formulario enviado para el producto ${id} con el número de compra: ${purchaseNumber}`);
+
+    // Elimina el producto del estado local para que desaparezca la fila
+    setVisibleProducts((prevProducts) => prevProducts.filter((product) => product.id !== id));
   };
 
   return (
     <div className="container mt-5">
       <h2>Formulario de Compra</h2>
-      {selectedProducts.length > 0 ? (
+      {visibleProducts.length > 0 ? (
         <table className="table table-striped">
           <thead>
             <tr>
@@ -39,7 +43,7 @@ const Pamela = () => {
             </tr>
           </thead>
           <tbody>
-            {selectedProducts.map((product) => (
+            {visibleProducts.map((product) => (
               <tr key={product.id}>
                 <td>{product.id}</td>
                 <td>{product.name}</td>

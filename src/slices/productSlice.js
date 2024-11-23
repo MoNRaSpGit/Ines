@@ -96,6 +96,9 @@ const productSlice = createSlice({
     },           
     addPurchaseNumber: (state, action) => {
       const { id, purchaseNumber } = action.payload;
+
+     // console.log("tengo que tener el numero", action.payload);
+      
       const selectedProduct = state.selectedProducts.find((p) => p.id === id);
     
       if (!selectedProduct) {
@@ -103,17 +106,20 @@ const productSlice = createSlice({
         return;
       }
     
-      // Añadir el número de compra al historial y al producto en general
-      if (selectedProduct.purchaseHistory) {
-        selectedProduct.purchaseHistory.forEach((entry) => {
-          if (!entry.purchaseNumber) {
-            entry.purchaseNumber = purchaseNumber; // Añade el número de compra
-          }
-        });
-      }
-      // Guardar el número de compra también en el producto principal
+      // Guardar el número de compra en el producto principal
       selectedProduct.purchaseNumber = purchaseNumber;
-    },       
+    
+      // Si no existe un historial, créalo
+      if (!selectedProduct.purchaseHistory) {
+        selectedProduct.purchaseHistory = [];
+      }
+    
+      // Añadir el número de compra al historial si no existe
+      const existingEntry = selectedProduct.purchaseHistory.find((entry) => entry.purchaseNumber === purchaseNumber);
+      if (!existingEntry) {
+        selectedProduct.purchaseHistory.push({ purchaseNumber });
+      }
+    },    
     confirmPurchase: (state, action) => {
       const { id, purchaseQuantity } = action.payload;
       const product = state.stock.byId[id];

@@ -1,8 +1,8 @@
 import React from 'react';
 import '../Style/Navigation.css';
 
-const Navigation = ({ view, onChangeView }) => (
-  <div className="navigation">
+const Navigation = ({ view, onChangeView, customClass = '' }) => (
+  <div className={`navigation ${customClass}`}>
     <button
       className={`navButton ${view === 'products' ? 'active' : ''}`}
       onClick={() => onChangeView('products')}
@@ -20,6 +20,12 @@ const Navigation = ({ view, onChangeView }) => (
       onClick={() => onChangeView('purchased')}
     >
       Comprados
+    </button>
+    <button
+      className={`navButton ${view === 'truck' ? 'active' : ''}`}
+      onClick={() => onChangeView('truck')}
+    >
+      Camión
     </button>
   </div>
 );
