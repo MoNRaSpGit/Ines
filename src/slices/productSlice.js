@@ -1,4 +1,5 @@
-import { createSlice } from '@reduxjs/toolkit';
+import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+import axios from 'axios';
 import productos from '../productoJSON/productos_limpios.json'; // Ajusta la ruta según tu estructura
 
 const initialState = {
@@ -13,6 +14,24 @@ const initialState = {
     })),
   selectedProducts: [],
 };
+
+export const updateDeliveredAndArrival = createAsyncThunk(
+  'products/updateDeliveredAndArrival',
+  async ({ id, quantity_delivered, arrival_date }, thunkAPI) => {
+    try {
+      const response = await axios.put(`http://localhost:3001/api/purchases/${id}`, {
+        quantity_delivered,
+        arrival_date,
+      });
+      return { id, quantity_delivered, arrival_date };
+    } catch (error) {
+      return thunkAPI.rejectWithValue(error.response.data);
+    }
+  }
+);
+
+
+
 
 const productSlice = createSlice({
   name: 'products',

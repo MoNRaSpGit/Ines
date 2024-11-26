@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const formatDate = (dateString) => {
   if (!dateString) return 'No registrada';
@@ -23,12 +25,26 @@ const FilteredPurchases = () => {
       const response = await axios.get('http://localhost:3001/api/purchases/filter', {
         params: filters,
       });
-      setResults(response.data);
+  
+      // Eliminar duplicados antes de actualizar los resultados
+      const uniqueResults = response.data.filter(
+        (item, index, self) => self.findIndex((i) => i.id === item.id) === index
+      );
+  
+      setResults(uniqueResults);
+      toast.success('Datos filtrados obtenidos exitosamente.', {
+        position: 'top-right',
+        icon: '🔍',
+      });
     } catch (error) {
       console.error('Error al filtrar los datos:', error);
-      alert('Error al obtener los datos filtrados.');
+      toast.error('Error al obtener los datos filtrados.', {
+        position: 'top-right',
+        icon: '⚠️',
+      });
     }
   };
+  
 
   const handleDeliveredChange = (id, value) => {
     setDeliveredQuantities((prev) => ({ ...prev, [id]: value }));
@@ -40,21 +56,35 @@ const FilteredPurchases = () => {
 
   const handleConfirmArrival = async (id) => {
     const deliveredQuantity = parseInt(deliveredQuantities[id], 10) || 0;
-    const arrivalDate = arrivalDates[id] || null;
-
+    const arrivalDate = arrivalDates[id] ? new Date(arrivalDates[id]).toISOString().split('T')[0] : null;
+  
     if (deliveredQuantity <= 0 || !arrivalDate) {
-      alert('Por favor ingrese una cantidad válida y una fecha de llegada.');
+      toast.error('Por favor ingrese una cantidad válida y una fecha de llegada.', {
+        position: 'top-right',
+        icon: '⚠️',
+      });
       return;
     }
-
+  
+    const today = new Date();
+    const todayFormatted = today.toISOString().split('T')[0]; // Formato YYYY-MM-DD
+  
+    if (arrivalDate < todayFormatted) {
+      toast.error('La fecha de llegada no puede ser anterior a la fecha actual.', {
+        position: 'top-right',
+        icon: '⚠️',
+      });
+      return;
+    }
+  
     try {
       const response = await axios.put(`http://localhost:3001/api/purchases/${id}`, {
         quantity_delivered: deliveredQuantity,
         arrival_date: arrivalDate,
       });
+  
       console.log('Actualización exitosa:', response.data);
-
-      // Actualizar los resultados localmente
+  
       setResults((prevResults) =>
         prevResults.map((result) =>
           result.id === id
@@ -67,16 +97,25 @@ const FilteredPurchases = () => {
             : result
         )
       );
-
-      alert('Datos actualizados exitosamente.');
+  
+      toast.success('Datos actualizados exitosamente.', {
+        position: 'top-right',
+        icon: '✅',
+      });
     } catch (error) {
       console.error('Error al actualizar los datos:', error);
-      alert('Error al actualizar los datos.');
+      toast.error('Error al actualizar los datos.', {
+        position: 'top-right',
+        icon: '⚠️',
+      });
     }
   };
+  
+  
 
   return (
     <div className="container-fluid mt-5">
+      <ToastContainer />
       <h2>Filtrar Compras</h2>
       <div className="row g-3 mb-3">
         <div className="col-md-6">
@@ -85,10 +124,8 @@ const FilteredPurchases = () => {
           </label>
           <input
             type="date"
-            id="shipping_date"
-            name="shipping_date"
             className="form-control"
-            value={filters.shipping_date}
+            value={filters.shipping_date || new Date().toISOString().split('T')[0]} // Día actual como valor por defecto
             onChange={handleFilterChange}
           />
         </div>
@@ -155,7 +192,7 @@ const FilteredPurchases = () => {
                     <input
                       type="date"
                       className="form-control"
-                      value={arrivalDates[result.id] || ''}
+                      value={arrivalDates[result.id] || new Date().toISOString().split('T')[0]} // Día actual como valor por defecto
                       onChange={(e) => handleArrivalDateChange(result.id, e.target.value)}
                     />
                   </td>

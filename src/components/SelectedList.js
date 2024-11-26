@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { purchaseProduct, removeProductFromSelection } from '../slices/productSlice';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const SelectedList = () => {
@@ -30,7 +32,7 @@ const SelectedList = () => {
     const selectedProduct = selectedProducts.find((p) => p.id === id);
 
     if (!selectedProduct) {
-      alert('Producto no encontrado.');
+      toast.error('Producto no encontrado.');
       return;
     }
 
@@ -53,18 +55,40 @@ const SelectedList = () => {
         ...prevDates,
         [id]: getLocalDate(), // Resetea la fecha al día actual
       }));
+
+      toast.success(`Compra exitosa para el producto "${selectedProduct.name}"!`, {
+        position: 'bottom-right',
+        icon: '✅',
+      });
     } else {
-      alert('Cantidad inválida. Verifique el stock disponible.');
+      toast.warn('Cantidad inválida. Verifique el stock disponible.', {
+        position: 'bottom-right',
+        icon: '⚠️',
+      });
     }
   };
 
   const handleRemove = (id) => {
-    dispatch(removeProductFromSelection(id)); // Llama a la acción de eliminación
+    const product = selectedProducts.find((p) => p.id === id);
+    if (!product) {
+      toast.error('Producto no encontrado para eliminar.', {
+        position: 'bottom-right',
+        icon: '❌',
+      });
+      return;
+    }
+
+    dispatch(removeProductFromSelection(id));
+    toast.info(`Producto "${product.name}" eliminado correctamente.`, {
+      position: 'bottom-left',
+      icon: '🗑️',
+    });
   };
 
   return (
     <div className="container mt-5">
       <h2>Productos Seleccionados</h2>
+      <ToastContainer />
       {selectedProducts.length > 0 ? (
         <table className="table table-striped">
           <thead>

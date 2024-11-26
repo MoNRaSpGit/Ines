@@ -1,0 +1,55 @@
+.weather-container {
+    position: absolute; /* Ubicación fija en la esquina */
+    top: 50px; /* Distancia desde la parte superior */
+    left: 50px; /* Mueve el contenedor a la izquierda */
+    padding: 1rem; /* Espaciado interno */
+    background: linear-gradient(to right, #8e9eab, #eef2f3); /* Fondo degradado más suave */
+    border-radius: 8px;
+    color: #333; /* Color de texto más oscuro para legibilidad */
+    font-size: 0.9rem; /* Tamaño de texto */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra */
+    width: auto; /* Ajusta automáticamente al contenido */
+    max-width: 250px; /* Limita el ancho máximo */
+    text-align: left;
+    z-index: 100; /* Asegura que se mantenga sobre otros elementos */
+}
+
+
+.weather-container p {
+    margin: 0.5rem 0; /* Margen reducido entre líneas */
+}
+
+.weather-container h2 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.weather-container span {
+    font-weight: bold;
+    color: #af7ac5;
+
+
+}
+
+.weather-emoji {
+    margin-right: 0.3rem; /* Espaciado compacto entre emoji y texto */
+}
+
+.weather-clock {
+    font-size: 0.8rem; /* Tamaño pequeño para el reloj */
+    color: #af7ac5;
+    margin-top: 0.5rem; /* Espacio superior del reloj */
+}
+
+
+
+.weather-label {
+    font-weight: bold;
+    color: #f9a825; /* Puedes ajustar este color según el diseño */
+}
+
+.weather-clock span {
+    display: inline-block;
+    margin-right: 4px;
+}

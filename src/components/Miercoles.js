@@ -1,53 +1,74 @@
 import React, { useState, useEffect } from 'react';
+import { useSelector } from 'react-redux';
+import { useNavigate } from 'react-router-dom';
 import ProductTable from '../components/ProductoTable';
 import SelectedList from '../components/SelectedList';
 import PurchaseList from '../components/PurchaseList';
-import FilteredPurchases from '../components/FilteredPurchases'; // Importa el nuevo componente
-import Navigation from '../components/Navigation'; // Componente de navegación
+import FilteredPurchases from '../components/FilteredPurchases';
+import Navigation from '../components/Navigation';
 import '../Style/Miercoles.css';
-import pelo2 from '../images/pelo2.png'; // Imagen que aparece y desaparece
+import pelo2 from '../images/pelo2.png';
+import WeatherInfo from '../components/WeatherInfo';
+
 
 const Miercoles = () => {
-  const [view, setView] = useState('products'); // Manejar vistas
-  const [simulatedDay, setSimulatedDay] = useState(null); // Simular el día miércoles
-  const [showImage, setShowImage] = useState(false); // Mostrar/ocultar imagen
-  const [position, setPosition] = useState({ top: 0, left: 0 }); // Posición aleatoria de la imagen
-  const [imageCount, setImageCount] = useState(0); // Contador para limitar apariciones
+  const navigate = useNavigate();
+  const { isAuthenticated, user } = useSelector((state) => state.auth); // Datos del usuario y autenticación
+  const [view, setView] = useState('products');
+  const [simulatedDay, setSimulatedDay] = useState(null);
+  const [showImage, setShowImage] = useState(false);
+  const [position, setPosition] = useState({ top: 0, left: 0 });
+  const [imageCount, setImageCount] = useState(0);
 
   const daysOfWeek = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado'];
   const currentDate = new Date();
   const today = simulatedDay !== null ? simulatedDay : currentDate.getDay();
   const todayName = daysOfWeek[today];
 
+  useEffect(() => {
+    if (!isAuthenticated) {
+      navigate('/login'); // Redirigir al login si no está autenticado
+    }
+  }, [isAuthenticated, navigate]);
+
   const toggleSimulateMiercoles = () => {
     setSimulatedDay((prev) => (prev === 3 ? null : 3)); // 3 es miércoles
   };
 
   const handleViewChange = (newView) => {
+    // Verificar acceso según el rol
+    if (user.role === 'common' && newView !== 'pamela') {
+      alert('No tienes acceso a esta vista.');
+      return;
+    }
+    if (user.role === 'admin' && newView === 'pamela') {
+      alert('No tienes acceso a esta vista.');
+      return;
+    }
     setView(newView);
   };
 
   useEffect(() => {
-    const maxAppearances = 5; // Límite de apariciones de la imagen
+    const maxAppearances = 5;
     if (todayName === 'miércoles' && imageCount < maxAppearances) {
       const interval = setInterval(() => {
-        setShowImage(true); // Mostrar la imagen
+        setShowImage(true);
         setPosition({
           top: Math.random() * window.innerHeight * 0.8,
           left: Math.random() * window.innerWidth * 0.8,
         });
 
-        setTimeout(() => setShowImage(false), 1500); // Ocultar después de 1.5 segundos
+        setTimeout(() => setShowImage(false), 1500);
         setImageCount((prevCount) => prevCount + 1);
-      }, 1500); // Cambiar cada 1.5 segundos
+      }, 1500);
 
-      return () => clearInterval(interval); // Limpiar intervalo al desmontar
+      return () => clearInterval(interval);
     }
   }, [todayName, imageCount]);
 
   return (
     <div className="miercolesContainer">
-      {/* Cambiar la posición de navegación solo en PurchaseList */}
+       <WeatherInfo />
       <Navigation
         view={view}
         onChangeView={handleViewChange}
@@ -85,10 +106,12 @@ const Miercoles = () => {
         {simulatedDay === 3 ? 'Volver al día actual' : 'Simular miércoles'}
       </button>
 
-      {view === 'products' && <ProductTable />}
-      {view === 'selected' && <SelectedList />}
-      {view === 'purchased' && <PurchaseList />}
-      {view === 'truck' && <FilteredPurchases />} {/* Nueva vista para "Camión" */}
+      {/* Controlar las vistas según el rol */}
+      {view === 'products' && user.role === 'admin' && <ProductTable />}
+      {view === 'selected' && user.role === 'admin' && <SelectedList />}
+      {view === 'purchased' && user.role === 'admin' && <PurchaseList />}
+      {view === 'truck' && user.role === 'admin' && <FilteredPurchases />}
+      {view === 'pamela' && user.role === 'common' && <div>Pamela - Vista para usuarios comunes</div>}
     </div>
   );
 };

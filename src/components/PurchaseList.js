@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 import axios from 'axios';
-import { useNavigate } from 'react-router-dom';
 import dayjs from 'dayjs'; // Importamos Day.js
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const PurchaseList = () => {
   const selectedProducts = useSelector((state) => state.products.selectedProducts);
-  const navigate = useNavigate();
   const [purchasedProducts, setPurchasedProducts] = useState(
     selectedProducts.filter((product) => product.purchasedTotal > 0)
   );
@@ -28,19 +28,26 @@ const PurchaseList = () => {
 
       if (response.status === 200 || response.status === 201) {
         console.log('Datos enviados al backend:', response.data);
-        alert('Datos guardados en la base de datos exitosamente.');
-        setPurchasedProducts([]);
+        toast.success('Datos guardados en la base de datos exitosamente!', {
+          position: 'top-center',
+          icon: '📦',
+        });
+        setPurchasedProducts([]); // Limpiar productos después de guardar
       } else {
         throw new Error('Respuesta inesperada del servidor.');
       }
     } catch (error) {
       console.error('Error al guardar en la base de datos:', error);
-      alert('Error al guardar los datos en la base de datos.');
+      toast.error('Error al guardar los datos en la base de datos.', {
+        position: 'top-center',
+        icon: '⚠️',
+      });
     }
   };
 
   return (
     <div className="purchaseListContainer">
+      <ToastContainer />
       <h2>Productos Comprados</h2>
       {purchasedProducts.length > 0 ? (
         <div>
@@ -74,14 +81,8 @@ const PurchaseList = () => {
               ))}
             </tbody>
           </table>
-          <button className="btn btn-success mt-3" onClick={() => navigate('/pamela')}>
-            Ir a Pamela
-          </button>
           <button className="btn btn-info mt-3" onClick={handleSaveToDatabase}>
-            Guardar en la Base de Datos
-          </button>
-          <button className="btn btn-secondary" onClick={() => navigate('/filtered-purchases')}>
-            Ver Compras Filtradas
+            Guardar
           </button>
         </div>
       ) : (
