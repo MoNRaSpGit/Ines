@@ -8,8 +8,6 @@ const LoginUser = () => {
   const navigate = useNavigate();
   const { loading, error, isAuthenticated, user } = useSelector((state) => state.auth);
 
-  
-
   const [formData, setFormData] = useState({
     username: 'Ines',
     password: 'admin',
@@ -41,6 +39,10 @@ const LoginUser = () => {
       }
     }
   }, [isAuthenticated, user, navigate]);
+
+  const handleRegisterRedirect = () => {
+    navigate('/register'); // Cambia '/register' por la ruta real de tu página de registro
+  };
 
   return (
     <div className="container mt-4">
@@ -78,13 +80,13 @@ const LoginUser = () => {
           {loading ? 'Iniciando...' : 'Iniciar Sesión'}
         </button>
       </form>
-      <button
-        className="btn btn-secondary mt-3"
-        onClick={handleSetDefault}
-      >
+      <button className="btn btn-secondary mt-3" onClick={handleSetDefault}>
         Usar credenciales predeterminadas: "maria / 123456"
       </button>
       {error && <div className="alert alert-danger mt-3">{error}</div>}
+      <div className="mt-4">
+        <p>No tienes usuario? <button className="btn btn-link p-0" onClick={handleRegisterRedirect}>Regístrate aquí</button></p>
+      </div>
     </div>
   );
 };

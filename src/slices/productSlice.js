@@ -14,7 +14,7 @@ const initialState = {
       code: producto.code, // Código del insumo
       unit: producto.unit, // Unidad
     })),
-  selectedProducts: [],
+  selectedProducts: [],  
 };
 
 export const updateDeliveredAndArrival = createAsyncThunk(
