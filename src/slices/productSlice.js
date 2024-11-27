@@ -2,6 +2,8 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 import productos from '../productoJSON/productos_limpios.json'; // Ajusta la ruta según tu estructura
 
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
+
 const initialState = {
   products: productos
     .filter((producto) => producto.id !== 1) // Excluye la fila de encabezados
@@ -19,7 +21,7 @@ export const updateDeliveredAndArrival = createAsyncThunk(
   'products/updateDeliveredAndArrival',
   async ({ id, quantity_delivered, arrival_date }, thunkAPI) => {
     try {
-      const response = await axios.put(`http://localhost:3001/api/purchases/${id}`, {
+      const response = await axios.put(`${API_BASE_URL}/api/purchases/${id}`, {
         quantity_delivered,
         arrival_date,
       });

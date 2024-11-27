@@ -1,12 +1,13 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
 
 // Acción para obtener productos sin número de compra
 export const fetchNoAssignedProducts = createAsyncThunk(
   'pamela/fetchNoAssignedProducts',
   async (_, thunkAPI) => {
     try {
-      const response = await axios.get('http://localhost:3001/api/products/no-assigned');
+      const response = await axios.get(`${API_BASE_URL}/api/products/no-assigned`);
       return response.data;
     } catch (error) {
       return thunkAPI.rejectWithValue(error.response?.data || 'Error desconocido');
@@ -19,7 +20,7 @@ export const updatePurchaseNumber = createAsyncThunk(
   'pamela/updatePurchaseNumber',
   async ({ id, purchaseNumber }, thunkAPI) => {
     try {
-      const response = await axios.put(`http://localhost:3001/api/products/${id}`, {
+      const response = await axios.put(`${API_BASE_URL}/api/products/${id}`, {
         purchase_number: purchaseNumber,
       });
       return response.data;

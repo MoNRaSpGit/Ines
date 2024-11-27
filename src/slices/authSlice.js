@@ -1,10 +1,12 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
+
 export const loginUser = createAsyncThunk(
     'auth/loginUser',
     async (userData, thunkAPI) => {
       try {
-        const response = await fetch('https://ines-back-1.onrender.com/api/login', {
+        const response = await fetch(`${API_BASE_URL}/api/login`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(userData),

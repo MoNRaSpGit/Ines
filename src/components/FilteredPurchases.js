@@ -14,15 +14,18 @@ const FilteredPurchases = () => {
   const [results, setResults] = useState([]);
   const [deliveredQuantities, setDeliveredQuantities] = useState({});
   const [arrivalDates, setArrivalDates] = useState({});
-
+  
   const handleFilterChange = (e) => {
     const { name, value } = e.target;
     setFilters((prev) => ({ ...prev, [name]: value }));
   };
+  
 
+  const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
+  
   const fetchFilteredResults = async () => {
     try {
-      const response = await axios.get('http://localhost:3001/api/purchases/filter', {
+      const response = await axios.get(`${API_BASE_URL}/api/purchases/filter`, {
         params: filters,
       });
   
@@ -78,7 +81,7 @@ const FilteredPurchases = () => {
     }
   
     try {
-      const response = await axios.put(`http://localhost:3001/api/purchases/${id}`, {
+      const response = await axios.put(`${API_BASE_URL}/api/purchases/${id}`, {
         quantity_delivered: deliveredQuantity,
         arrival_date: arrivalDate,
       });

@@ -1,15 +1,25 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import axios from 'axios';
 import dayjs from 'dayjs'; // Importamos Day.js
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+
+
 const PurchaseList = () => {
   const selectedProducts = useSelector((state) => state.products.selectedProducts);
-  const [purchasedProducts, setPurchasedProducts] = useState(
-    selectedProducts.filter((product) => product.purchasedTotal > 0)
-  );
+  const [purchasedProducts, setPurchasedProducts] = useState([]);
+
+  const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
+
+  // Sincronizar los productos comprados con los productos seleccionados
+  useEffect(() => {
+    const filteredPurchasedProducts = selectedProducts.filter(
+      (product) => product.purchasedTotal > 0
+    );
+    setPurchasedProducts(filteredPurchasedProducts);
+  }, [selectedProducts]);
 
   const handleSaveToDatabase = async () => {
     const dataToSave = purchasedProducts.map((product) => ({
@@ -24,7 +34,7 @@ const PurchaseList = () => {
     }));
 
     try {
-      const response = await axios.post('http://localhost:3001/api/purchases', dataToSave);
+      const response = await axios.post(`${API_BASE_URL}/api/purchases`, dataToSave);
 
       if (response.status === 200 || response.status === 201) {
         console.log('Datos enviados al backend:', response.data);

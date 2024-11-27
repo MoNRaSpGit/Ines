@@ -1,4 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
 
 // Acción asíncrona para registrar un usuario
 export const registerUser = createAsyncThunk(
@@ -8,7 +9,7 @@ export const registerUser = createAsyncThunk(
         // Asegurar el rol por defecto si no está presente
         const userDataWithRole = { ...userData, role: 'common' };
   
-        const response = await fetch('http://localhost:3001/api/register', { // Verifica la URL
+        const response = await fetch(`${API_BASE_URL}/api/register`, { // Verifica la URL
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(userDataWithRole),

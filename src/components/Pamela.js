@@ -13,51 +13,9 @@ const Pamela = () => {
 
   // Sincronizar el estado local con los productos del estado global
   useEffect(() => {
-    setLocalProducts(products);
-  }, [products]);
-
-  // Conexión WebSocket y carga inicial
-  useEffect(() => {
     dispatch(fetchNoAssignedProducts());
-    let ws;
-  
-    const connectWebSocket = () => {
-      ws = new WebSocket('ws://localhost:3002');
-  
-      ws.onopen = () => {
-        console.log('Conexión WebSocket abierta');
-      };
-  
-      ws.onmessage = (event) => {
-        const newProduct = JSON.parse(event.data);
-  
-        // Verifica si el producto ya existe en el estado global
-        dispatch((dispatch, getState) => {
-          const currentProducts = getState().pamela.products;
-          const exists = currentProducts.some((product) => product.id === newProduct.id);
-          if (!exists) {
-            dispatch({ type: 'pamela/addProduct', payload: newProduct });
-          }
-        });
-      };
-  
-      ws.onerror = (error) => {
-        console.error('WebSocket error:', error);
-      };
-  
-      ws.onclose = () => {
-        console.log('WebSocket cerrado. Reintentando en 3 segundos...');
-        setTimeout(connectWebSocket, 3000);
-      };
-    };
-  
-    connectWebSocket();
-  
-    return () => {
-      if (ws) ws.close();
-    };
-  }, [dispatch]);
-  
+    setLocalProducts(products);
+  }, [products, dispatch]);
 
   // Manejar el cambio de número de compra
   const handlePurchaseNumberChange = (id, value) => {
@@ -71,13 +29,13 @@ const Pamela = () => {
       toast.error('Por favor, ingrese un número de compra válido.', { position: 'top-center' });
       return;
     }
-  
+
     try {
       await dispatch(updatePurchaseNumber({ id, purchaseNumber })).unwrap();
       toast.success(`Número de compra actualizado para el producto ${id}: ${purchaseNumber}`, {
         position: 'top-right',
       });
-  
+
       // Eliminar producto tanto del estado local como del global
       setLocalProducts((prevProducts) => prevProducts.filter((product) => product.id !== id));
       dispatch({ type: 'pamela/removeProduct', payload: id }); // Acción para remover del estado global
@@ -86,7 +44,6 @@ const Pamela = () => {
       console.error('Error al actualizar el número de compra:', error);
     }
   };
-  
 
   // Formatear la fecha a YYYY-MM-DD
   const formatDate = (dateString) => {
@@ -118,7 +75,6 @@ const Pamela = () => {
       {/* Tabla de productos */}
       {localProducts.length > 0 ? (
         <div className="card shadow p-3">
-        
           <table className="table table-striped">
             <thead>
               <tr>
