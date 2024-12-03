@@ -23,16 +23,6 @@ const NavigationBar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <NavLink className="nav-link" to="/bienvenida/upload-excel">
-                Upload Excel
-              </NavLink>
-            </li>
-            <li className="nav-item">
-              <NavLink className="nav-link" to="/bienvenida/camion">
-                Camión
-              </NavLink>
-            </li>
-            <li className="nav-item">
               <NavLink className="nav-link" to="/bienvenida/compras">
                 Compras
               </NavLink>
@@ -40,6 +30,11 @@ const NavigationBar = () => {
             <li className="nav-item">
               <NavLink className="nav-link" to="/bienvenida/lista-compras">
                 Lista Compras
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="/bienvenida/camion">
+                Camión
               </NavLink>
             </li>
             <li className="nav-item">
