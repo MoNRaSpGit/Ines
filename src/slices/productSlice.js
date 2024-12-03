@@ -32,21 +32,20 @@ export const updateDeliveredAndArrival = createAsyncThunk(
   }
 );
 
-
-
-
 const productSlice = createSlice({
   name: 'products',
   initialState,
   reducers: {
     addProductToSelection: (state, action) => {
-      const { id, quantity } = action.payload;
+      const { id, quantity, classification, code } = action.payload;
       const product = state.products.find((p) => p.id === id);
       if (product) {
         const selectedProduct = state.selectedProducts.find((p) => p.id === id);
         if (!selectedProduct) {
           state.selectedProducts.push({
             ...product,
+            classification,
+            code,
             initialQuantity: quantity, // Cantidad inicial seleccionada
             quantity, // Inicialmente igual a la cantidad seleccionada
             pendingDelivery: 0,
@@ -118,8 +117,6 @@ const productSlice = createSlice({
     addPurchaseNumber: (state, action) => {
       const { id, purchaseNumber } = action.payload;
 
-     // console.log("tengo que tener el numero", action.payload);
-      
       const selectedProduct = state.selectedProducts.find((p) => p.id === id);
     
       if (!selectedProduct) {
@@ -143,13 +140,32 @@ const productSlice = createSlice({
     },    
     confirmPurchase: (state, action) => {
       const { id, purchaseQuantity } = action.payload;
-      const product = state.stock.byId[id];
+      const product = state.selectedProducts.find((p) => p.id === id);
     
-      if (product && product.currentQuantity >= purchaseQuantity) {
-        product.currentQuantity -= purchaseQuantity; // Reducir stock actual
+      if (product && product.quantity >= purchaseQuantity) {
+        product.quantity -= purchaseQuantity; // Reducir stock actual
         product.purchasedTotal = (product.purchasedTotal || 0) + purchaseQuantity; // Registrar total comprado
       }
-    },    
+    },
+    updateProductPurchaseNumber: (state, action) => {
+      const { id, purchaseNumber } = action.payload;
+      console.log('Ejecutando updateProductPurchaseNumber en productSlice:', { id, purchaseNumber });
+    
+      let selectedProduct = state.selectedProducts.find((p) => p.id === id);
+      if (selectedProduct) {
+        selectedProduct.purchaseNumber = purchaseNumber;
+        console.log('Producto actualizado en productSlice:', selectedProduct);
+      } else {
+        console.warn(`Producto con ID ${id} no encontrado en selectedProducts. Intentando añadir...`);
+        const productFromList = state.products.find((p) => p.id === id);
+        if (productFromList) {
+          state.selectedProducts.push({ ...productFromList, purchaseNumber });
+          console.log('Producto añadido a selectedProducts con número de compra:', purchaseNumber);
+        } else {
+          console.error(`Producto con ID ${id} no encontrado en la lista de productos.`);
+        }
+      }
+    },       
   },
 });
 
@@ -160,5 +176,7 @@ export const {
   updateStockAfterDelivery,
   confirmPurchase,
   addPurchaseNumber,
+  updateProductPurchaseNumber,
 } = productSlice.actions;
+
 export default productSlice.reducer;

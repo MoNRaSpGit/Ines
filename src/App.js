@@ -1,15 +1,21 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
-
-import { Provider, useSelector } from 'react-redux'; 
+import { Provider, useSelector } from 'react-redux';
 import store from './store/store';
+
+import NavigationBar from './components/NavigationBar'; // Importar la barra de navegación
 import Miercoles from './components/Miercoles';
 import ProductTable from './components/ProductoTable';
 import SelectedList from './components/SelectedList';
-import Pamela from './components/Pamela';
 import FilteredPurchases from './components/FilteredPurchases';
 import RegisterUser from './components/RegisterUser';
 import LoginUser from './components/LoginUser';
+import UploadExcel from './components/UploadExcel';
+import Compras from './components/Compras';
+import ListaCompras from './components/ListaCompras';
+import Ximena from './components/Ximena';
+import Camion from './components/Camion';
+import Bienvenida from './components/Bienvenida'; // Importar Bienvenida
 
 // Ruta protegida con verificación de autenticación
 const ProtectedRoute = ({ children }) => {
@@ -25,13 +31,24 @@ const ProtectedRoute = ({ children }) => {
 const App = () => {
   return (
     <Provider store={store}>
-      <Router basename="/Ines" future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
+      <Router basename="/Ines">
+        {/* Barra de navegación global */}
+        <NavigationBar />
+
         <Routes>
           {/* Rutas públicas */}
           <Route path="/login" element={<LoginUser />} />
           <Route path="/register" element={<RegisterUser />} />
 
           {/* Rutas protegidas */}
+          <Route
+            path="/bienvenida/*"
+            element={
+              <ProtectedRoute>
+                <Bienvenida />
+              </ProtectedRoute>
+            }
+          />
           <Route
             path="/miercoles"
             element={
@@ -65,10 +82,42 @@ const App = () => {
             }
           />
           <Route
-            path="/pamela"
+            path="/upload-excel"
             element={
               <ProtectedRoute>
-                <Pamela />
+                <UploadExcel />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/compras"
+            element={
+              <ProtectedRoute>
+                <Compras />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/lista-compras"
+            element={
+              <ProtectedRoute>
+                <ListaCompras />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/ximena"
+            element={
+              <ProtectedRoute>
+                <Ximena />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/camion"
+            element={
+              <ProtectedRoute>
+                <Camion />
               </ProtectedRoute>
             }
           />
@@ -76,7 +125,11 @@ const App = () => {
           {/* Redirigir raíz según autenticación */}
           <Route
             path="/"
-            element={<Navigate to="/miercoles" />}
+            element={
+              <ProtectedRoute>
+                <Navigate to="/bienvenida" />
+              </ProtectedRoute>
+            }
           />
         </Routes>
       </Router>

@@ -6,7 +6,7 @@ const NavigationBar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
-        <NavLink className="navbar-brand" to="/miercoles">
+        <NavLink className="navbar-brand" to="/bienvenida">
           Inicio
         </NavLink>
         <button
@@ -23,23 +23,28 @@ const NavigationBar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <NavLink className="nav-link" to="/productos">
-                Productos
+              <NavLink className="nav-link" to="/bienvenida/upload-excel">
+                Upload Excel
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/seleccionados">
-                Seleccionados
+              <NavLink className="nav-link" to="/bienvenida/camion">
+                Camión
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/filtered-purchases">
-                Filtrar Compras
+              <NavLink className="nav-link" to="/bienvenida/compras">
+                Compras
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/pamela">
-                Pamela
+              <NavLink className="nav-link" to="/bienvenida/lista-compras">
+                Lista Compras
+              </NavLink>
+            </li>
+            <li className="nav-item">
+              <NavLink className="nav-link" to="/bienvenida/stock">
+                Stock
               </NavLink>
             </li>
           </ul>

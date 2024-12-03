@@ -5,11 +5,11 @@ import ProductTable from '../components/ProductoTable';
 import SelectedList from '../components/SelectedList';
 import PurchaseList from '../components/PurchaseList';
 import FilteredPurchases from '../components/FilteredPurchases';
+import UploadExcel from '../components/UploadExcel';
 import Navigation from '../components/Navigation';
 import '../Style/Miercoles.css';
 import pelo2 from '../images/pelo2.png';
 import WeatherInfo from '../components/WeatherInfo';
-
 
 const Miercoles = () => {
   const navigate = useNavigate();
@@ -25,11 +25,19 @@ const Miercoles = () => {
   const today = simulatedDay !== null ? simulatedDay : currentDate.getDay();
   const todayName = daysOfWeek[today];
 
+  // Redirigir al login si no está autenticado
   useEffect(() => {
     if (!isAuthenticated) {
-      navigate('/login'); // Redirigir al login si no está autenticado
+      navigate('/login');
     }
   }, [isAuthenticated, navigate]);
+
+  // Redirigir al componente Ximena si el usuario tiene rol "common"
+  useEffect(() => {
+    if (user?.role === 'common') {
+      navigate('/ximena');
+    }
+  }, [user, navigate]);
 
   const toggleSimulateMiercoles = () => {
     setSimulatedDay((prev) => (prev === 3 ? null : 3)); // 3 es miércoles
@@ -37,12 +45,8 @@ const Miercoles = () => {
 
   const handleViewChange = (newView) => {
     // Verificar acceso según el rol
-    if (user.role === 'common' && newView !== 'pamela') {
-      alert('No tienes acceso a esta vista.');
-      return;
-    }
-    if (user.role === 'admin' && newView === 'pamela') {
-      alert('No tienes acceso a esta vista.');
+    if (user?.role === 'common') {
+      alert('No tienes acceso a otras vistas.');
       return;
     }
     setView(newView);
@@ -68,7 +72,7 @@ const Miercoles = () => {
 
   return (
     <div className="miercolesContainer">
-       <WeatherInfo />
+      <WeatherInfo />
       <Navigation
         view={view}
         onChangeView={handleViewChange}
@@ -107,11 +111,11 @@ const Miercoles = () => {
       </button>
 
       {/* Controlar las vistas según el rol */}
-      {view === 'products' && user.role === 'admin' && <ProductTable />}
-      {view === 'selected' && user.role === 'admin' && <SelectedList />}
-      {view === 'purchased' && user.role === 'admin' && <PurchaseList />}
-      {view === 'truck' && user.role === 'admin' && <FilteredPurchases />}
-      {view === 'pamela' && user.role === 'common' && <div>Pamela - Vista para usuarios comunes</div>}
+      {view === 'products' && user?.role === 'admin' && <ProductTable />}
+      {view === 'selected' && user?.role === 'admin' && <SelectedList />}
+      {view === 'purchased' && user?.role === 'admin' && <PurchaseList />}
+      {view === 'truck' && user?.role === 'admin' && <FilteredPurchases />}
+      {view === 'uploadExcel' && <UploadExcel />}
     </div>
   );
 };

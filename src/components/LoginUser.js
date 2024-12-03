@@ -29,19 +29,19 @@ const LoginUser = () => {
     });
   };
 
-  // Usar useEffect para manejar la navegación después de la autenticación
+  // Redirigir según el rol después de la autenticación
   useEffect(() => {
     if (isAuthenticated) {
-      if (user.role === 'admin') {
-        navigate('/miercoles');
-      } else {
-        navigate('/pamela'); // Ejemplo para usuarios comunes
+      if (user?.role === 'admin') {
+        navigate('/miercoles'); // Redirigir al componente Miercoles para administradores
+      } else if (user?.role === 'common') {
+        navigate('/ximena'); // Redirigir al componente Ximena para usuarios comunes
       }
     }
   }, [isAuthenticated, user, navigate]);
 
   const handleRegisterRedirect = () => {
-    navigate('/register'); // Cambia '/register' por la ruta real de tu página de registro
+    navigate('/register'); // Cambiar la ruta según corresponda
   };
 
   return (
@@ -84,8 +84,14 @@ const LoginUser = () => {
         Usar credenciales predeterminadas: "maria / 123456"
       </button>
       {error && <div className="alert alert-danger mt-3">{error}</div>}
+
       <div className="mt-4">
-        <p>No tienes usuario? <button className="btn btn-link p-0" onClick={handleRegisterRedirect}>Regístrate aquí</button></p>
+        <p>
+          No tienes usuario?{' '}
+          <button className="btn btn-link p-0" onClick={handleRegisterRedirect}>
+            Regístrate aquí
+          </button>
+        </p>
       </div>
     </div>
   );

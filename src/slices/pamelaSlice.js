@@ -65,8 +65,11 @@ const pamelaSlice = createSlice({
       })
       .addCase(updatePurchaseNumber.fulfilled, (state, action) => {
         const updatedProductId = action.payload.id;
+      
+        // Si el producto se encuentra en la lista de productos sin asignar, se elimina
         state.products = state.products.filter((product) => product.id !== updatedProductId);
       });
+      
   },
 });
 

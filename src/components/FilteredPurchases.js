@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import * as XLSX from 'xlsx'; // Importamos la librería xlsx
 
 const formatDate = (dateString) => {
   if (!dateString) return 'No registrada';
@@ -20,7 +21,6 @@ const FilteredPurchases = () => {
     setFilters((prev) => ({ ...prev, [name]: value }));
   };
   
-
   const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
   
   const fetchFilteredResults = async () => {
@@ -47,7 +47,6 @@ const FilteredPurchases = () => {
       });
     }
   };
-  
 
   const handleDeliveredChange = (id, value) => {
     setDeliveredQuantities((prev) => ({ ...prev, [id]: value }));
@@ -113,9 +112,25 @@ const FilteredPurchases = () => {
       });
     }
   };
-  
-  
 
+  // Función para exportar a Excel
+  const exportToExcel = () => {
+    if (results.length === 0) {
+      toast.error('No hay datos para exportar.', {
+        position: 'top-right',
+        icon: '⚠️',
+      });
+      return;
+    }
+
+    const worksheet = XLSX.utils.json_to_sheet(results);
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, 'Filtered Results');
+
+    // Generar archivo Excel y descargarlo
+    XLSX.writeFile(workbook, 'Filtered_Purchases.xlsx');
+  };
+  
   return (
     <div className="container-fluid mt-5">
       <ToastContainer />
@@ -130,6 +145,7 @@ const FilteredPurchases = () => {
             className="form-control"
             value={filters.shipping_date || new Date().toISOString().split('T')[0]} // Día actual como valor por defecto
             onChange={handleFilterChange}
+            name="shipping_date"
           />
         </div>
         <div className="col-md-6">
@@ -150,6 +166,8 @@ const FilteredPurchases = () => {
       <button className="btn btn-primary mb-4" onClick={fetchFilteredResults}>
         Filtrar
       </button>
+     
+
       {results.length > 0 ? (
         <div className="table-responsive w-100">
           <table className="table table-striped table-hover w-100">

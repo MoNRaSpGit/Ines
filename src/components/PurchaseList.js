@@ -1,11 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import axios from 'axios';
-import dayjs from 'dayjs'; // Importamos Day.js
+import dayjs from 'dayjs';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
-
 
 const PurchaseList = () => {
   const selectedProducts = useSelector((state) => state.products.selectedProducts);
@@ -15,11 +13,17 @@ const PurchaseList = () => {
 
   // Sincronizar los productos comprados con los productos seleccionados
   useEffect(() => {
+    console.log('selectedProducts en PurchaseList:', selectedProducts);
+    
+    // Filtra los productos que tienen un `purchasedTotal` mayor a 0
     const filteredPurchasedProducts = selectedProducts.filter(
       (product) => product.purchasedTotal > 0
     );
+    
     setPurchasedProducts(filteredPurchasedProducts);
+    console.log('purchasedProducts en PurchaseList después del filtro:', filteredPurchasedProducts);
   }, [selectedProducts]);
+  
 
   const handleSaveToDatabase = async () => {
     const dataToSave = purchasedProducts.map((product) => ({
@@ -29,20 +33,25 @@ const PurchaseList = () => {
       pending_delivery: product.pendingDelivery || 0,
       unit: product.unit || null,
       shipping_date: product.purchaseHistory[0]?.date
-        ? dayjs(product.purchaseHistory[0].date).format('YYYY-MM-DD') // Fecha en formato ISO para la base de datos
+        ? dayjs(product.purchaseHistory[0].date).format('YYYY-MM-DD')
         : null,
     }));
-
+  
     try {
+      console.log('Datos a enviar al backend:', dataToSave);
       const response = await axios.post(`${API_BASE_URL}/api/purchases`, dataToSave);
-
+  
       if (response.status === 200 || response.status === 201) {
         console.log('Datos enviados al backend:', response.data);
         toast.success('Datos guardados en la base de datos exitosamente!', {
           position: 'top-center',
           icon: '📦',
         });
-        setPurchasedProducts([]); // Limpiar productos después de guardar
+        
+        // Eliminar la limpieza manual del estado:
+        // setPurchasedProducts([]); // Limpiar productos después de guardar
+        
+        // En lugar de limpiar `purchasedProducts`, confiamos en el `useEffect` para sincronizar con `selectedProducts`
       } else {
         throw new Error('Respuesta inesperada del servidor.');
       }
@@ -54,7 +63,7 @@ const PurchaseList = () => {
       });
     }
   };
-
+  
   return (
     <div className="purchaseListContainer">
       <ToastContainer />
@@ -83,7 +92,7 @@ const PurchaseList = () => {
                   <td>{product.pendingDelivery || 0}</td>
                   <td>
                     {product.purchaseHistory?.length > 0
-                      ? dayjs(product.purchaseHistory[0].date).format('DD/MM/YYYY') // Fecha en formato DD/MM/YYYY
+                      ? dayjs(product.purchaseHistory[0].date).format('DD/MM/YYYY')
                       : 'No registrada'}
                   </td>
                   <td>{product.purchaseNumber || 'No asignado'}</td>
